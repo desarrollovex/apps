@@ -877,34 +877,6 @@
     "mode": false,
     "lista": [
       {
-        "icon": "http://static.dplay.tech/imagenes/universalcinema.png",
-        "name": "UNIVERSAL CINEMA",
-        "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnXvqCOyrhUuWEEalf/TK/Bg5D/BHlp8MyR9zpve5X3f5Q==",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibZmomv4ktxKY5lhbkyk2dBs"
-      },
-      {
-        "icon": "http://static.dplay.tech/imagenes/uncomedy.png",
-        "name": "UNIVERSAL COMEDY",
-        "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnVbA57AsmprxVLRMEtr75/myEF922Qy3jG79h9rTel4sA==",
-        "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibb8LyWCazbV0q/OV3EFKfiU",
-        "drm_scheme": "clearkey"
-      },
-      {
-        "icon": "http://static.dplay.tech/imagenes/uncrime.png",
-        "name": "UNIVERSAL CRIME",
-        "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnXkcCZ/trMWk4UzJffm3zTdyAWHPg/OsDxUTQys+QyfWg==",
-        "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibbi2400+uAO2Gu6aMyf8nYr",
-        "drm_scheme": "clearkey"
-      },
-      {
-        "icon": "http://static.dplay.tech/imagenes/unpremiere.png",
-        "name": "UNIVERSAL PREMIERE",
-        "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnW9z4Se5t1zlSpxDQb4JlWso4Dz+EhuRtfe/bYmzub8GQ==",
-        "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibbM5I5Yfg40lWbp98j86UVtoMeFb4KJlwFdip9S/9DssQ==",
-        "drm_scheme": "clearkey"
-      },
-      {
         "icon": "http://static.dplay.tech/imagenes/unreality.png",
         "name": "UNIVERSAL REALITY",
         "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnUBl0U4gOrzzH2ANRQIdc7DjoLQ2GnIQ/6eFuOftlLK+w==",
@@ -2565,23 +2537,23 @@
       {
         "icon": "https://static.flow.com.ar/images/861/CH_LOGO/350/500/0/0/1187688407114.png",
         "name": "PLAY BOY",
-        "drm_scheme": "clearkey",
-        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4wBz8NK1X5vYrLFV67JSbh2LolF6AumA7Yi2nnl+gRvBYWFKQKw3cLLjbauuAEiBtQ=",
-        "drm_license_url": "HCZtbqzut9luoVOjrMqam5s/6BXlssVkHouytKHc5UsR++go81rsMgaH1morNUe8YXOmBWS/cNM2b8nvlC0c7A=="
+        "uri": "5YdyVi+PL8QZpLM9X5SumhqEzF66E7LtO1G5KLXQgWuXAMZn5sjaffJaweQQpPF8sqMDQL3PdU11Ja98vT+BrOP3hlkwEiF4Ghtg6wYLfE4=",
+        "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibYH/y87n0lbVv1mi9jpBIDO",
+        "drm_scheme": "clearkey"
       },
       {
         "icon": "https://static.flow.com.ar/images/862/CH_LOGO/350/500/0/0/966764300744.png",
         "name": "VENUS",
-        "drm_scheme": "clearkey",
-        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4zT5ggpU/ChgZYLkNY/v4fbDvmYxkSyEvhyErKlO7tTil0e3HMoZR29q60JO37PjII=",
-        "drm_license_url": "HCZtbqzut9luoVOjrMqam5s/6BXlssVkHouytKHc5UuY8sNEg81VjgUYlVTu19sT9sFHSnRgFiNMUEB3Y4wXUQ=="
+        "uri": "5YdyVi+PL8QZpLM9X5SumhqEzF66E7LtO1G5KLXQgWsSqXYwvWrpmJHS8o0+ERP4Alc1RRO9WkhF9fYaBaulC66vHYRGVK7QE+Wsmo6C23c=",
+        "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibatUPNqt0vp053u7yKnwblD",
+        "drm_scheme": "clearkey"
       },
       {
         "icon": "https://static.flow.com.ar/images/863/CH_LOGO/350/500/0/0/2043466907628.png",
         "name": "SEX EXTREME",
-        "drm_scheme": "clearkey",
-        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4zsi6Nihb+FqedyFBUaxM2KGqRyEIdFUABC/4WPPCs5zMJyc8x538GATnFftIytcseo2B7OEid2gil34P+ARDWn",
-        "drm_license_url": "HCZtbqzut9luoVOjrMqam5s/6BXlssVkHouytKHc5UsoqMB4mhi97U7VyAhm3uq3qU6uze/2rtixULkqU9mX7g=="
+        "uri": "5YdyVi+PL8QZpLM9X5SumhqEzF66E7LtO1G5KLXQgWtVo/G5M25Lfp7pxxqyS+pidll/hYbrFVf+x0SWmFTUCE+XW5elEb1EXwbZd4J9bA5b6S8FnSOqL9fdeeZhM0tg",
+        "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibbkdQVTENaU+yxfuXwZY1ek",
+        "drm_scheme": "clearkey"
       }
     ]
   },
