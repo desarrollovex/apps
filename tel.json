@@ -383,25 +383,23 @@
     "mode": false,
     "lista": [
       {
-        "icon": "http://static.dplay.tech:8080/imagenes/daznf1.png",
+        "icon": "http://static.dplay.tech/imagenes/daznf1.png",
         "name": "DAZN F1",
-        "uri": "aQzLS6e/EXA49dg60WEabo4/hMKFISbucu8mDLhKS71baPNf17eMjmvC4vSIU0JoMkY/pUggNdsp7I7iYdY0yqACZMCOwBJ0YOeqrM6d1kmyEqVOkT4fgLoqi9Dw64CVvoc2Gr3iP98IP+kfJwVlk7jVxmLLxQ2YfQp8MLUm+lSeHYbWfYDp67LZVUrANcrv",
-        "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibZdn1N05WtlxoVRJudcVOOk",
-        "drm_scheme": "clearkey"
+        "drm_scheme": "clearkey",
+        "uri": "XCAa2za6nPqIzLiQ5Z3jEGonX/jLC0ytdSXdQrr9gHuaS1tTMUrjJQaoR4Fd7gd7ai9kCzV9IknXaqy8v8mye2p2Hptn5V6sdEZqvAHDCVU=",
+        "drm_license_url": "HCZtbqzut9luoVOjrMqamynTD1OUSsrNcRU4OdMGt6Or+pRQFyTSwPbog2XgE8QA"
       },
       {
-        "icon": "http://static.dplay.tech:8080/imagenes/daznf1.png",
-        "name": "DAZN F1",
-        "uri": "aQzLS6e/EXA49dg60WEabo4/hMKFISbucu8mDLhKS71baPNf17eMjmvC4vSIU0JoMkY/pUggNdsp7I7iYdY0yqACZMCOwBJ0YOeqrM6d1kmyEqVOkT4fgLoqi9Dw64CVvoc2Gr3iP98IP+kfJwVlk7jVxmLLxQ2YfQp8MLUm+lSeHYbWfYDp67LZVUrANcrv",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "p3w4YOr2vcNcc+A/yk81q7V9enJS1lEqwJBkJ+dRKBNYGR7Df5RV66Yy7Gb0gJ7T"
+        "icon": "https://img.sport-tv-guide.live/images/stations/a1164.png",
+        "name": "BEIN SPORTS EXTRA",
+        "uri": "wsX2rHfy0U7EH6776YVNSLHIDw6FVnn+oj69RolvE5LEt1+NBGvzZNjhiNTDbq8m+expz4v/OCYcVmqX8HHeFA=="
       },
       {
         "icon": "https://static.flow.com.ar/images/3545/CH_LOGO/60/40/350/500/92564610073951.png",
         "name": "ESPN PREMIUM",
-        "uri": "U6NqFyLqAa/7gjAwOBrY9CKaQ/2vgouLGyXV9lqZILQYPnVF5KOeMSxS3tyCknbzymGMD3kA9BpUDQPfqzD8JEw0fho7u+cwKtJXhSQR01fccjOTgLCcZTp0qISF1MeKjoSDaz/VbQo/zBlCeRt9SmP+u4Yvvkre3c+DkrJV2Dk=",
-        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apR66G24pRjsF8Zw6O17SpqFuv/LjsYJKfGwZ3T+zrGsnw==",
-        "drm_scheme": "clearkey"
+        "drm_scheme": "clearkey",
+        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4wGT52mdeZ3SD1iRaW1YsEsrL/9o7RanpAtZhH3jELrewnnhceYtiVo9p0kU9KnD2HUf1qJ8t4bvkIoUHU0hvA0NDypQD19x9OeGk3MOObSBA==",
+        "drm_license_url": "5YdyVi+PL8QZpLM9X5SumnXfVdiLbWmKfSu3LbQGVbf0MQTOkUHayICWw4qzZ96t"
       },
       {
         "icon": "https://static.flow.com.ar/images/3543/CH_LOGO/350/500/0/0/45176151073950.png",
