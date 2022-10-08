@@ -2340,73 +2340,79 @@
         "uri": "6AmOPh0CoV0+uf2Fj0YUjY2MB0NFYi1gdbunVIqzP0+tpEMptdRy8nPzl5q7L0vVAuKSLQKQ9vfWLwkfIMh4hw=="
       },
       {
+        "icon": "http://static.dplay.tech/imagenes/concertch.png",
+        "name": "CONCERT CHANNEL",
+        "uri": "TfhSHcurc+Tgoa37m05pyYYrdXXi6NYgAjAUYsdnHKaCV31Xp09y2rT+9t8wazTiReayF3ONmJYAB3+d6Vq12HJ1tA2EFZhXFdr7Aj3prsFfio+lFvZS6/4aEoM5ooyVrsV13ikulG7dH/Ixdj8uLA==",
+        "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibYQTTXAlJJ0qkInwexWmrAA",
+        "drm_scheme": "clearkey"
+      },
+      {
         "icon": "https://static.flow.com.ar/images/715/CH_LOGO/350/500/0/0/80393273073281.png",
         "name": "QUIERO TV",
         "uri": "5YdyVi+PL8QZpLM9X5SumhqEzF66E7LtO1G5KLXQgWsVfVdSQYfKDmfADCxmdUZOMjMBo4DtdrnwDrArjbN6hYlWi1cpamz9qUySEuDNffSyh4mUwd1Ul5Bqd0cZqy53",
-        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apRP2dNr0BP9q9TD8faBZRSpW9Hia/wV0aExLAyaPeQV5A==",
+        "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibYh16UvNTJCOM0G1T6H7vrf",
         "drm_scheme": "clearkey"
       },
       {
         "icon": "https://static.flow.com.ar/images/699/CH_LOGO/350/500/0/0/1116039107115.png",
         "name": "HTV",
         "uri": "5YdyVi+PL8QZpLM9X5SumhqEzF66E7LtO1G5KLXQgWuuEDZuTLd3F6f6r5IbWGgigpoPk6hFMNCbVdZPN4/OKGct5K/2IXhroRu75lC5G7U=",
-        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apQT14rUKR3vNhmQZ/Rym4+fOaTXXSGQRIZb3P9MT2LaUA==",
+        "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibaFjVJAiRtKon6fingiCWWm",
         "drm_scheme": "clearkey"
       },
       {
         "icon": "https://static.flow.com.ar/images/707/CH_LOGO/350/500/0/0/14664562073858.png",
         "name": "MTV",
         "uri": "5YdyVi+PL8QZpLM9X5SumhqEzF66E7LtO1G5KLXQgWvzRXZ6WFGS0E8914craQ/AJjgUG/A7H8AIatM8kdRpK9ttr5IupjfHxpLiOpxkM1I=",
-        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apQ+3gGPqGzvTPcWbIi5VOydW3Bhrpoixy9Qf7WOYAauuA==",
+        "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibZqBQ4XbAfYafm/am4eRgsl",
         "drm_scheme": "clearkey"
       },
       {
         "icon": "https://static.flow.com.ar/images/1022/CH_LOGO/350/500/0/0/3867624707727.png",
         "name": "MTV HITS",
         "uri": "5YdyVi+PL8QZpLM9X5SumhqEzF66E7LtO1G5KLXQgWuRKEA7mGVeuJ1kv2FX6ZJ0oGwKoeOd9R1TG4YtfgAtrAZmNh45Nbh+bdP2+/2m2/TMCYFFb0HoQ7tC+Cp8IwQD",
-        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apQ+3gGPqGzvTPcWbIi5VOydVWq3zbbyLGCC18ABlvlVow==",
+        "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibYz/ltITQyfJVNJqFK29+D7",
         "drm_scheme": "clearkey"
       },
       {
-        "icon": "http://static.dplay.tech:8080/imagenes/MTV_00s_remaster.png",
+        "icon": "http://static.dplay.tech/imagenes/MTV_00s_remaster.png",
         "name": "MTV 00s",
         "uri": "5YdyVi+PL8QZpLM9X5SumhqEzF66E7LtO1G5KLXQgWvgw9/sLu/JonE5bgIbGrXr04UzsP11TrAmrXwRoZfQe8Qamb/cq2KY+D/6nIZ4ZPg=",
-        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apQ+3gGPqGzvTPcWbIi5VOydElwTDMoFgv1lZRfdIovamA==",
+        "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibZGuwZtHDZtRilp+vNOBRWg",
         "drm_scheme": "clearkey"
       },
       {
-        "icon": "https://static.flow.com.ar/images/7018/CH_LOGO/350/500/0/0/89851195074330.png",
+        "icon": "https://static.flow.com.ar/images/7018/CH_LOGO/350/500/0/0/25297928074330.png",
         "name": "VORTERIX",
         "uri": "5YdyVi+PL8QZpLM9X5SumhqEzF66E7LtO1G5KLXQgWvzcwGA/J0m1EQyxThCwHxf0zEn01mfvEjRYVHHX3DYUKyA8WaNRkDge3YQkIHtvPkFaGfa+P9XTkXMXPqD75Q+",
-        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apRkMY6Scy/9Jstwek9FP871Xt3m55kIO2Q9zNjyNZHNgQ==",
+        "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibZ+LXRENf3KDWqvOsHT6Q/m",
         "drm_scheme": "clearkey"
       },
       {
         "icon": "https://static.flow.com.ar/images/674/CH_LOGO/350/500/0/0/3383758507230.png",
         "name": "CM",
         "uri": "5YdyVi+PL8QZpLM9X5SumhqEzF66E7LtO1G5KLXQgWutXbWOODNGBPrr21pJ0/fv7s8lscRSCqB19YyogAJPmHXBlH/f/8dlmsxGICo9fsE=",
-        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apSMdlWWsGgwSUhwjsLHmBBIBftN+UuIe4F7MAotFYY2cg==",
+        "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibZb6SNmTDVkEE8uuQm2gsOf",
         "drm_scheme": "clearkey"
       },
       {
         "icon": "https://static.flow.com.ar/images/708/CH_LOGO/350/500/0/0/987873140728.png",
         "name": "MUCH MUSIC",
         "uri": "5YdyVi+PL8QZpLM9X5SumhqEzF66E7LtO1G5KLXQgWtVfJ/a13vnnR+FPXmft8nO52Mgr9yQkBtSJ3lfNo5ZmuWQarv/hGG9CYumCmOzWAWd8iWorv4WYsUe4gJnmclO",
-        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apT6H4DuaTbWgqlhJ0q7NJX6A37Y30/nycFoS1kRckNpIw==",
+        "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibbBrsr2Oar0iLVIoSlwyhdK",
         "drm_scheme": "clearkey"
       },
       {
         "icon": "https://static.flow.com.ar/images/7277/CH_LOGO/350/500/0/0/75476816073439.png",
         "name": "ALLEGRO",
         "uri": "5YdyVi+PL8QZpLM9X5SumhqEzF66E7LtO1G5KLXQgWsEsLg3briu9irzCJOYGt1hnjW5WbleajfMHwcEDWJGtSEy6yMS3yRqdH2ryZ3E99U5egwnhYoMZzLNWcFDFPEp",
-        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apQE0bidD5Q3tykhgMFhoCg5d2zn5cIwP/Ej510lrfg6sg==",
+        "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibbQ7lhTwN9J4eN3URUmIfAK",
         "drm_scheme": "clearkey"
       },
       {
         "icon": "https://aermultinet.com/iptv/logos/retrohit.png",
         "name": "RETRO HIT 1027 FM",
-        "uri": "qfG1qjeFfPZKWDs9eMxwk7bJKzTr046V1pERZRE9kABi7eYkAMKkmqq4MpzzYZMEDLd+CTPzxPcEoBH965X5Eg==",
-        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apQE0bidD5Q3tykhgMFhoCg5d2zn5cIwP/Ej510lrfg6sg=="
+        "uri": "qfG1qjeFfPZKWDs9eMxwk7bJKzTr046V1pERZRE9kABi7eYkAMKkmqq4MpzzYZMEDLd+CTPzxPcEoBH965X5Eg=="
       }
     ]
   },
