@@ -1,6 +1,6 @@
 [
   {
-    "name": "ARGENTINa",
+    "name": "ARGENTINA",
     "mode": false,
     "lista": [
       {
@@ -421,11 +421,6 @@
         "drm_license_url": "HCZtbqzut9luoVOjrMqamynTD1OUSsrNcRU4OdMGt6Or+pRQFyTSwPbog2XgE8QA"
       },
       {
-        "icon": "https://img.sport-tv-guide.live/images/stations/a1164.png",
-        "name": "BEIN SPORTS EXTRA",
-        "uri": "wsX2rHfy0U7EH6776YVNSLHIDw6FVnn+oj69RolvE5LEt1+NBGvzZNjhiNTDbq8m+expz4v/OCYcVmqX8HHeFA=="
-      },
-      {
         "icon": "https://static.flow.com.ar/images/3545/CH_LOGO/60/40/350/500/92564610073951.png",
         "name": "ESPN PREMIUM",
         "drm_scheme": "clearkey",
@@ -434,10 +429,17 @@
       },
       {
         "icon": "https://static.flow.com.ar/images/3543/CH_LOGO/350/500/0/0/45176151073950.png",
-        "name": "TNT SPORTS",
+        "name": "TNT SPORTS HD",
         "drm_scheme": "clearkey",
-        "uri": "vriUr3OKz1kVyrTiqBzoN/7EMUq7Nn8KdIyHmnuL2doZRxQPZu3uiDiSabIJZoB87vC52Dvy4xwHp3dXup4E5GdA8JP1kzjJ6aBaQdvodB+xgTPt9tbRxpvnH4sY6qvC",
-        "drm_license_url": "9/DDQreeJ5XmZ6qxZ8DX3EIMhhMabjq7houjo3/25Fw="
+        "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnVwtvmCTp5rM6kvX4XduF9N8DGKNwg+HhwKLyGnYG9c1A==",
+        "drm_license_url": "HCZtbqzut9luoVOjrMqam/tseZotSTjxnCYUAC6EXTqqH2cNaF71iGi4FsLuVocu"
+      },
+      {
+        "icon": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMDQwX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1659976544351",
+        "name": "TNT SPORTS HD+",
+        "uri": "iPeoYYZ1jn0KkumPEHy+oAnrEmRU/eOzBhDnnZnXLN9y/N0a1Ob6o3fpzgPDZuTw63D9Ls9L+b2ZWVcvhe+PbM4Q5Ajzm3tJF7TS8eH1/7JtuxRjvf6PxA0lAHImeWvemJ75ncMTykvy61bkg3ce0g==",
+        "drm_license_url": "iPeoYYZ1jn0KkumPEHy+oOj6mkR0p0RVMj+yR64eLSKm2WNqEfVxCdcbxI7bxTBr",
+        "drm_scheme": "clearkey"
       },
       {
         "icon": "https://static.flow.com.ar/images/280/CH_LOGO/350/500/0/0/71306601073189.png",
@@ -3790,8 +3792,7 @@
       },
       {
         "icon": "https://www.televisiongratis.tv/components/com_televisiongratis/images/adrenalina-sports-network-2123.png",
-        "name": "ADRENALINA 
-        ",
+        "name": "ADRENALINA \n        ",
         "uri": "7vhDukf/dm2xxFqCRRQP7LlWOHmc1zPEHELSajqJLKOwwacbDRlR31nrGp4IL14ymO/m5rXkG6sJTqmCr09PaoYNkZC1dr7EpytAa4nJNdo="
       },
       {
