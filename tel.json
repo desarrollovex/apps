@@ -434,17 +434,10 @@
       },
       {
         "icon": "https://static.flow.com.ar/images/3543/CH_LOGO/350/500/0/0/45176151073950.png",
-        "name": "TNT SPORTS HD",
+        "name": "TNT SPORTS",
         "drm_scheme": "clearkey",
-        "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnVwtvmCTp5rM6kvX4XduF9N8DGKNwg+HhwKLyGnYG9c1A==",
-        "drm_license_url": "HCZtbqzut9luoVOjrMqam/tseZotSTjxnCYUAC6EXTqqH2cNaF71iGi4FsLuVocu"
-      },
-      {
-        "icon": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMDQwX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1659976544351",
-        "name": "TNT SPORTS HD+",
-        "drm_scheme": "clearkey",
-        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4zv2CKQjXsDhUQfJMJMecEe1veXOGN2g2ogG51i7ACMEY8c0YiKS5DMWZ9lXOl329z+S60BJgX9qAx6rLvn/jv0",
-        "drm_license_url": "5YdyVi+PL8QZpLM9X5SumsTGnQDYCXD7YgsN9/6uDHm6fb3bDvu+SHdkPhmvUvJv"
+        "uri": "vriUr3OKz1kVyrTiqBzoN/7EMUq7Nn8KdIyHmnuL2doZRxQPZu3uiDiSabIJZoB87vC52Dvy4xwHp3dXup4E5GdA8JP1kzjJ6aBaQdvodB+xgTPt9tbRxpvnH4sY6qvC",
+        "drm_license_url": "9/DDQreeJ5XmZ6qxZ8DX3EIMhhMabjq7houjo3/25Fw="
       },
       {
         "icon": "https://static.flow.com.ar/images/280/CH_LOGO/350/500/0/0/71306601073189.png",
@@ -3792,7 +3785,8 @@
       },
       {
         "icon": "https://www.televisiongratis.tv/components/com_televisiongratis/images/adrenalina-sports-network-2123.png",
-        "name": "ADRENALINA SPORT HD",
+        "name": "ADRENALINA 
+        ",
         "uri": "7vhDukf/dm2xxFqCRRQP7LlWOHmc1zPEHELSajqJLKOwwacbDRlR31nrGp4IL14ymO/m5rXkG6sJTqmCr09PaoYNkZC1dr7EpytAa4nJNdo="
       },
       {
