@@ -1,6 +1,6 @@
 [
   {
-    "name": "ARGENTINA",
+    "name": "ARG",
     "mode": false,
     "lista": [
       {
@@ -22,7 +22,7 @@
         "name": "CANAL 9",
         "drm_scheme": "clearkey",
         "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4zM2hzhChi4Kwv1HCJT0Bsj5EmF4XwNJEckbnYxh3Al4PRaQ89q2NGa/fuJe6pWSlo=",
-        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apRso/I5NQgODPsdaraJTxWvV/Puwx0vuI+u\nlNgOz2GBXw=="
+        "drm_license_url": "HCZtbqzut9luoVOjrMqam5rT9CEstTF1RW4WOGi9AtozPdxJHtFZ43NbPXFTT2ZZ"
       },
       {
         "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png",
@@ -36,49 +36,49 @@
         "name": "EL TRECE",
         "drm_scheme": "clearkey",
         "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4x5cj3RmYBPeqp7YowvOlBKSde6PL0pefY59SL7usckNuQ2ohbZ6v1W6WKwXCpyBWcTlnWVvyPhJIReLa24RGOf",
-        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apQoLsA1QZoK6PkBWXKTq2oaLswhyC+Het34\nZ/3x7JuU5w=="
+        "drm_license_url": "HCZtbqzut9luoVOjrMqam5rT9CEstTF1RW4WOGi9AtrSZl4Vs0FS/VCGzMpZftXk"
       },
       {
         "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/1280px-TN_todo_noticias_logo.svg.png",
         "name": "TN NOTICIAS",
         "drm_scheme": "clearkey",
         "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4yjo1CeXCPkrsbMv/ISLo8ibAa++5qAlF2fjr+cEc/lUBgYwsutq79k94Jsdvubozd2NCl3b2UFtPNGdFR8P17P",
-        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apSoL4mqNt5Cv0LfjlFUUfXRj7kCPRHU3rEn\nYWrALjVw6Q=="
+        "drm_license_url": "HCZtbqzut9luoVOjrMqam/tseZotSTjxnCYUAC6EXTqnn1V+VUsACpa56PCFYH0G"
       },
       {
         "icon": "https://upload.wikimedia.org/wikipedia/commons/8/82/A24_%282019-1%29.png",
         "name": "A24",
         "drm_scheme": "clearkey",
         "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4wXvzOm4RyThcziuwr/0ikrZf21dcjZ5rlEVJN/YdmlT1+IZ21Uz0lhhlugxNDo5Mr+nWXAhl83A0RlaTQuw6MH",
-        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apTA27blNt6qvPxQqr1QkYmddcowKcnJOQMD\n5SzxOfaxyg=="
+        "drm_license_url": "HCZtbqzut9luoVOjrMqamw2EO1FSl+e0cHaDLMMnRKwu//DNodgVBXxRq/LG6CiF"
       },
       {
         "icon": "https://upload.wikimedia.org/wikipedia/commons/5/5a/C5N_%282017%29.png",
         "name": "C5N",
         "drm_scheme": "clearkey",
         "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4zdGIW3kExBXNTHdE4hum0hFMWoJvzmwQK4wMP0NKxHS2Yt0k+2bVdqPb+cIqx8Z8A=",
-        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apRPUvJ6iE99BvkAepgP3kP8pE/V7M5kqs+p\n6Twys2bjlg=="
+        "drm_license_url": "HCZtbqzut9luoVOjrMqamzmq0vRn8NnWjUCfKF9eppDd7NLvuj45Nf9JmSXF4aAI"
       },
       {
         "icon": "https://upload.wikimedia.org/wikipedia/commons/8/8c/LogoCanal26.png",
         "name": "CANAL 26",
         "drm_scheme": "clearkey",
         "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4ylr9x8Cm0GxsITPvKAny/jZevuhIsZTwcJj8iZz18xHt0VfznQiJ2TTFX6HZWkprc2lmNQAMwGg/qKkoWX3Oz+",
-        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apSbnuPqaRV2bTu4m2fGWR8Dg7WPQhJfbs+p\niSI/dRJAmg=="
+        "drm_license_url": "HCZtbqzut9luoVOjrMqamxGggpNcltJ2MSrP7FgGGhKDPYg1w7SjFo6k+s8f+aYt"
       },
       {
         "icon": "https://static.flow.com.ar/images/269/CH_LOGO/350/500/0/0/14814924073986.png",
         "name": "CRONICA HD",
         "drm_scheme": "clearkey",
         "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4xu8xUxFHLbLBvCdVqchE/SV9NiL7puevNtWTjwV/PU5ZCb1WRELO1I7OgFPJuHDH4qUtooWBTIuJqSTdcojBaY",
-        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apQH27U6cBy+9ZplNcWsdKszbx52XJSsq7NK\n9+3pfBPhIQ=="
+        "drm_license_url": "HCZtbqzut9luoVOjrMqam6kBU3OZBXVt/kR/R2CpmOTVycV8cd8p3YFq6OlfZWAX"
       },
       {
         "icon": "https://upload.wikimedia.org/wikipedia/commons/8/81/LN%2B.png",
         "name": "LN+",
         "drm_scheme": "clearkey",
         "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4ypNfQCndpsUroU4UcNtpJP5V4ivRvkNEVjqXh7KowW/jDQa/KQjDx1u+6pB8arMyECULWrsK4X0aNgAebafnu8",
-        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apS1SK5hg8UV1AxH/iWpEwyoNjO8cBsn8p6a\nk8z+rspT/A=="
+        "drm_license_url": "HCZtbqzut9luoVOjrMqam+Ft0o95Asq7RbLQ8y6zupGiNSiahUkMiYp2d68i9e+i"
       },
       {
         "icon": "https://www.foromedios.com/uploads/monthly_2020_10/large.1027530100_IP2.png.09507349c734309f8ec316ccd9633b41.png",
@@ -92,35 +92,35 @@
         "name": "ENCUENTRO TV",
         "drm_scheme": "clearkey",
         "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4wSc8/uQuhpa1TVlI93kCo4bHIW71rongE4YVSR9LaXVu+Jd33P5+nnecEVZDrhs1WWP6FgThLsdoLekuYNiFxs",
-        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apTkzO7Xtx7oqT08pDJEqDUeOpOjKjOju0XY\ncGNOhAmMiQ=="
+        "drm_license_url": "HCZtbqzut9luoVOjrMqamzbsI0LXAdze4HIC9UYzTuIxjpOjhPDrfnBgs2iRIgsH"
       },
       {
         "icon": "https://static.wikia.nocookie.net/logopedia/images/f/f4/Logocanalrural2016.png/revision/latest/scale-to-width-down/250?cb=20170805004919",
         "name": "CANAL RURAL",
         "drm_scheme": "clearkey",
         "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4wZeLJHkbwpJRdOus2abyVHD6b4qOe5IxzMd9B0I0yv7mii04PgnoI2KHRfmitrjPeXgE/rvcD7avpQRAe96HBH",
-        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apSwNfgxpTbo9fVqHwb80XzMOdYEZ2dee1td\nMxTowlX2Jg=="
+        "drm_license_url": "HCZtbqzut9luoVOjrMqamxGggpNcltJ2MSrP7FgGGhI9cZQvkTyKBij+WZmDnhhV"
       },
       {
         "icon": "https://media.canalnet.tv/2018/08/N-600x720.png",
         "name": "NET TV",
         "drm_scheme": "clearkey",
         "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4xdlW36yajJCQOnvpDQyP6Z+d/60W7pU4VDLijg4xStJpqfD0to3IvFY7WyEeyGf9o=",
-        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apR5xvFGe5LLEZfkRRdF31eUypVhbVMorXIG\nwJufvWaaTw=="
+        "drm_license_url": "HCZtbqzut9luoVOjrMqam87MyGyeE5cGPyjmdVbcPCv7BPKRGM5gxSl82Sc9O24k"
       },
       {
         "icon": "https://static.flow.com.ar/images/664/CH_LOGO/350/500/0/0/162756280757.png",
         "name": "ARGENTINISIMA SATELITAL",
         "drm_scheme": "clearkey",
         "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4yswH6Bi70WUHqZO+TxlgLtWzdD46NuDLX0/bwziwuXluNGmzvqxnK1MKP+huz03kqQJ9CE3mlBhHazn7l2c2VU",
-        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apQm50GumAQo3LV9Qy67r1SV8bE3A0rc5OxW\n/k1RoWSBhw=="
+        "drm_license_url": "HCZtbqzut9luoVOjrMqam6pnd4BadbMszyn0CGbFcydgKEr7SdKyjsTw1kPyksb5vJraOFTTIIlk4crAgapiBA=="
       },
       {
         "icon": "https://static.flow.com.ar/images/1029/CH_LOGO/60/40/0/0/18914232072197.png",
         "name": "VIAJAR",
         "drm_scheme": "clearkey",
         "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4yWBh20iAYAjoTHkpHZrhxaN6ag18N5uWOVsnQvRfpnTYTXDaCYV86oezYSTpZ9R6s=",
-        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apQqMwsTlSEC/L64B4Va5bTTkQVID9iR+aZ2\nYeCXdzYyIg=="
+        "drm_license_url": "HCZtbqzut9luoVOjrMqam0GvLijHnOFGcg01S0v7WHU4LmNXBa9PmTMl5Au5HfOL"
       },
       {
         "icon": "https://static.flow.com.ar/images/7097/CH_LOGO/60/40/0/0/58413014074320.png",
@@ -153,30 +153,75 @@
       {
         "icon": "https://canal12misiones.com/nuevo/wp-content/uploads/2021/01/Doce-Misiones-03.png",
         "name": "CANAL DOCE MISIONES",
-        "uri": "5YdyVi+PL8QZpLM9X5SumhqEzF66E7LtO1G5KLXQgWsW/IaMTNUU9EYWaPuE/U9LOP3+4PrzifYWbvV0xE+dGH98jaAuEdMi+t7GWyGr0tBF/XQNqRaV5L3i3TxbEr48",
         "drm_scheme": "clearkey",
-        "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYiba/FBhCqDyzDap0+lGSNH1l"
+        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4wPqx+qgisclRyP9TaG3crRJpsND4zcqjYuNb7l61EgjSaAgR2GE9E/AdB4+w1PdpwTWdc8iG/nrQM8TalkTQm8",
+        "drm_license_url": "HCZtbqzut9luoVOjrMqamxGggpNcltJ2MSrP7FgGGhKNv+mNAd7LZI/yihgJh3QoC00ALMy46SyDr2BYuoLX4g=="
+      },
+      {
+        "icon": "https://lavozdetucuman.com/wp-content/uploads/2021/06/LOGOBUENO-300x100.png",
+        "name": "LA VOZ DE TUCUMAN MULTIPLATAFORMA TV",
+        "uri": "0u7RtaCoyz0sIDXu0NxHuVH9z1NMt9YE6cZ5GnmYJRQ3JdzgxpVHnAzSWhhOWOC2oKVYrehrHqY5JTSXq634ncGnZAItHDGz7gpNh00xn3A="
+      },
+      {
+        "icon": "https://lavozdetucuman.com/wp-content/uploads/2021/06/LOGOBUENO-300x100.png",
+        "name": "LA VOZ DE TUCUMAN MULTIPLATAFORMA RADIOS FMS",
+        "uri": "iPeoYYZ1jn0KkumPEHy+oLEi/pTyEyoGk8LqgC5Hg3NGzWRULia7O6H2YkcvTe3PHFjk30Hblbg0ZcQEfvFdAA=="
+      },
+      {
+        "icon": "http://static.dplay.tech/imagenes/sptv32.png",
+        "name": "SAN PEDRO 32 TV",
+        "uri": "iPeoYYZ1jn0KkumPEHy+oGMj8zInDlKxV9cAO+2aOwUJNp1O5vMT5ZnQdNKXPqX3"
+      },
+      {
+        "icon": "https://pbs.twimg.com/profile_images/1532029271610376193/CouxLUR6_400x400.jpg",
+        "name": "MULTIVISION CABLE",
+        "uri": "UhqpWSq8+5v9J/Iv0iqISreAsi29D0bhCASLoMUurnrLoJTsvv0NGNTtaWPVSJD+Qz7SG+dj8EUkG6Qm5xtbwHc0IFZGxAqSkIdB7X6XAjd9Rzxkn3f8B9VRYseMxF2x"
+      },
+      {
+        "icon": "https://mundialtvdigital.com/logopalomar.jpg",
+        "name": "EL PALOMAR TV TUCUMAN",
+        "uri": "fC3MHOkKge9KClRhCnF6I6QnDbCRCUHiukipj9480egbGbnrdj0odVysXSFBI23ocUhz87sJWArukP16NBIwhqkGtqp/xgsk7EbjtUHyLfA="
+      },
+      {
+        "icon": "https://www.fenix951.com.ar/nuevo_2013/a2017/assets/imgapp/logocanal.jpeg",
+        "name": "MULTIPLATAFORMA FENIX LA RIOJA",
+        "uri": "EYpNpenfUqLGCjFM3M/KeOHnMXaPDGz5Ut0Sk9grzLdZwdZPEZIUhsVBAK83qWacCiB0BqV9bn3KIYAcct/Z5vF9ngGEeZ2rvbovte/DpWI="
+      },
+      {
+        "icon": "https://mundialtvdigital.com/silver.jpeg",
+        "name": "SILVER CHANNEL",
+        "uri": "V+7VO/IFMLR0wB3n+3sfXs/rBOxYkv9eUFf6nVG/Yc8cyS9bvIfwfmcZ0t49IPUjGIywREZIEopAJF4uxmlNBlLu3XuA4rkAJ/FgAMngrgQ="
+      },
+      {
+        "icon": "https://static.dplay.tech/imagenes/canalochosanjuan.png",
+        "name": "Canal 8 San Juan",
+        "uri": "5YdyVi+PL8QZpLM9X5Sump7cKdg6FW6R9yeEPCboXRn4RWrmVF1KxXnkBH/NfBI/"
+      },
+      {
+        "icon": "https://static.dplay.tech/imagenes/albardontv.png",
+        "name": "Albardon TV",
+        "uri": "NTiWAUgEVQQJYpfwJWj1j/hAOCtISvSKRSNhJFo+QwzDuakOZNlsmbeSoVeiiRkvBI3R58iMt1SJu7yYydEqwQ=="
       },
       {
         "icon": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Logo-teleocho-C%C3%B3rdoba-Canal-8.png",
         "name": "TELEFE CORDOBA",
-        "uri": "5YdyVi+PL8QZpLM9X5SumhqEzF66E7LtO1G5KLXQgWtOL7+Qik5vxFwcBNwHS7CUMyVc8eg7r+OwOAAvsB0RFTwNnrpBx3+bznMRZ8LYqx9MQ4eKYul+KVEtf23PKc6c",
         "drm_scheme": "clearkey",
-        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apQqK5Taj3E2vB/Nc/dSDka2ONAnmt2dMnIE\ngxlbNSEEcQ=="
+        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4xZlqcyo5c2q5Rz0His7qCfs0YSM/kV2SdUIjgBYlBMJ4qLgTOZlhYkBWRzXPjZcRJYNvmY6pokD5uk1UQvfecK",
+        "drm_license_url": "5YdyVi+PL8QZpLM9X5SumouKgj+emRZb/zTkj5A1rd7rYmaYhP8w+vcf0cFxnKE5"
       },
       {
         "icon": "https://static.wikia.nocookie.net/logopedia/images/1/10/1000px-El_Doce_C%C3%B3rdoba_%28Logo_2010_-_2%29.png",
         "name": "CANAL 12 CORDOBA",
-        "uri": "5YdyVi+PL8QZpLM9X5SumhqEzF66E7LtO1G5KLXQgWsiCtAlcEC5Ote+4RAFoZcBVNvsphyMswP93/nHWCqRMqrB0mgJTQL37gzcsiHP/Yv75rNlYndy+oJOrncM+XFj",
         "drm_scheme": "clearkey",
-        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apR8eQPx/sbwetn2OZfMfftJSz2zzl8mme4q\npJwOMAgkHA=="
+        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4x8sxTl+wKhPpgLE87YJpzrDkRHw6Em+FNfEuZoIf2wzsGGJ5XVeY3Ut7esD1Ai8gz6USzoYHlTri27yHRvhSLo",
+        "drm_license_url": "5YdyVi+PL8QZpLM9X5Sump7cKdg6FW6R9yeEPCboXRl+PEqCciu741Tf3JKxQqqH"
       },
       {
         "icon": "https://static.wikia.nocookie.net/logopedia/images/e/e6/Canal_10_C%C3%B3rdoba_2018.png",
         "name": "CANAL 10 CORDOBA",
-        "uri": "5YdyVi+PL8QZpLM9X5SumhqEzF66E7LtO1G5KLXQgWuCYNvW68YcebRSKzTHGNMmvRvv0KPtGpcriEVGiy4hhSC5VtKRK+hEi7zHIo1AS1o17vngGO4Ug0OuUGV1w0n6",
         "drm_scheme": "clearkey",
-        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apR8eQPx/sbwetn2OZfMfftJ95E58NhroTUe\nx8LApHJXNQ=="
+        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4xTup0o4zfYSwZRhpagvZgvEAbel+6H0Vy/P1WTIoMBFs5jc0XypNLvQqczdWFCLrKmRWW6FD1uNMdNnQYJbcFM",
+        "drm_license_url": "5YdyVi+PL8QZpLM9X5Sump7cKdg6FW6R9yeEPCboXRldk0YwLc2IvXFdLBT6fMg3"
       },
       {
         "icon": "https://static.wikia.nocookie.net/logopedia/images/e/e7/800px-Canal_13_R%C3%ADo_Cuarto_%28Logo_2008%29.png",
@@ -186,37 +231,37 @@
       {
         "icon": "https://static.flow.com.ar/images/1265/CH_LOGO/60/40/350/500/1683946307228.png",
         "name": "TELEFE SANTA FE",
-        "uri": "5YdyVi+PL8QZpLM9X5SumhqEzF66E7LtO1G5KLXQgWv48pk0uwPCPy0hNNhk5nB0mX2pPpOy6kRvuAAqg/oItRToWWnWRx6rx/RhFBNn05PIbOk/uLDj77thweIs53ok",
-        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apQqK5Taj3E2vB/Nc/dSDka2YSjAZKZz596q\n8NClvyraRQ==",
-        "drm_scheme": "clearkey"
+        "drm_scheme": "clearkey",
+        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4xJdHzjzwIQTGciFFT+ESsFrIVH+hXTUWktH3xsJDsWOwZtkZUlLKA2A//Y/ZCg3JeQyoovo4YmiycbGaJqTdnF",
+        "drm_license_url": "p3w4YOr2vcNcc+A/yk81q2ELqhoJ/Kbag29tX0u06awu0AU3GYVOkRm00e0DXPfn"
       },
       {
         "icon": "https://static.flow.com.ar/images/1264/CH_LOGO/60/40/350/500/2533379207361.png",
         "name": "Canal 9 Litoral",
-        "uri": "5YdyVi+PL8QZpLM9X5SumhqEzF66E7LtO1G5KLXQgWvY3CWCNlG5oW+dj9rKKdjKq0D+4bF/yJskNs7tBP2XBnMpTwd1vW7T0smta7+1SMncokkCMoeMPoFuSRcK/+TW",
-        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apT1l4VEqGup7gGX+3K1xYt630J0PZwxl6dp\n/ayDp6krmg==",
-        "drm_scheme": "clearkey"
+        "drm_scheme": "clearkey",
+        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4z5uGjZ2/BcDjiAWGzVcq0LViEvFmfFVj2053cRzLigwgKAPcPkLAJoLLJx50AiIFF2khU2RQrrJp04THPANdN2",
+        "drm_license_url": "p3w4YOr2vcNcc+A/yk81q2ELqhoJ/Kbag29tX0u06ayLc9XkUFp672ZbkTXSQThG"
       },
       {
         "icon": "https://www.foromedios.com/uploads/monthly_2019_12/large.335318779_TelefeRosario.png.6b8f75bafef6b7224e6d238714be28c2.png",
         "name": "TELEFE ROSARIO",
-        "uri": "5YdyVi+PL8QZpLM9X5SumhqEzF66E7LtO1G5KLXQgWtbx0L8XGOGcXLv/KgbcedeUn248V9UliOnNYtxUUsVklWcqChGH4EWYNKJqNfK7DvWpgarLmAHHIIOvMOBHakk",
-        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apQqK5Taj3E2vB/Nc/dSDka2dSO9wLRepQ2t\nN2RcMt6YnA==",
-        "drm_scheme": "clearkey"
+        "drm_scheme": "clearkey",
+        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4yYPo+h+orowmtVsbmSjZzUYzXpXOtB9gHLUjymszpX3rW0kgI0kWQNIrQtEq+G6QCelwb5SwHCLLhPGJ9iZC2B",
+        "drm_license_url": "tCCYHaXdfeE2UXGmWEN+OI9uSOwsUxanY5c0Y9o9Qv3fxS3NHCbqiLs13Nphr4Wv"
       },
       {
         "icon": "https://upload.wikimedia.org/wikipedia/commons/2/22/Eltres_RGB-grad_%28positivo%29.png",
         "name": "CANAL 3 ROSARIO",
-        "uri": "5YdyVi+PL8QZpLM9X5SumhqEzF66E7LtO1G5KLXQgWsf5NsoILW3L0LVhM9plDUCiEg1Ha5HVQcc3Iz231ubuqWj3rVXYRxIo4Hehi9RyUq8oClm8REa6xPrXJln2zZp",
-        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apSANtyQg+E2Io0NqML/ud7+N7135Yng6rni\nLR+E9wrPWA==",
-        "drm_scheme": "clearkey"
+        "drm_scheme": "clearkey",
+        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4xOfbVzBpduTtv/y5J8P48jiYp1OLDr6h5ORtabeYWdxTNXLT/1HMfJdMahFNy6p8wiPL46AlCVyfJDOh/c0jHT",
+        "drm_license_url": "p3w4YOr2vcNcc+A/yk81q2ELqhoJ/Kbag29tX0u06ayGycHmSErIh+NQyUEGwCLG"
       },
       {
         "icon": "https://static.flow.com.ar/images/8537/CH_LOGO/60/40/350/500/464381040767.png",
         "name": "TELEFE NEUQUEN",
+        "drm_scheme": "clearkey",
         "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4zsDZRmCi48MhhdMUNrFxMI3zqX2LuX7NLZ5px2ZvIPH43B2hPZD/NjXCqs0Y6RudoXCUp0Xo+hlMZSUovbTWaa",
-        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apQqK5Taj3E2vB/Nc/dSDka2wlZ1PZj9Dmsg\neVb2xkQWyw==",
-        "drm_scheme": "clearkey"
+        "drm_license_url": "HCZtbqzut9luoVOjrMqamwBaaHobU1j066yE9k8mBixbfjEHQWcV25tigDSR03CMlXOjyxk35UfMC22KbvK5tg=="
       },
       {
         "icon": "https://static.flow.com.ar/images/7878/CH_LOGO/60/40/350/500/82348520072004.png",
@@ -226,16 +271,16 @@
       {
         "icon": "https://static.flow.com.ar/images/7478/CH_LOGO/60/40/350/500/9456069307102.png",
         "name": "TELEFE BAHIA BLANCA",
-        "uri": "5YdyVi+PL8QZpLM9X5SumhqEzF66E7LtO1G5KLXQgWums+d2YL7l0eFOvSBvSZ9Igmw5kdsSPVTYvgnymTuBX3f1amKGat2cOj9RwpVhIg9n+HUqF83BZiwxxjc6fKs0DjOTWAzYnzBH3YXuzrfy9g==",
-        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apQqK5Taj3E2vB/Nc/dSDka29inEdbfH65IV\nZDnAqo6oZiOB62HD2ScGpzddm3A/JV4=",
-        "drm_scheme": "clearkey"
+        "drm_scheme": "clearkey",
+        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4wDlx/xe8fwXudAY8z565advEV2NSRLbKMkQzJWy1PaoUtW1/L2+G11tMsg/+mX+L62UvC9DP+jNIvjDRyxurYcJwGz1+JUCK5u7mhSOWypUQ==",
+        "drm_license_url": "p3w4YOr2vcNcc+A/yk81q2ELqhoJ/Kbag29tX0u06axYNArn+cy2LnXLmrC88KLI"
       },
       {
         "icon": "https://static.flow.com.ar/images/7477/CH_LOGO/60/40/350/500/3599445107101.png",
         "name": "Canal Siete Bahía Blanca",
-        "uri": "5YdyVi+PL8QZpLM9X5SumhqEzF66E7LtO1G5KLXQgWsCmssJC2f/3yfH5yNsj8GLbG6PjvB1CrBCld8g5yZ9d2KN9FmtYvTKYzT5gzTQvhbd2wvO+7qEMRBWWuzMnz9mptbYDHoHJgcWHLMf/HEZuA==",
-        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apS7pUf9r4tHu0K82baoJVRZIFXbuCyjMf6Y\nJdI4MR45GnHLts8EfZMO60bS9GVEJ0E=",
-        "drm_scheme": "clearkey"
+        "drm_scheme": "clearkey",
+        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4xJqq1+DIVaVY+i0zslvhK5QQ/kcuKVP6zGHYjj2aCdYOOqicyl5GxazLas8824jnf0S+F5HEmR2tH/9I9XLT1jEj6FRaOLjbEKkLJG8RQyCg==",
+        "drm_license_url": "p3w4YOr2vcNcc+A/yk81q2ELqhoJ/Kbag29tX0u06ax/8jw+zkSg2H4hKBPHiFN9"
       },
       {
         "icon": "https://geo.edge.pontiscloud.com:9002/images/482/CH_LOGO/80/80/350/500/25885319075824.png",
@@ -245,21 +290,21 @@
       {
         "icon": "https://i2.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Canal-Ocho-Tucutam.png",
         "name": "TELEFE TUCUMAN",
-        "uri": "5YdyVi+PL8QZpLM9X5SumhqEzF66E7LtO1G5KLXQgWskTDdn6MX3oCfkMg3NL/tdTocEo0PNlr9Xh8yv3qZwletRdr5FjPDuvRVQFeXyuqjT3uSeOjFRpjYKkrmOq7N1",
-        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apQqK5Taj3E2vB/Nc/dSDka22Ln+RDTIfIm0\nleIDOlP51A==",
-        "drm_scheme": "clearkey"
+        "drm_scheme": "clearkey",
+        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4xLYeKWuOeLbts7N2/gAInoyh4pxWYutjr6Z/rF9KJprj47Xtr6D1tobJUtnbMnNyXUBvo983v3POneY8cUbqLV",
+        "drm_license_url": "HCZtbqzut9luoVOjrMqamwBaaHobU1j066yE9k8mBizVgSdK/sBGjukUyMEUAN56D5nZdOdugaRFZn4cLzFfAA=="
       },
       {
         "icon": "http://2.bp.blogspot.com/-UpBYoW6ADcs/U97C2BWoceI/AAAAAAAAnG4/-jDiJh10lJE/s1600/canal10-tucuman.png",
         "name": "CANAL 10 TUCUMAN",
-        "uri": "5YdyVi+PL8QZpLM9X5SumhqEzF66E7LtO1G5KLXQgWtr0ONEVAcya6+Pp5fsmarY19Io8z5mIjN165kDy0mBC+2XJRSBPHY+2mvre88NwNsBj/71JmKKaA1IWsu64xuz",
-        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apR8eQPx/sbwetn2OZfMfftJr/JhRmtCciVV\nvSXjLZY/gw==",
-        "drm_scheme": "clearkey"
+        "drm_scheme": "clearkey",
+        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4zWeTayl5/sFTwCDRoR6g4vfS5xVDOsuuRboWHeENK3ddE30bFwzch+R2hzECtLJwKreP1MP0TjyHUNNeD8puu2",
+        "drm_license_url": "HCZtbqzut9luoVOjrMqamxGggpNcltJ2MSrP7FgGGhILS/pRcFidOSoAw9x6HtGBuh/GWwbZslL8b32v+Yikkg=="
       },
       {
         "icon": "https://upload.wikimedia.org/wikipedia/commons/0/01/LogoTelevida.png",
         "name": "CANAL 9 DE MENDOZA",
-        "uri": "b6mg2xbwaB6Iq0TEYt3S5iON4Nsct79PZXqayrxj3RqkEBglBSf0gkd14JaQOka5ptV8F2lY5Tk9KaQGcByY6OPuHmQ9ODl3qpRT9VpUR3I="
+        "uri": "74dGg2EIRs63ic9NUo1OjJS85XJaZDWWpI38HTbbfAoSU9beqlmj6P+dSd0diVn7cRSx/T5FNgeD4LJyk81tC9AxqkOCE4cWug/54cVyGk8="
       },
       {
         "icon": "https://static.wikia.nocookie.net/logopedia/images/7/71/El_Siete_MZ-1.png/revision/latest/scale-to-width-down/250?cb=20210526135529&path-prefix=es",
@@ -270,31 +315,6 @@
         "icon": "http://directostv.teleame.com/wp-content/uploads/2016/05/Canal-4-Jujuy-en-vivo-Online.png",
         "name": "CANAL 4 JUJUY",
         "uri": "8UPHHCKqI6lEimip3FPVpw2BurzmknGBpVm0FVmF3HJlQfY6Ih9xBGl3ZLQLB9adRJuigdbUaq3gHuxyIN5IoNu8AIKRrTLD2LdejZTexw4="
-      },
-      {
-        "icon": "https://bragadotv.com.ar/wp-content/uploads/2020/08/logoicono.png",
-        "name": "BRAGADO TV",
-        "uri": "YLdKP1SZFu+rkCHhlDVHwrx/C4y4mheKmTmANvVkokvz4H44MWkjc33pzs++oLNET5wngsqrHIoh3duAUecJxA=="
-      },
-      {
-        "icon": "https://raw.githubusercontent.com/eservicetv/playdigital/main/canal5.jpg",
-        "name": "Canal 5 EPS TV Regional Bragado",
-        "uri": "YLdKP1SZFu+rkCHhlDVHwrx/C4y4mheKmTmANvVkokvBnddJn3ChFNg26xl29MC2QqwTbsQW/0e0+nVw9t2Jv2n/Ij17NuN5PYYa2otVe+w="
-      },
-      {
-        "icon": "https://static.wikia.nocookie.net/logopedia/images/d/d3/C13_logo_2020.png/revision/latest/scale-to-width-down/300?cb=20210526010959&path-prefix=es",
-        "name": "Canal 13 la Rioja",
-        "uri": "UNQg5R6SlSLHrj34FEU+kRZHhvAnOrkJcacLJjESkKLmTO1DLaGNlPkvdcwEIODO"
-      },
-      {
-        "icon": "http://static.dplay.tech/imagenes/el9larioja.png",
-        "name": "Canal 9 la Rioja",
-        "uri": "t59uELZdayTJoFF5qUPb5MOLI8ABKDW7Kh6r8rZXT9c5anP3KaslkMPXka1qz7xfTolETbCnXk1g7NEUaR2KXA=="
-      },
-      {
-        "icon": "https://yt3.ggpht.com/ytc/AKedOLSBQ-8-FitzfwqPByQxsTvE24TuB52Aar7yfdoaSg=s900-c-k-c0x00ffffff-no-rj",
-        "name": "Multiplataforma fénix",
-        "uri": "EYpNpenfUqLGCjFM3M/KeOHnMXaPDGz5Ut0Sk9grzLdZwdZPEZIUhsVBAK83qWacCiB0BqV9bn3KIYAcct/Z5vF9ngGEeZ2rvbovte/DpWI="
       },
       {
         "icon": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/298052f7d0c144e82b2750ad55289082.webp",
@@ -322,6 +342,16 @@
         "uri": "KsiuEyVQ460Eq9rEW5fR3Vp2LzzreaFiNdV6fpTmMSrAP+CJ8wX/388tIO22S1uXdfKs24byJO+q3lSvYQNJVw=="
       },
       {
+        "icon": "https://bragadotv.com.ar/wp-content/uploads/2020/08/logoicono.png",
+        "name": "BRAGADO TV",
+        "uri": "YLdKP1SZFu+rkCHhlDVHwrx/C4y4mheKmTmANvVkokvz4H44MWkjc33pzs++oLNET5wngsqrHIoh3duAUecJxA=="
+      },
+      {
+        "icon": "https://raw.githubusercontent.com/eservicetv/playdigital/main/canal5.jpg",
+        "name": "Canal 5 EPS TV Regional Bragado",
+        "uri": "YLdKP1SZFu+rkCHhlDVHwrx/C4y4mheKmTmANvVkokvBnddJn3ChFNg26xl29MC2QqwTbsQW/0e0+nVw9t2Jv2n/Ij17NuN5PYYa2otVe+w="
+      },
+      {
         "icon": "http://api.argentinatv.live/logos/logometropolitanatv.png",
         "name": "METROPOLITANA TV",
         "uri": "Za/5wKdQkORsX6QkR632EwxP+fh9NCuRUeINAkCAL0dm68XHyyZPOX7t7pzJidPMSoCyScqDKITtu7ToHY/CMsB2YEWcx4R1c4S5tuilQzyABCgmJv0xEF3MNfVULzbr7eI+XNc0BY6TsDsQl+5OXHgd/5R4K6ybkUy/LVBwkGm2429K8Cxa6VBb4phRtKbyP0cR7KToAlyMMe0ke7pRJytPQnHXQ8Zsg0ggt1rf5Wcbom9GH4r7MW1F0jSe1vf2"
@@ -329,24 +359,12 @@
       {
         "icon": "http://3.bp.blogspot.com/-uGoccAT1M38/T0xKoHTs8sI/AAAAAAAAScM/Nes43bKyhcU/s1600/canal3lp.png",
         "name": "CANAL 3 LA PAMPA",
-        "uri": "B1cDBBct8aEu1UIfqg24AE8Nd4uhTkJStX66K9ort9va4nDZV/gFzVbIEev4IX8M1Km+QBRuf0mEtLPJxp5TYnGRQYolLPcPZbk4btm5zD0="
+        "uri": "ktNPE88DYayiYjdHWR/UMCnWUWZdFaBwww/wS5W4BC30AncSMojHA9baW2ZLnJJDym+zgQDAVewxui+IJespTdrXNcQ+SBsuNwabXNe2miU="
       },
       {
         "icon": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Repretel_6_logo.png",
         "name": "CANAL 6 POSADAS",
         "uri": "vJd3aBqoPybD2voHVEQxnD+/Xma2aUsyPERVkoW2kRDeJ1fSRQxxyhG7YzV38W2QbGH6syeAJDvgiphk3OHaBA=="
-      },
-      {
-        "icon": "https://upload.wikimedia.org/wikipedia/commons/0/01/LogoTelevida.png",
-        "name": "CANAL 9 DE MENDOZA",
-        "uri": "b6mg2xbwaB6Iq0TEYt3S5iON4Nsct79PZXqayrxj3RqkEBglBSf0gkd14JaQOka5xwt85nZCd+U/SdDQG1U6VVAGkKG0Uw4QBPSrr1RK4tDsutj6HHl0yJ1ftQ5YA+lq"
-      },
-      {
-        "icon": "https://static.flow.com.ar/images/1281/CH_LOGO/60/40/350/500/2992322907183.png",
-        "name": "Showsport",
-        "uri": "5YdyVi+PL8QZpLM9X5SumhqEzF66E7LtO1G5KLXQgWtJNUYHCuwde9ZkEIry73AKnQaiEIYP3oPLtxamJ/BfgSMhglvxiVKh/G0iN8wWstFRy7w4z+fLvJhzK0xmAvqs",
-        "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibZ5hfiQMkw83gZN9xvIj3VQQ4SJ9HwroYfKSNAabrMnKA==",
-        "drm_scheme": "clearkey"
       },
       {
         "icon": "https://www.clipartmax.com/png/middle/63-631904_coop-logo-co-op-local-community-fund.png",
@@ -356,44 +374,9 @@
       {
         "icon": "https://upload.wikimedia.org/wikipedia/commons/9/91/Logo_Canal_de_la_Ciudad.png",
         "name": "CANAL DE LA CIUDAD",
-        "uri": "5YdyVi+PL8QZpLM9X5SumhqEzF66E7LtO1G5KLXQgWuwPsnGNtXCdUK3z9r4/nJ33uGQBO8xKYvydxQc+92iMl0xcGEtKR9K+9L532aqudAeXkcR/Q/XRlzQZxtEjjXyGau/g5X0fK2nBtVF+755AQ==",
-        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apQiAXC2C77uh8NKsG3ZysfmSDU+gh2ZSHRf\nulf0qMBqXQ==",
-        "drm_scheme": "clearkey"
-      },
-      {
-        "icon": "https://aermultinet.com/iptv/logos/radioformosa.jpg",
-        "name": "Radio Formosa Tv",
-        "uri": "SAnnkBmiEasVK1ydFO5arlW1qHRO4nFQ3RnC1GhQu4JsGtCJkeS7Egoj+L0xgm3fdgDfZQWNOAh91fsIXksPl9ZXSEa4VSl4Y4+AYHYq0H0="
-      },
-      {
-        "icon": "https://aermultinet.com/iptv/logos/agenfor.png",
-        "name": "CANAL 3 Formosa",
-        "uri": "SAnnkBmiEasVK1ydFO5arqGj6KoroC9RtA5gVoUWgS7fuXPDBEROsf4dTGcD3aexY4uy9D4jB6OWBXOtX+9NsQ=="
-      },
-      {
-        "icon": "https://aermultinet.com/iptv/logos/lapachocanal11.jpg",
-        "name": "LAPACHO CANAL 11",
-        "uri": "bFs+dsm6AwiAaA//kk0zbheUPp6MOTPbF8qxAmM7fJOsHanV9zRoHY+UgFjk70k9jOVZHbgPXiX2MCsI1p7EtA=="
-      },
-      {
-        "icon": "https://aermultinet.com/iptv/logos/naineck.png",
-        "name": "NAINECK TV",
-        "uri": "YLdKP1SZFu+rkCHhlDVHwpb+SLOj/EclRMbT7H5qCNmf9772wyuz/0WrbV3Qe0UNXqXAMRO0rrGjo+j5mKrmiw=="
-      },
-      {
-        "icon": "https://aermultinet.com/iptv/logos/BCC.png",
-        "name": "BCC NET CHACO",
-        "uri": "SPrM94xAnLFF1OVdICm+B6ezR+JVJJu0nTHcH0TzKZhq+MyWUDubHiqm4H6nzWMUCVMoUg++fLzNdOszpfbTBA=="
-      },
-      {
-        "icon": "https://aermultinet.com/iptv/logos/radioiguazu.png",
-        "name": "RADIO IGUAZU TV",
-        "uri": "SPrM94xAnLFF1OVdICm+B4lvcK5QorR5/Gd67iSsmkKPU+tGyvJU9aKiu/8x1Dnp"
-      },
-      {
-        "icon": "https://aermultinet.com/iptv/logos/radioaer.png ",
-        "name": "RADIO AER STUDIOS TV",
-        "uri": "YLdKP1SZFu+rkCHhlDVHwr+DuhWnL9iZAcNvnUih+6ej8isLqAE0JvQHmviLnCj1rdH1mTdDliRRSwz5oUPLsg=="
+        "drm_scheme": "clearkey",
+        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4xwUsa9iP2o6L8AI86FanV1FiE41Z33bJPEzUtPMDVA62TKRnxHUdskxYmaRNQVwQfnGh6CQh70xwW2qMuu+H5ZS6dFv8rDgiHUq6keYznitw==",
+        "drm_license_url": "HCZtbqzut9luoVOjrMqamxGggpNcltJ2MSrP7FgGGhKBzbt3bGlKTFX8brPcXdbOR3zUXIfvj6VWXn6TVvJAFA=="
       }
     ]
   },
@@ -795,7 +778,7 @@
         "name": "ESPN PREMIUM",
         "drm_scheme": "clearkey",
         "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4wGT52mdeZ3SD1iRaW1YsEsrL/9o7RanpAtZhH3jELrewnnhceYtiVo9p0kU9KnD2HUf1qJ8t4bvkIoUHU0hvA0NDypQD19x9OeGk3MOObSBA==",
-        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apQmi+SMqi0gld5GKAwCxJYd+WhD21YiNrL2\nopn3lwYY0w=="
+        "drm_license_url": "5YdyVi+PL8QZpLM9X5SumnXfVdiLbWmKfSu3LbQGVbf0MQTOkUHayICWw4qzZ96t"
       },
       {
         "icon": "https://static.flow.com.ar/images/3543/CH_LOGO/350/500/0/0/45176151073950.png",
@@ -808,7 +791,7 @@
         "icon": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMDQwX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1659976544351",
         "name": "TNT SPORTS HD+",
         "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4zVtV4ksMCHtFBsY881P//JBDa2Wq3iZ9h5ZqbVvp3dYkaGRrCKKz4Vzn7bpbIFY2V8M2iiFw230VTF0dqY7hFd",
-        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apRksouS5y1UVURdztmN3BZr4aGuvIgX3PX3\niyiQnQKx2Q==",
+        "drm_license_url": "HCZtbqzut9luoVOjrMqam/tseZotSTjxnCYUAC6EXTqrfJXgpmNCXBZaCyVECP7E",
         "drm_scheme": "clearkey"
       },
       {
@@ -816,28 +799,28 @@
         "name": "ESPN HD",
         "drm_scheme": "clearkey",
         "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4wPtWCWombBpdEM4qxFfkKf4bBe3I5S4LJUYet2SlmJfA5tMI3iJx3Kpmhyl/gepDM=",
-        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apQR2R7qRREKSjxzrPBLKjwE79ZAscB7UYw1\nWHuZ74FzzQ=="
+        "drm_license_url": "HCZtbqzut9luoVOjrMqam3pYFKjiUXOYzaimy92hQ78LVAXDyVMnqxwItLMBXNL7"
       },
       {
         "icon": "https://static.flow.com.ar/images/278/CH_LOGO/350/500/0/0/294103520718.png",
         "name": "ESPN 2 HD",
         "drm_scheme": "clearkey",
         "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4x7wzPlOxEH4MsaTD/QgSatI0p/a/N6/NPHqE5Ie08BjvOkryiO/+m1AEL7p5g/5sVSZ/9qBeYMugM4KY4944nX",
-        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apSAHvEWsRzz9jTPfhL+0QiSX5SQAwZidWQG\ncd082iK1Fg=="
+        "drm_license_url": "HCZtbqzut9luoVOjrMqam5s/6BXlssVkHouytKHc5UvdguiWFt8mnJEuKldCsnjytv3QZKZefbUtEuK7yg5o4Q=="
       },
       {
         "icon": "https://static.flow.com.ar/images/72/CH_LOGO/350/500/0/0/29145259072020.png",
         "name": "ESPN 3 HD",
         "drm_scheme": "clearkey",
         "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4zo0QkhdSuTi0WTynuVBvMlXWpRxpEsSPLqrrsSuHm2Z+2uuaru1jwedJiSYONdUMg=",
-        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apRffRiLyWo1HtT3c09J0UyBYpciSGx4Kgzs\nnGTUsxkcWQ=="
+        "drm_license_url": "HCZtbqzut9luoVOjrMqam3pYFKjiUXOYzaimy92hQ7/PvgjFcwfGBdSfLZjSlgcH"
       },
       {
         "icon": "https://static.flow.com.ar/images/279/CH_LOGO/60/40/0/0/54300512071132.png",
         "name": "ESPN EXTRA",
         "drm_scheme": "clearkey",
         "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4zX4dfS+YZIIn8fglSKUBSWl9GEzDOmks1Z7TpJftaJhQetdbwKLv7jRdWDMRAvzRw=",
-        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apSFDd1K11RFmZUOXTHRbYdftwdy4c/pHLDq\nWzDfDhZn4Q=="
+        "drm_license_url": "HCZtbqzut9luoVOjrMqam5s/6BXlssVkHouytKHc5Ut5NBO06IMTHNSg2I+YCSBQ+LsUiKVla2VDuDLL1r62ew=="
       },
       {
         "icon": "https://static.wikia.nocookie.net/prowrestling/images/b/b3/Claro_Sports.png",
@@ -854,49 +837,49 @@
         "name": "FOX SPORTS HD",
         "drm_scheme": "clearkey",
         "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4xxFS0Bm9gyvukuNz+/Icj3eMxJeKBbxYPemMIJOMANzRBAF7f43nAU2tMO3RFQ0S+G/N+Q9U7EDAndGr1XEXdq",
-        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apTZK860J9OKOFDHZNdjs9DoFHAv8VEWCSQf\nI/jLplQEpg=="
+        "drm_license_url": "HCZtbqzut9luoVOjrMqam5s/6BXlssVkHouytKHc5UsP3vx7CM1qKswmQ2azlMNgzvdjbcKpp319JdD8UR4ptw=="
       },
       {
         "icon": "https://static.flow.com.ar/images/292/CH_LOGO/350/500/0/0/59128486072785.png",
         "name": "FOX SPORTS 2 HD",
         "drm_scheme": "clearkey",
         "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4xxFS0Bm9gyvukuNz+/Icj3njG8+lP8bbVUx39am16FPP47hFeiWaZVxPKOH5ON1w5zQusKh1O7qkWPK/dI1F5k",
-        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apTZK860J9OKOFDHZNdjs9DogaE/jPOEjZM+\nAX/e9AlYJg=="
+        "drm_license_url": "HCZtbqzut9luoVOjrMqam5s/6BXlssVkHouytKHc5Uu+s54LnFlQmYFHMNSDjnbAQufkk7/27wcDwdSoc369ug=="
       },
       {
         "icon": "https://static.flow.com.ar/images/293/CH_LOGO/350/500/0/0/12829972072366.png",
         "name": "FOX SPORTS 3 HD",
         "drm_scheme": "clearkey",
         "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4xxFS0Bm9gyvukuNz+/Icj3f5arvKzMd0QXVIshrk9DZ4mim39zwq7/zL5O8RJDgn9RYGeaNxTFGQyU7Hcv/tO1",
-        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apTZK860J9OKOFDHZNdjs9Do23cHCGMN1vft\n0DsT6eWv6g=="
+        "drm_license_url": "HCZtbqzut9luoVOjrMqam5s/6BXlssVkHouytKHc5UtNnNKU27Y7XHIIBtflPIYNrC8GpJdGghvAnX+t3UTniw=="
       },
       {
         "icon": "https://static.flow.com.ar/images/74/CH_LOGO/350/500/0/0/78711436072355.png",
         "name": "TyC Sports",
         "drm_scheme": "clearkey",
         "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4yjD6zvaSceFKgIvl+gmuBL8Dp+Ryu4IsVSZC+PBdj+MbfbQSHiwyDOn1hdC8p6W+XUs8Mkvibnk/+FqThVoNYh",
-        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apSlRtddry2OKsjDlseJcbFsRxC0hkjhAtAu\nHA4d1kVOMg=="
+        "drm_license_url": "HCZtbqzut9luoVOjrMqam5s/6BXlssVkHouytKHc5UshYLj8eMQi8AnbqxKoXmlYrrn5g8wFsvatYKLR1jlLZw=="
       },
       {
         "icon": "https://static.flow.com.ar/images/270/CH_LOGO/350/500/0/0/81432910072195.png",
         "name": "DEPORTV",
         "drm_scheme": "clearkey",
         "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4y07pDDUjaeOWownFQZofNiIkK4BG/p7/VGglpFq7Sakv/QWCR9IbbLwYqeqbMH+ErePXXvpBMlSs392e1WgmeO",
-        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apTF4DESF5Rhq/0/PiNjon9tV57/jDPB9Yha\n49M44uKAcw=="
+        "drm_license_url": "HCZtbqzut9luoVOjrMqam5s/6BXlssVkHouytKHc5UsWbZx/huLur6g1LTBeSStc/hqQf0rEjQe3EWLmIrnYZA=="
       },
       {
         "icon": "http://static.dplay.tech/imagenes/dtv1.png",
         "name": "DIRECTV SPORTS 1",
         "drm_scheme": "clearkey",
         "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnWPFUUFnJBD2V+4ONbQyzItCsiLgCee18nosEd7Fw52bQ==",
-        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apQihyZTbX26+hyD9KDHK9pQ2TWb4t3prPr4\nQTzLh7M0AQ=="
+        "drm_license_url": "HCZtbqzut9luoVOjrMqam/oQslUOOxqDfb0I0JXgSi7lEb+XwFPJejPAcPv16QPw"
       },
       {
         "icon": "http://static.dplay.tech/imagenes/dtv2.png",
         "name": "DIRECTV SPORTS 2",
         "drm_scheme": "clearkey",
         "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnWkUrekaSs+Q1VQj4alcmFNm9Ymk2riLB4ts4v/qyqNQQ==",
-        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apT/WTvIbFuRVDv1LCOFtaarcI1Nae42mBT5\nWucXWgRbaw=="
+        "drm_license_url": "HCZtbqzut9luoVOjrMqam/oQslUOOxqDfb0I0JXgSi7FbZQoTDB73Ln3nQoiDd27"
       },
       {
         "icon": "http://static.dplay.tech/imagenes/dtv3.png",
@@ -910,7 +893,7 @@
         "name": "DirecTV Sports Fight",
         "drm_scheme": "clearkey",
         "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnVDZjW/QAc9dYnwpNk8BdsndasIlxwYdYh4fijsPcoVIA==",
-        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apRd0isQ2YOUlQ081TO++7QnrSU+Vpyp16xW\nrBFEreYYsQ=="
+        "drm_license_url": "HCZtbqzut9luoVOjrMqam/oQslUOOxqDfb0I0JXgSi5/pvsX/MoWnzMickmITM8G"
       },
       {
         "icon": "https://api.argentinatv.live/logos/tycsportplay.jpg",
@@ -986,35 +969,35 @@
         "name": "GARAGE TV",
         "drm_scheme": "clearkey",
         "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4x6UmCjF9811leOWkZgdVDucvOVdrEkhv5BJXVVDGSulM8JgFEq6sL7EZinoYqyAF/EnCumzH3ZkXyzAPDhrfV8",
-        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apQ5B70L+eozXIAD3Fas42Dt+TJ+yMlDWb7Q\ns+Ks1QyT8w=="
+        "drm_license_url": "HCZtbqzut9luoVOjrMqam5s/6BXlssVkHouytKHc5Ut4r/bk2afs8zk1wU3gQWk1xGg8qBjBmy9knk5GpnEmFQ=="
       },
       {
         "icon": "https://static.flow.com.ar/images/696/CH_LOGO/350/500/0/0/79970160072682.png",
         "name": "GOLF CHANNEL",
         "drm_scheme": "clearkey",
         "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4zEfCMWSs/MfyHd3IKSweN0Ekxs6xrxt/V4WQGTqFxgfk24QVQA0CtDYcDSejud2YR2s8tI/RbEvpbeX+FTO8mm",
-        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apRIDfBOiF9uMsTEZeiJQ8gSVgjddhdKbJhz\nolakSz95tg=="
+        "drm_license_url": "HCZtbqzut9luoVOjrMqam5s/6BXlssVkHouytKHc5Utvvxy1GiFNq7pv2+lqH/Gv/11apK1edZRapfrX7nJunQ=="
       },
       {
         "icon": "https://static.flow.com.ar/images/710/CH_LOGO/350/500/0/0/4594011307753.png",
         "name": "NBA",
         "drm_scheme": "clearkey",
         "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4xSssotbDAExSWy3/i2Fpn1kg0CNsYZhOLhbvtsa+GCe1mc1MlA4GH0jp3hLJwpzVE=",
-        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apQlQsSA+0BDJEMxV3a96hwwAg9gFS/JkOtk\n4TndpqPRFw=="
+        "drm_license_url": "HCZtbqzut9luoVOjrMqam5s/6BXlssVkHouytKHc5Ut6EsJgOKlKDVngzf8fGwBz"
       },
       {
         "icon": "https://static.flow.com.ar/images/663/CH_LOGO/350/500/0/0/927952730784.png",
         "name": "AMERICA SPORTS",
         "drm_scheme": "clearkey",
         "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4xcTWXAfBSSv9LnZ2U5TJi1DYzNYJEtxK5CoXTTRqQsRotKLE5TklFNtDky7HVgWIi6tLN4Ocy+oUVjhf4JlUBN",
-        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apTW+ZdAXDW1YU+icTQbqoEiEns3fWYRjuML\nvoIs/oNg4w=="
+        "drm_license_url": "HCZtbqzut9luoVOjrMqam5s/6BXlssVkHouytKHc5UuSurtmTog/r4mAAxMnP3L3geXOEqO5cN2HnfnTDBp8nQ=="
       },
       {
         "icon": "https://static.flow.com.ar/images/7840/CH_LOGO/350/500/0/0/25734747073582.png",
         "name": "PX SPORTS",
         "drm_scheme": "clearkey",
         "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4zE4EaiDK/FCkoiOPmEHZ2xXebjHze/O8xLm+BkFd8Bh66bJXmgceIejd+oeBB8N7+rRLR2TgXY6pbmKW+gAUYH",
-        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apT4feJVdxIYz1QwFYsnyqy9da4WMZXWC23R\nK1gQYkkl2Q=="
+        "drm_license_url": "HCZtbqzut9luoVOjrMqam5s/6BXlssVkHouytKHc5UuOeJyXOaFe2UucqOACNCWe+yBQjCIhAmUb/UGwMP70NQ=="
       },
       {
         "icon": "https://images.istreamplanet.net/w_200.00000596046448,c_limit/dtv-latam-prod/c12f19ec-fff5-4f21-a599-2a3b10f70833.png",
@@ -1105,6 +1088,82 @@
         "uri": "5YdyVi+PL8QZpLM9X5SumhqEzF66E7LtO1G5KLXQgWvhaO0NHbh96DjlzVy4dIzkJ4oFdxDwvGvkyiUoQn027S6wuonleIDpI8Gf3aEb4SsmyH160lD9E04DddFRSC3Q",
         "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibaMUYencIJEtyM77HECkJBb",
         "drm_scheme": "clearkey"
+      }
+    ]
+  },
+  {
+    "name": "CANALES INFANTILES",
+    "mode": false,
+    "lista": [
+      {
+        "icon": "https://static.flow.com.ar/images/266/CH_LOGO/60/40/350/500/31155375074343.png",
+        "name": "CARTOONITO",
+        "drm_scheme": "clearkey",
+        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4yLNJmmf7RhGlv1useYDooGhlfjrC5hWc491Yt86iQMSKCK3GfyiNGnkOy8PzWXlYQvLLUbVGU92wxb7Br+N/Jl",
+        "drm_license_url": "HCZtbqzut9luoVOjrMqam5s/6BXlssVkHouytKHc5UtdSFBoAHG/Ve1q2r3408PVfbcVXezF6xS797Q2RyS55Q=="
+      },
+      {
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1594px-Cartoon_Network_2010_logo.svg.png",
+        "name": "CARTOON NETWORK",
+        "drm_scheme": "clearkey",
+        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4xDLGAHYlGRDc3lPpC8/AmgeO5rSitl/MQ3plNVqPgkEXHo6KgVf3oaKqQr66N0NqHQXXhuBpiRVOAHSzGEg16T",
+        "drm_license_url": "HCZtbqzut9luoVOjrMqam5s/6BXlssVkHouytKHc5Usp1cGPopr30WT10AbTS/+v8Ks1rY7DTHTleqzDRs2YUg=="
+      },
+      {
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png",
+        "name": "DISCOVERY KIDS",
+        "drm_scheme": "clearkey",
+        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4x1x9D4ftwywu7HgAx/PDsjdl0CkK5OD0QqiU5YrqCTZE9vYQaB8nbgmvMTvNaW1QOznKGRCFHuW/zH6h7ATAKR",
+        "drm_license_url": "HCZtbqzut9luoVOjrMqam5s/6BXlssVkHouytKHc5UuCl3eS2W4L6xun7UiY3GjX2nTLJti9bwkpujS8C6kffw=="
+      },
+      {
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/7/78/Disney_Channel_Germany_Logo_2014.png",
+        "name": "DISNEY CHANNEL",
+        "drm_scheme": "clearkey",
+        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4zQOCLhVQwNTokXtLu17CJiyNGE3NsbS3lwuLN60yUaj614hC4ApXGDI8Bu02PvfQF8iPWNDpEo3jlTIcyiuptf",
+        "drm_license_url": "HCZtbqzut9luoVOjrMqam5s/6BXlssVkHouytKHc5UvlEnxNxCKN5KTu3v922PITL+ARtIDgBoiOm0sWE5/ZAA=="
+      },
+      {
+        "icon": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fen%2Fthumb%2Fb%2Fbb%2FDisney_Junior.svg%2F1200px-Disney_Junior.svg.png&f=1&nofb=1",
+        "name": "DISNEY JUNIOR",
+        "drm_scheme": "clearkey",
+        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4wI0K0bot24xhiON7kDguZkKo0GMgDxn8aEH0Ksys1kU04VAoCUidtJg4FKkoET18sbRKit4cmVeQOjGaTLcAD/",
+        "drm_license_url": "HCZtbqzut9luoVOjrMqam5s/6BXlssVkHouytKHc5Uuj+OjV4tMDxmTIlCdGBi7mZv3CN8KPw5qOf7d1ET2VCg=="
+      },
+      {
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png",
+        "name": "NICK",
+        "drm_scheme": "clearkey",
+        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4zq9evBc0dfNxlOYFJNPAvFye3l1EHYC6K7defscrDyoTJQMN4l1WlZulia3yCmGhiHfSdQtJUcm4/YBiwHMR3H",
+        "drm_license_url": "HCZtbqzut9luoVOjrMqam5s/6BXlssVkHouytKHc5UtkHszWV3YH7J68NZEsc+YRSmWbwGueaipZw5yEdrLFmg=="
+      },
+      {
+        "icon": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fa%2Fa1%2FNick_Jr._logo_2009.svg%2F1280px-Nick_Jr._logo_2009.svg.png&f=1&nofb=1",
+        "name": "NICK JR",
+        "drm_scheme": "clearkey",
+        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4zF2I5sBNSTD+9/hLKW0onOrw8odM40d7u95Pa32nNt9o4/vgp+8EfHvxyxEb476rM=",
+        "drm_license_url": "HCZtbqzut9luoVOjrMqam5s/6BXlssVkHouytKHc5UsDuQM0u1KiszZe5KSKt59ciSPcoY+bI2745f/Ul/dkTg=="
+      },
+      {
+        "icon": "https://upload.wikimedia.org/wikipedia/it/6/6c/Baby_tv_logo_senza_sfondo.png",
+        "name": "BABY TV",
+        "drm_scheme": "clearkey",
+        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4xO0UV85W9QHAfT2YPvJuThSx/Cois3jXwhhWvEi3zunI8KB5UlffRFy9bE3tMlU64=",
+        "drm_license_url": "HCZtbqzut9luoVOjrMqam5s/6BXlssVkHouytKHc5UuqvbXekLWwlOimGOIf/niOTpon02utN7yDeWlfkeL6VA=="
+      },
+      {
+        "icon": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvignette.wikia.nocookie.net%2Ftvcable%2Fimages%2Ff%2Fff%2FTooncas_logo_jpg.png%2Frevision%2Flatest%3Fcb%3D20140720173926%26path-prefix%3Des&f=1&nofb=1",
+        "name": "TOONCAST",
+        "drm_scheme": "clearkey",
+        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4wphR6B/w5ukkJu2FtGOxvURYxbsUPp+kosUFYljUk6rcaE5bWTNU8KPppY2ZwBaczeoaDKv8QbxIvKWLuhjJwB",
+        "drm_license_url": "HCZtbqzut9luoVOjrMqam5s/6BXlssVkHouytKHc5UtbSPDmQfaNxYIBV3XfBhZbDMU4XLzMCQDMaDJ/5iZZ2Q=="
+      },
+      {
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/3/35/Pakapaka_logotipo_%282010-2016%29.png",
+        "name": "PAKAPAKA",
+        "drm_scheme": "clearkey",
+        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4w/C0Y+bwQRO569krMNBlSvOUUVV8nVmyeEcEFAOx5euKgiMQpcsGkYCU5ZtNfvhT3LZzfm6XN+so3LykhrBM7M",
+        "drm_license_url": "HCZtbqzut9luoVOjrMqam5s/6BXlssVkHouytKHc5UtxRl7DmRjCSFY2PzrhmqqIQvLo+33oZ6pjLGOVw3KD5g=="
       }
     ]
   },
