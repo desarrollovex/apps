@@ -4,6 +4,41 @@
     "mode": true,
     "lista": [
       {
+        "icon": "https://mx.web.img3.acsta.net/pictures/22/09/01/00/22/5623859.jpg",
+        "name": "Presencias",
+        "uri": "DZBuj2t/1os0BNoYlHwt69ITrj8LxV10KP8vr3+A2jAYwaZdO7IjE2uDUag5RzyPCFpCuFnv5caD\nBIx9qL34yQ=="
+      },
+      {
+        "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/7/w1280/oASbLpyFkZ0L3cQkSvEnNjkYurG.jpg",
+        "name": "Bajo el sol amalfitano",
+        "uri": "DZBuj2t/1os0BNoYlHwt69ITrj8LxV10KP8vr3+A2jDa7oQCWo5rc4EQyqhsYwZub9NIKc2NKMO3\nY5JQ5wxZUTkQyxW9cCb5BItQgux4qQCgnrpPuutry+NiLnAwT3DP"
+      },
+      {
+        "icon": "https://es.web.img3.acsta.net/pictures/22/09/27/15/16/2448276.jpg",
+        "name": "La maldicion de Bridge Hollow",
+        "uri": "Fd7VYd+Xm/S6VMHJ32eqZrPEgTQ4LuR+AUJpggnAZGntcRHbRfeahuekh/mvt+MpJcHBYmFHy7Ls\nEPpVovEaXw=="
+      },
+      {
+        "icon": "https://es.web.img3.acsta.net/pictures/22/09/27/18/12/3710392.jpg",
+        "name": "Halloween: El final",
+        "uri": "Fd7VYd+Xm/S6VMHJ32eqZrPEgTQ4LuR+AUJpggnAZGntcRHbRfeahuekh/mvt+Mpn47rTrygTGNT\no6hbcEvwiA=="
+      },
+      {
+        "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/10/w1280/ArsNk4nqWy8x85WSDXpyuX0RCqB.jpg",
+        "name": "Grimcutty: Asesino implacablE",
+        "uri": "Fd7VYd+Xm/S6VMHJ32eqZrPEgTQ4LuR+AUJpggnAZGntcRHbRfeahuekh/mvt+MpX+PCFNX/lY9U\nrVjpeztDtA=="
+      },
+      {
+        "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/5/w1280/aKD4vOJfywqFtgKL59bFvhldp2e.jpg",
+        "name": "Guerra oculta",
+        "uri": "DZBuj2t/1os0BNoYlHwt69ITrj8LxV10KP8vr3+A2jDkk94FWGCrjkOLXxGzpEMYw6mzEHwYXxiJ\ns2tu1zy1SQ=="
+      },
+      {
+        "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/9/w300/fJQr6E6tUwihQuQgTSDUkKsrVZA.jpg",
+        "name": "Devils workshop",
+        "uri": "Fd7VYd+Xm/S6VMHJ32eqZrPEgTQ4LuR+AUJpggnAZGmqxVfWIoSxDblhIdxpEBq9yfDY4uzr4kh8\nmyxtwZUIWg=="
+      },
+      {
         "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/1/w1280/mFUJpirUVGKf8LAoEq1rebgPR6n.jpg",
         "name": "Peligro a domicilio",
         "uri": "QRLOUxifGhpOOBBfph9hk/YhjQ46/zRFE3RqVuUcI4Lzrgtw1e09HeIKXFjo3i0Sr/cLNHO7tQp4\nJEgMtGceqMrc3BJxUR+0/+DJ2Rti0phc0VOIQSNQVuNCDIBeUk/Z"
@@ -6651,6 +6686,14 @@
           {
             "name": "CAPITULO 6",
             "uri": "Fd7VYd+Xm/S6VMHJ32eqZgYvNO70sf0hEb/BBukp/Ybn9ejxZpDm92PjM94hpvWW"
+          },
+          {
+            "name": "CAPITULO 7",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZpfHXI2luKzvasW5lpsHxl5YWyVMOLBHpCDdmW+8axYpK594k4aUvX2j\n2VLKLYgOYg=="
+          },
+          {
+            "name": "CAPITULO 8",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZvPxHDXRg9OY3BW8f0ZUzXqAv9UmNryHpE50TZoAFdo8"
           }
         ]
       },
@@ -6715,6 +6758,10 @@
           {
             "name": "CAPITULO 7",
             "uri": "Fd7VYd+Xm/S6VMHJ32eqZq8+2DT4KIZdvvsxcygSZ+wnidcuKy83PrTTMSELXz0LPRiQMyHJLQ3v\nJZd6vQeYsw=="
+          },
+          {
+            "name": "CAPITULO 8",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZvPxHDXRg9OY3BW8f0ZUzXorMd6N6Hm2EjvRqFAWCLkriVmxOJ7zIc9r\n0rV7HSwF+A=="
           }
         ]
       },
