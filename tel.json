@@ -27,7 +27,9 @@
       {
         "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png",
         "name": "TELEFE",
-        "uri": "0mvj0ZgF3377g7DUUYjvrNFCoE9Iy522mdJ9dWLUI9zcFAv0u2H28or0AzOiusLssjXnJFoOYMye\nq0OuSXmbeA=="
+        "uri": "vriUr3OKz1kVyrTiqBzoN/7EMUq7Nn8KdIyHmnuL2dpajqjpfkvcQP1Mlsyx3qxgSClGld2cT8edB4jT2A86ipVhlyRRJ723UGJlINkzP0N/t9by8ATm30WIPd/edo52"
+        "drm_scheme": "clearkey",
+         "drm_license_url": "hs3dtdtVpX4bycgt64ciVgW80w0HN3eUJ7eJXuovIfnFhu4DzlYqPvVhtujnT2CB"
       },
       {
         "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png",
@@ -44,14 +46,9 @@
       {
         "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/1280px-TN_todo_noticias_logo.svg.png",
         "name": "TN NOTICIAS",
-        "uri": "vriUr3OKz1kVyrTiqBzoN/7EMUq7Nn8KdIyHmnuL2doJMihDJ7Zb8gKTGuC4buXXlublUg/bggjbyR88A1d+equtq1eOwoRDpw2LgxJLcdVMHmYzaJREfkDrXYfR7Apc",
+        "uri": "vriUr3OKz1kVyrTiqBzoN/7EMUq7Nn8KdIyHmnuL2dqtifgE1Nt2mNRgrxDyG2fCjYbJh8ZBxcM/I+p7+JZr5gfWDXRkZqcEb+2Zw0o3rHp8pa3lUhrsOWKkpK791ALQ",
         "drm_scheme": "clearkey",
-        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apSVvQsVYd8dhH5RZHDpt7MSfC8Oc8LXWXuaVKJGC7/eeA=="
-      },
-      {
-        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/1280px-TN_todo_noticias_logo.svg.png",
-        "name": "TN NOTICIAS",
-        "uri": "ZH1xOnNOTqpMBBY5Rib/RWK7G8VCo/bWpWIhNvfOEbgZqTV4vpLd7V2jVFrmu/nu3r3l/wP5MsF3\nqCd9fhddqg=="
+        "drm_license_url": "https://keys.digitaltv.cloud/k/TN-NOTICIAS"
       },
       {
         "icon": "https://upload.wikimedia.org/wikipedia/commons/8/82/A24_%282019-1%29.png",
