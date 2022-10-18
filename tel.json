@@ -27,9 +27,9 @@
       {
         "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png",
         "name": "TELEFE",
+        "uri": "5YdyVi+PL8QZpLM9X5SumhqEzF66E7LtO1G5KLXQgWvAt27zZdkqBBYiagjK2kpjDXrmcopoKYtHskPIQHlg4rstczaYTms0I7LoeTybnDnQCje8FQNajSCF7rnXvSek",
         "drm_scheme": "clearkey",
-        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4zyueL4wE0Jqtu4vRS3TNBB/UiGKgEnQLN2kZZD0yblNKSbjQnnz4x04VHTY34z+p6NYLYOBZpmfErn6MLFTAkZ",
-        "drm_license_url": "HCZtbqzut9luoVOjrMqamwBaaHobU1j066yE9k8mBiyduqXnYBGTgOUkhowJI3+B"
+        "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibYRd7zxxdpK5qupCzaNZ4BF"
       },
       {
         "icon": "https://upload.wikimedia.org/wikipedia/commons/3/32/Logo_de_eltrece_lanzado_en_2016.png",
@@ -41,9 +41,9 @@
       {
         "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/1280px-TN_todo_noticias_logo.svg.png",
         "name": "TN NOTICIAS",
+        "uri": "5YdyVi+PL8QZpLM9X5SumhqEzF66E7LtO1G5KLXQgWuAnaqLMjG0M7EgEYD86owTVCSF+QS+KdqFz6pherhvTC/Ndzu1tplnTtpGFFt5DI1+Eb5wvXfEQMFEDtwoSRgX",
         "drm_scheme": "clearkey",
-        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4yjo1CeXCPkrsbMv/ISLo8ibAa++5qAlF2fjr+cEc/lUBgYwsutq79k94Jsdvubozd2NCl3b2UFtPNGdFR8P17P",
-        "drm_license_url": "HCZtbqzut9luoVOjrMqam/tseZotSTjxnCYUAC6EXTqnn1V+VUsACpa56PCFYH0G"
+        "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibYoQ0gKTvHOLcnICzJjOAJP"
       },
       {
         "icon": "https://upload.wikimedia.org/wikipedia/commons/8/82/A24_%282019-1%29.png",
@@ -769,16 +769,9 @@
       {
         "icon": "https://static.flow.com.ar/images/3545/CH_LOGO/60/40/350/500/92564610073951.png",
         "name": "ESPN PREMIUM",
-        "drm_scheme": "clearkey",
-        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4wGT52mdeZ3SD1iRaW1YsEsrL/9o7RanpAtZhH3jELrewnnhceYtiVo9p0kU9KnD2HUf1qJ8t4bvkIoUHU0hvA0NDypQD19x9OeGk3MOObSBA==",
-        "drm_license_url": "5YdyVi+PL8QZpLM9X5SumnXfVdiLbWmKfSu3LbQGVbf0MQTOkUHayICWw4qzZ96t"
-      },
-      {
-        "icon": "https://static.flow.com.ar/images/3545/CH_LOGO/60/40/350/500/92564610073951.png",
-        "name": "ESPN PREMIUM",
-        "drm_scheme": "clearkey",
-        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4wGT52mdeZ3SD1iRaW1YsEsrL/9o7RanpAtZhH3jELrewnnhceYtiVo9p0kU9KnD2HUf1qJ8t4bvkIoUHU0hvA0NDypQD19x9OeGk3MOObSBA==",
-        "drm_license_url": "5YdyVi+PL8QZpLM9X5SumnXfVdiLbWmKfSu3LbQGVbf0MQTOkUHayICWw4qzZ96t"
+        "uri": "5YdyVi+PL8QZpLM9X5SumhqEzF66E7LtO1G5KLXQgWuSQGSZF63XhZNfrVKyi0Hva/48xcFVRlD74ud9xw/X6uwu1Ve2eOhnRHr6axuqrNP6a8Sbp1glGe3dbBePx4MN2xWgP23Vi5KDgEZlh/WqCA==",
+        "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibbz/wkGVMtXQ4tLT8DHZPPB7rZZD6Qq5qks9ZTWHGALxQ==",
+        "drm_scheme": "clearkey"
       },
       {
         "icon": "https://static.flow.com.ar/images/3543/CH_LOGO/350/500/0/0/45176151073950.png",
