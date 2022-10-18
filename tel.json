@@ -1,6 +1,6 @@
 [
   {
-    "name": "ARG",
+    "name": "ARGENTINA",
     "mode": false,
     "lista": [
       {
@@ -2099,6 +2099,103 @@
     ]
   },
   {
+    "name": "Cinema 720p Temporal",
+    "mode": false,
+    "lista": [
+      {
+        "icon": "https://archive.org/download/cinema-hd-icon-1200x1200_202102/cinema-hd-icon-1200x1200.png",
+        "name": "Cinema 1",
+        "uri": "0mvj0ZgF3377g7DUUYjvrNFCoE9Iy522mdJ9dWLUI9zCmV6VLebOFm+xjyyEEejtKfe8qEOc6IZ2\nI9Yj7gt1mg=="
+      },
+      {
+        "icon": "https://archive.org/download/cinema-hd-icon-1200x1200_202102/cinema-hd-icon-1200x1200.png",
+        "name": "Cinema 2",
+        "uri": "0mvj0ZgF3377g7DUUYjvrNFCoE9Iy522mdJ9dWLUI9wuKzxhsRoMhbZgLtUx8Bc4+Kd9gbeoZ6f9\n69oTHjKBYg=="
+      },
+      {
+        "icon": "https://archive.org/download/cinema-hd-icon-1200x1200_202102/cinema-hd-icon-1200x1200.png",
+        "name": "Cinema 3",
+        "uri": "0mvj0ZgF3377g7DUUYjvrNFCoE9Iy522mdJ9dWLUI9y4WwzqcelEqXPgy3K/3bdXGuh1X+8Fh+ml\ntXsnJG2szw=="
+      },
+      {
+        "icon": "https://archive.org/download/cinema-hd-icon-1200x1200_202102/cinema-hd-icon-1200x1200.png",
+        "name": "Cinema 4",
+        "uri": "0mvj0ZgF3377g7DUUYjvrNFCoE9Iy522mdJ9dWLUI9w0GxDMBQOjRTX+ggf2gwviDgumb4Qr7LoE\nfQWAgM2opQ=="
+      },
+      {
+        "icon": "https://archive.org/download/cinema-hd-icon-1200x1200_202102/cinema-hd-icon-1200x1200.png",
+        "name": "Cinema 5",
+        "uri": "0mvj0ZgF3377g7DUUYjvrNFCoE9Iy522mdJ9dWLUI9zl8+VAqw3/7AVyx0Ysr2CW9UVmm2BhV5ic\nKZNyCvNoHg=="
+      },
+      {
+        "icon": "https://archive.org/download/cinema-hd-icon-1200x1200_202102/cinema-hd-icon-1200x1200.png",
+        "name": "Cinema 6",
+        "uri": "0mvj0ZgF3377g7DUUYjvrNFCoE9Iy522mdJ9dWLUI9z5CT5AGNA9BSnu76sZgVMLc6f7Q9RILaoR\n3Wai29QacA=="
+      },
+      {
+        "icon": "https://archive.org/download/cinema-hd-icon-1200x1200_202102/cinema-hd-icon-1200x1200.png",
+        "name": "Cinema 7",
+        "uri": "0mvj0ZgF3377g7DUUYjvrNFCoE9Iy522mdJ9dWLUI9wSMsIOsEQask0lwIzC1njQti+DWo+epiLB\nN7SZfyBmmQ=="
+      },
+      {
+        "icon": "https://archive.org/download/cinema-hd-icon-1200x1200_202102/cinema-hd-icon-1200x1200.png",
+        "name": "Cinema 8",
+        "uri": "0mvj0ZgF3377g7DUUYjvrNFCoE9Iy522mdJ9dWLUI9zuPSkg0Z3CRR7zvPbMoWtcg7voYHTDq7Ll\nBUsKfGxrPQ=="
+      },
+      {
+        "icon": "https://archive.org/download/cinema-hd-icon-1200x1200_202102/cinema-hd-icon-1200x1200.png",
+        "name": "Cinema 9",
+        "uri": "0mvj0ZgF3377g7DUUYjvrNFCoE9Iy522mdJ9dWLUI9yMzj8B2fzJ6sk8IRtzBE6WQtfnNUVc0nKY\ncKWyc85raA=="
+      },
+      {
+        "icon": "https://archive.org/download/cinema-hd-icon-1200x1200_202102/cinema-hd-icon-1200x1200.png",
+        "name": "Cinema 10",
+        "uri": "0mvj0ZgF3377g7DUUYjvrNFCoE9Iy522mdJ9dWLUI9yajpGbn8932GUWS8Sib3P85lvjzG6s3Dg0\n1SnEdFLi4Q=="
+      }
+    ]
+  },
+  {
+    "name": "Movistar Temporal",
+    "mode": false,
+    "lista": [
+      {
+        "icon": "https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-accion.jpg.pagespeed.ic.XAU9P3nHew.jpg",
+        "name": "Accion",
+        "uri": "0mvj0ZgF3377g7DUUYjvrNFCoE9Iy522mdJ9dWLUI9yX0M1KMNcq6PDYSi6yyBzQNU2+vxy0FC9+\n3VPVDoT9aQ=="
+      },
+      {
+        "icon": "https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-comedia.jpg.pagespeed.ic.Pgg7NiIrIU.jpg",
+        "name": "Comedia",
+        "uri": "0mvj0ZgF3377g7DUUYjvrNFCoE9Iy522mdJ9dWLUI9xSclZ46MjrJbazearIh1+juQKwClVH5cP7\n/7B8FPvNfA=="
+      },
+      {
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Movistar-dcine.jpg",
+        "name": "DCine",
+        "uri": "0mvj0ZgF3377g7DUUYjvrNFCoE9Iy522mdJ9dWLUI9xDvixr/PWeZasdJawnIxXvFzP6TNt6Ztn1\nw8B1rB/YyQ=="
+      },
+      {
+        "icon": "https://pbs.twimg.com/media/ET0sRogWAAAxPa3.jpg",
+        "name": "Disney",
+        "uri": "0mvj0ZgF3377g7DUUYjvrNFCoE9Iy522mdJ9dWLUI9w4EsiV/FH1dNRLOivXeGV8y4IsscwrEwrk\n5j8MsuFhtA=="
+      },
+      {
+        "icon": "https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-drama.jpg.pagespeed.ic.CCSz56TBeI.jpg",
+        "name": "Drama",
+        "uri": "0mvj0ZgF3377g7DUUYjvrNFCoE9Iy522mdJ9dWLUI9yVgxtZKDok31brVdTGHIBNQWRNfZMXacLv\nPJjDU4eKSw=="
+      },
+      {
+        "icon": "https://sincroguia-tv.expansion.com/uploads/images/3/d/m/movistar-estrenos.jpg",
+        "name": "Estrenos",
+        "uri": "0mvj0ZgF3377g7DUUYjvrNFCoE9Iy522mdJ9dWLUI9woUpTdfvipcCiR1NNiwf213N6c43x+W+y1\nkLhmNSeOrw=="
+      },
+      {
+        "icon": "https://sincroguia-tv.expansion.com/uploads/images/m/o/v/movistar-seriesmania.jpg",
+        "name": "Seriesmania",
+        "uri": "0mvj0ZgF3377g7DUUYjvrNFCoE9Iy522mdJ9dWLUI9zFVv4qIPmrKY0cO0/soe4tH/0vXmmcUYPw\nFwj9Vhf2cw=="
+      }
+    ]
+  },
+  {
     "name": "VARIOS CANALES",
     "mode": false,
     "lista": [
@@ -2902,6 +2999,11 @@
     "name": "ADULTOS XXX 18+",
     "mode": false,
     "lista": [
+      {
+        "icon": "http://xxxporn15.com/wp-content/uploads/2020/11/logo.png",
+        "name": 1,
+        "uri": "0mvj0ZgF3377g7DUUYjvrNFCoE9Iy522mdJ9dWLUI9zF4bkdWveO1PQcdGiS9mp3"
+      },
       {
         "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/XXX_Barnstar_Hires.png/800px-XXX_Barnstar_Hires.png",
         "name": "PORNO",
