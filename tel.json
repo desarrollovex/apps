@@ -796,6 +796,13 @@
         "drm_scheme": "clearkey"
       },
       {
+        "icon": "https://static.flow.com.ar/images/3545/CH_LOGO/60/40/350/500/92564610073951.png",
+        "name": "ESPN PREMIUM",
+        "drm_scheme": "clearkey",
+        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4wGT52mdeZ3SD1iRaW1YsEsrL/9o7RanpAtZhH3jELrewnnhceYtiVo9p0kU9KnD2HUf1qJ8t4bvkIoUHU0hvA0NDypQD19x9OeGk3MOObSBA==",
+        "drm_license_url": "5YdyVi+PL8QZpLM9X5SumnXfVdiLbWmKfSu3LbQGVbf0MQTOkUHayICWw4qzZ96t"
+      },
+      {
         "icon": "https://static.flow.com.ar/images/3543/CH_LOGO/350/500/0/0/45176151073950.png",
         "name": "TNT SPORTS HD",
         "drm_scheme": "clearkey",
