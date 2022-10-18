@@ -144,6 +144,20 @@
     "mode": false,
     "lista": [
       {
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/1280px-TN_todo_noticias_logo.svg.png",
+        "name": "TN NOTICIAS",
+        "drm_scheme": "clearkey",
+        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4yjo1CeXCPkrsbMv/ISLo8ibAa++5qAlF2fjr+cEc/lUBgYwsutq79k94Jsdvubozd2NCl3b2UFtPNGdFR8P17P",
+        "drm_license_url": "HCZtbqzut9luoVOjrMqam/tseZotSTjxnCYUAC6EXTqnn1V+VUsACpa56PCFYH0G"
+      },
+      {
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png",
+        "name": "TELEFE",
+        "drm_scheme": "clearkey",
+        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4zyueL4wE0Jqtu4vRS3TNBB/UiGKgEnQLN2kZZD0yblNKSbjQnnz4x04VHTY34z+p6NYLYOBZpmfErn6MLFTAkZ",
+        "drm_license_url": "HCZtbqzut9luoVOjrMqamwBaaHobU1j066yE9k8mBiyduqXnYBGTgOUkhowJI3+B"
+      },
+      {
         "icon": "https://www.m3u.cl/logo/249_5TV.png",
         "name": "5tv",
         "uri": "tJY6wT2z5XIDGg6lICThtFCvHwNAA8IYAYCxlVSCsDXdsJTjRJcm55yWxmuu3xsnT5XQkUE1H3Q8\nb+Ra76+GB073WN5V17BXlQAW8yh0CK0="
