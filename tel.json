@@ -4714,8 +4714,23 @@
     "lista": [
       {
         "icon": "https://telefe-static.akamaized.net/media/18236425/casting-gran-hermano-2022.jpg?height=360&mode=crop",
-        "name": "GH 2022",
+        "name": "GH 2022 SD",
         "uri": "L0nhrjGOdxOlT5pGHRZkKgI8IzNH4WHWPaVxWJPMJWZ5+d+Y0Jo5SsGNrexH/MlpcI/TRjHD0TaY\nM7zF+ZCW8XM50JzsTwatHXHrFdWHdUujbaaAxt4++/a9fK8YfaUR"
+      },
+      {
+        "icon": "https://telefe-static.akamaized.net/media/18236425/casting-gran-hermano-2022.jpg?height=360&mode=crop",
+        "name": "GH 2022 SD",
+        "uri": "L0nhrjGOdxOlT5pGHRZkKgI8IzNH4WHWPaVxWJPMJWZ5+d+Y0Jo5SsGNrexH/MlpcI/TRjHD0TaY\nM7zF+ZCW8XM50JzsTwatHXHrFdWHdUsk9wZPk5g7/v4nXRYJlVa9"
+      },
+      {
+        "icon": "https://lh3.googleusercontent.com/-el7nacLOOXE/Y08YyJsahbI/AAAAAAAAA2I/6i517dTpJasJC-0BG8ZJCQWGKucpZIsSwCNcBGAsYHQ/w480/ver-gran-hermano-en-vivo.jpg",
+        "name": "GH 2022 HD",
+        "uri": "L0nhrjGOdxOlT5pGHRZkKgI8IzNH4WHWPaVxWJPMJWZ5+d+Y0Jo5SsGNrexH/MlpcI/TRjHD0TaY\nM7zF+ZCW8XM50JzsTwatHXHrFdWHdUuKxI82WjuI9LZsKE2B23y8"
+      },
+      {
+        "icon": "https://lh3.googleusercontent.com/-el7nacLOOXE/Y08YyJsahbI/AAAAAAAAA2I/6i517dTpJasJC-0BG8ZJCQWGKucpZIsSwCNcBGAsYHQ/w480/ver-gran-hermano-en-vivo.jpg",
+        "name": "GH 2022 HD",
+        "uri": "L0nhrjGOdxOlT5pGHRZkKgI8IzNH4WHWPaVxWJPMJWZ5+d+Y0Jo5SsGNrexH/MlpcI/TRjHD0TaY\nM7zF+ZCW8XM50JzsTwatHXHrFdWHdUvNs+510Z298qVs3v2AGKQ3"
       }
     ]
   }
