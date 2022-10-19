@@ -1,6 +1,6 @@
 [
   {
-    "name": "Argentina",
+    "name": "ARGENTINA",
     "mode": false,
     "lista": [
       {
@@ -1381,41 +1381,6 @@
         "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnUBl0U4gOrzzH2ANRQIdc7DjoLQ2GnIQ/6eFuOftlLK+w==",
         "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibZY3ZcDqmoR9JV+eQdPeLpu",
         "drm_scheme": "clearkey"
-      },
-      {
-        "icon": "http://static.dplay.tech/imagenes/universalcinema.png",
-        "name": "UNIVERSAL CINEMA",
-        "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnXvqCOyrhUuWEEalf/TK/Bg5D/BHlp8MyR9zpve5X3f5Q==",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "fKZDeeMII4hzzOisytLJXA+M8WSN4c+Oj17ek8dktwM8FTZdJniw+9jYPUfQGtaE"
-      },
-      {
-        "icon": "http://static.dplay.tech/imagenes/uncomedy.png",
-        "name": "UNIVERSAL COMEDY",
-        "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnVbA57AsmprxVLRMEtr75/myEF922Qy3jG79h9rTel4sA==",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "fKZDeeMII4hzzOisytLJXA+M8WSN4c+Oj17ek8dktwN8cktx8M3UrIBqmwMaNJht"
-      },
-      {
-        "icon": "http://static.dplay.tech/imagenes/uncrime.png",
-        "name": "UNIVERSAL CRIME",
-        "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnXkcCZ/trMWk4UzJffm3zTdyAWHPg/OsDxUTQys+QyfWg==",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "fKZDeeMII4hzzOisytLJXA+M8WSN4c+Oj17ek8dktwPOrHHxQUeeAw7Y+VvQI+6A"
-      },
-      {
-        "icon": "http://static.dplay.tech/imagenes/unpremiere.png",
-        "name": "UNIVERSAL PREMIERE",
-        "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnW9z4Se5t1zlSpxDQb4JlWso4Dz+EhuRtfe/bYmzub8GQ==",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "fKZDeeMII4hzzOisytLJXA+M8WSN4c+Oj17ek8dktwPp8EMbNtyrvbdB1IIIHsA8"
-      },
-      {
-        "icon": "http://static.dplay.tech/imagenes/unreality.png",
-        "name": "UNIVERSAL REALITY",
-        "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnUBl0U4gOrzzH2ANRQIdc7DjoLQ2GnIQ/6eFuOftlLK+w==",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "fKZDeeMII4hzzOisytLJXA+M8WSN4c+Oj17ek8dktwPw1JZg8LfI5n047VHwVDxY"
       }
     ]
   },
@@ -2129,22 +2094,32 @@
       {
         "icon": "https://archive.org/download/cinema-hd-icon-1200x1200_202102/cinema-hd-icon-1200x1200.png",
         "name": "Cinema 1",
-        "uri": "0mvj0ZgF3377g7DUUYjvrNFCoE9Iy522mdJ9dWLUI9zCmV6VLebOFm+xjyyEEejtKfe8qEOc6IZ2\nI9Yj7gt1mg=="
+        "uri": "zXVLp40uVnhj31k2ns8IdINZetU5U5JU0kaRvAil+QRFARl/hW3b+/oYceTkvB0Cm2iTOBSBZVlr\nRyZzLWV7EASqJL7/TkTuM8SjvWIjWCg="
       },
       {
         "icon": "https://archive.org/download/cinema-hd-icon-1200x1200_202102/cinema-hd-icon-1200x1200.png",
         "name": "Cinema 2",
-        "uri": "0mvj0ZgF3377g7DUUYjvrNFCoE9Iy522mdJ9dWLUI9wuKzxhsRoMhbZgLtUx8Bc4+Kd9gbeoZ6f9\n69oTHjKBYg=="
+        "uri": "FIo+OYSGLPZqiTcxm13yogh+dGzy4tLIxWG7iQ8d3FoTP0EM2mK5+JOAle7/O4QeF+sXOOTMDYwiXgz2HeJ3Mw=="
       },
       {
         "icon": "https://archive.org/download/cinema-hd-icon-1200x1200_202102/cinema-hd-icon-1200x1200.png",
         "name": "Cinema 3",
-        "uri": "0mvj0ZgF3377g7DUUYjvrNFCoE9Iy522mdJ9dWLUI9y4WwzqcelEqXPgy3K/3bdXGuh1X+8Fh+ml\ntXsnJG2szw=="
+        "uri": "zXVLp40uVnhj31k2ns8IdINZetU5U5JU0kaRvAil+QRFARl/hW3b+/oYceTkvB0Cm2iTOBSBZVlr\nRyZzLWV7ED5waEkZVoDneHNWCo3+RZY="
       },
       {
         "icon": "https://archive.org/download/cinema-hd-icon-1200x1200_202102/cinema-hd-icon-1200x1200.png",
         "name": "Cinema 4",
-        "uri": "0mvj0ZgF3377g7DUUYjvrNFCoE9Iy522mdJ9dWLUI9w0GxDMBQOjRTX+ggf2gwviDgumb4Qr7LoE\nfQWAgM2opQ=="
+        "uri": "FIo+OYSGLPZqiTcxm13yogh+dGzy4tLIxWG7iQ8d3FoTP0EM2mK5+JOAle7/O4QeGpQuvBnXRM2qWkKJKsAsaw=="
+      },
+      {
+        "icon": "https://archive.org/download/cinema-hd-icon-1200x1200_202102/cinema-hd-icon-1200x1200.png",
+        "name": "Cinema ",
+        "uri": "zXVLp40uVnhj31k2ns8IdINZetU5U5JU0kaRvAil+QRFARl/hW3b+/oYceTkvB0Cm2iTOBSBZVlr\nRyZzLWV7ELTSxuC15/cobBV3VENkxUs="
+      },
+      {
+        "icon": "https://archive.org/download/cinema-hd-icon-1200x1200_202102/cinema-hd-icon-1200x1200.png",
+        "name": "Cinema 4",
+        "uri": "zXVLp40uVnhj31k2ns8IdINZetU5U5JU0kaRvAil+QRFARl/hW3b+/oYceTkvB0Cm2iTOBSBZVlr\nRyZzLWV7EAHmj7EniIvpP4Kk3JbyBL8="
       },
       {
         "icon": "https://archive.org/download/cinema-hd-icon-1200x1200_202102/cinema-hd-icon-1200x1200.png",
@@ -2175,47 +2150,6 @@
         "icon": "https://archive.org/download/cinema-hd-icon-1200x1200_202102/cinema-hd-icon-1200x1200.png",
         "name": "Cinema 10",
         "uri": "0mvj0ZgF3377g7DUUYjvrNFCoE9Iy522mdJ9dWLUI9yajpGbn8932GUWS8Sib3P85lvjzG6s3Dg0\n1SnEdFLi4Q=="
-      }
-    ]
-  },
-  {
-    "name": "Movistar Temporal",
-    "mode": false,
-    "lista": [
-      {
-        "icon": "https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-accion.jpg.pagespeed.ic.XAU9P3nHew.jpg",
-        "name": "Accion",
-        "uri": "0mvj0ZgF3377g7DUUYjvrNFCoE9Iy522mdJ9dWLUI9yX0M1KMNcq6PDYSi6yyBzQNU2+vxy0FC9+\n3VPVDoT9aQ=="
-      },
-      {
-        "icon": "https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-comedia.jpg.pagespeed.ic.Pgg7NiIrIU.jpg",
-        "name": "Comedia",
-        "uri": "0mvj0ZgF3377g7DUUYjvrNFCoE9Iy522mdJ9dWLUI9xSclZ46MjrJbazearIh1+juQKwClVH5cP7\n/7B8FPvNfA=="
-      },
-      {
-        "icon": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Movistar-dcine.jpg",
-        "name": "DCine",
-        "uri": "0mvj0ZgF3377g7DUUYjvrNFCoE9Iy522mdJ9dWLUI9xDvixr/PWeZasdJawnIxXvFzP6TNt6Ztn1\nw8B1rB/YyQ=="
-      },
-      {
-        "icon": "https://pbs.twimg.com/media/ET0sRogWAAAxPa3.jpg",
-        "name": "Disney",
-        "uri": "0mvj0ZgF3377g7DUUYjvrNFCoE9Iy522mdJ9dWLUI9w4EsiV/FH1dNRLOivXeGV8y4IsscwrEwrk\n5j8MsuFhtA=="
-      },
-      {
-        "icon": "https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-drama.jpg.pagespeed.ic.CCSz56TBeI.jpg",
-        "name": "Drama",
-        "uri": "0mvj0ZgF3377g7DUUYjvrNFCoE9Iy522mdJ9dWLUI9yVgxtZKDok31brVdTGHIBNQWRNfZMXacLv\nPJjDU4eKSw=="
-      },
-      {
-        "icon": "https://sincroguia-tv.expansion.com/uploads/images/3/d/m/movistar-estrenos.jpg",
-        "name": "Estrenos",
-        "uri": "0mvj0ZgF3377g7DUUYjvrNFCoE9Iy522mdJ9dWLUI9woUpTdfvipcCiR1NNiwf213N6c43x+W+y1\nkLhmNSeOrw=="
-      },
-      {
-        "icon": "https://sincroguia-tv.expansion.com/uploads/images/m/o/v/movistar-seriesmania.jpg",
-        "name": "Seriesmania",
-        "uri": "0mvj0ZgF3377g7DUUYjvrNFCoE9Iy522mdJ9dWLUI9zFVv4qIPmrKY0cO0/soe4tH/0vXmmcUYPw\nFwj9Vhf2cw=="
       }
     ]
   },
@@ -3351,7 +3285,7 @@
         "drm_scheme": "clearkey",
         "drm_license_url": "hs3dtdtVpX4bycgt64ciVoPc/70bqP0Xb0u+5m1jO/MzNJPVwV+glsZIucOCNHus"
       },
-       {
+      {
         "icon": "https://forum.panasef.com/wp-content/uploads/2018/12/Icono-11.png",
         "name": "EVENT 2",
         "uri": "hs3dtdtVpX4bycgt64ciVoPc/70bqP0Xb0u+5m1jO/Pur1C/NQfM/mjLPfTy59B0",
