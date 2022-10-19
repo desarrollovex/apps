@@ -1,6 +1,6 @@
 [
   {
-    "name": "ARGENTINA",
+    "name": "Argentina",
     "mode": false,
     "lista": [
       {
@@ -1380,6 +1380,13 @@
         "name": "UNIVERSAL REALITY",
         "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnUBl0U4gOrzzH2ANRQIdc7DjoLQ2GnIQ/6eFuOftlLK+w==",
         "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibZY3ZcDqmoR9JV+eQdPeLpu",
+        "drm_scheme": "clearkey"
+      },
+      {
+        "icon": "http://static.dplay.tech/imagenes/unreality.png",
+        "name": "UNIVERSAL REALITY",
+        "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnVbA57AsmprxVLRMEtr75/myEF922Qy3jG79h9rTel4sA==",
+        "drm_license_url": "l8CBpEMAlY+OHRzFRJBDQu6+sb+TulS4qwoGQOgOTPhJm4xFP+6i9AKwJTByn4CBLSYdRTQ+oZbJ\n/JUYpaCgQQ==",
         "drm_scheme": "clearkey"
       }
     ]
