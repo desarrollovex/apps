@@ -1,6 +1,6 @@
 [
   {
-    "name": "ARG",
+    "name": "ARGE",
     "mode": false,
     "lista": [
       {
@@ -27,9 +27,14 @@
       {
         "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png",
         "name": "TELEFE",
-        "uri": "vriUr3OKz1kVyrTiqBzoN/7EMUq7Nn8KdIyHmnuL2dpajqjpfkvcQP1Mlsyx3qxgSClGld2cT8edB4jT2A86ipVhlyRRJ723UGJlINkzP0N/t9by8ATm30WIPd/edo52",
+        "uri": "vriUr3OKz1kVyrTiqBzoN/7EMUq7Nn8KdIyHmnuL2dpajqjpfkvcQP1Mlsyx3qxgSClGld2cT8edB4jT2A86ipVhlyRRJ723UGJlINkzP0N/t9by8ATm30WIPd/edo52"
         "drm_scheme": "clearkey",
          "drm_license_url": "hs3dtdtVpX4bycgt64ciVgW80w0HN3eUJ7eJXuovIfnFhu4DzlYqPvVhtujnT2CB"
+      },
+      {
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png",
+        "name": "TELFE",
+        "uri": "ZH1xOnNOTqpMBBY5Rib/RWK7G8VCo/bWpWIhNvfOEbgAsLkkyVwNyWavc1cScybEiV9AzMduV8bH\nce+KYcrbWA=="
       },
       {
         "icon": "https://upload.wikimedia.org/wikipedia/commons/3/32/Logo_de_eltrece_lanzado_en_2016.png",
