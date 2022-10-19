@@ -1196,21 +1196,6 @@
     "mode": false,
     "lista": [
       {
-        "icon": "https://xtrematv.com/wp-content/uploads/2022/05/logoanimal2.jpg",
-        "name": "Anime",
-        "uri": "Grkv+PEc8LMTbZ1Xu2HYJrlvzzcpGTgsEN2Id+B4jl7EouNgoN4x9WHi1ioNii64WsYJDF5SwfOQ\nOhmnjUSk2q/Cd4dP6a+HJ/5+Ji+TMu55YX43GYQaEbjkx+HMsckG"
-      },
-      {
-        "icon": "https://xtrematv.com/wp-content/uploads/2022/05/logoCARTOONS2.jpg",
-        "name": "Infantil",
-        "uri": "I6hAsv/+KoQJg6QiP8LBu6hL1qV3VXGtRyHP51KOuYirgYxdU1ewuI0SmtKjLdXNaztHIDYahb3Y\nf9kQlhkUYbR9lVMc3MD846mSYDcbP2sTSLc812+V9/N6rXaDeHjD"
-      },
-      {
-        "icon": "https://xtrematv.com/wp-content/uploads/2022/05/logoRETROCARTOONS2-1.jpg",
-        "name": "retro kids",
-        "uri": "I6hAsv/+KoQJg6QiP8LBu6hL1qV3VXGtRyHP51KOuYirgYxdU1ewuI0SmtKjLdXNaztHIDYahb3Y\nf9kQlhkUYcqnZKhdYsfUQC6A4wR2YtLaODPpspRqurPdZgmUG50O"
-      },
-      {
         "icon": "https://upload.wikimedia.org/wikipedia/commons/c/c3/TvG2.jpg",
         "name": "TVG",
         "uri": "AfRtF+wQpbiAe9atJ2t3usgZwbbvRKg+uCaGPUz/7uApsAjj8qZPW1B0etWTytUF"
@@ -1611,31 +1596,6 @@
     "name": "CINE 2",
     "mode": false,
     "lista": [
-      {
-        "icon": "https://xtrematv.com/wp-content/uploads/2022/05/logoACCION2.jpg",
-        "name": "ACCION",
-        "uri": "I6hAsv/+KoQJg6QiP8LBu6hL1qV3VXGtRyHP51KOuYhQCD2Akk0owfqdYHpt7kZHKe7aLE5WPb0y\nLGeS7rHCiUCAur085TxdM5MQRJBAm8U="
-      },
-      {
-        "icon": "https://xtrematv.com/wp-content/uploads/2022/05/logoSUSPENSO2.jpg",
-        "name": "SUSPENSO",
-        "uri": "I6hAsv/+KoQJg6QiP8LBu6hL1qV3VXGtRyHP51KOuYgkQJzMOpvICANOxJDIZT41hKxth9R8oWrH\nAjrfuZkpPik+sdmseAg5huPSc4y62NcqPlw+qXkF90ZvfR0fvc2W"
-      },
-      {
-        "icon": "https://xtrematv.com/wp-content/uploads/2022/05/logoTERROR2.jpg",
-        "name": "TERROR",
-        "uri": "I6hAsv/+KoQJg6QiP8LBu6hL1qV3VXGtRyHP51KOuYgSaFg5pIshuL5R2DsNFtJIvCkTbQvVRr7J\n+XR6h/YazbkVsj0sRO0AItclZgKLmPs="
-      },
-      {
-        "icon": "https://xtrematv.com/wp-content/uploads/2022/05/logoRETROSERIES2.jpg",
-        "name": "series",
-        "uri": "Grkv+PEc8LMTbZ1Xu2HYJrlvzzcpGTgsEN2Id+B4jl7EouNgoN4x9WHi1ioNii64WsYJDF5SwfOQ\nOhmnjUSk2j57laBfehVJh9eo7j/hmmQIoemLV54cUBAfVtnqnvWr"
-      },
-      {
-        "icon": "https://xtrematv.com/wp-content/uploads/2022/05/logoRETROSERIES2-1.jpg",
-        "name": "series retro",
-        "uri": "Grkv+PEc8LMTbZ1Xu2HYJrlvzzcpGTgsEN2Id+B4jl5lELHYAoL1HA4t8vzGQkXUQ6YgIyHjJTu5\ntLvOlP6rZzSaengOEx9W9BPTm+39TLw6Yr1Z23BRxcmIJw1h5jpC"
-      },
       {
         "icon": "https://panctv.tucuman.stream/wp-content/uploads/sites/2/2022/08/cropped-logo-panc-tv.png",
         "name": "PANC TV",
@@ -2101,7 +2061,7 @@
       {
         "icon": "https://archive.org/download/cinema-hd-icon-1200x1200_202102/cinema-hd-icon-1200x1200.png",
         "name": "Cinema 1",
-        "uri": "zXVLp40uVnhj31k2ns8IdINZetU5U5JU0kaRvAil+QRFARl/hW3b+/oYceTkvB0Cm2iTOBSBZVlr\nRyZzLWV7EASqJL7/TkTuM8SjvWIjWCg="
+        "uri": "FIo+OYSGLPZqiTcxm13yogh+dGzy4tLIxWG7iQ8d3FoTP0EM2mK5+JOAle7/O4QeqyL4Wazk+VHug16SShwNww=="
       },
       {
         "icon": "https://archive.org/download/cinema-hd-icon-1200x1200_202102/cinema-hd-icon-1200x1200.png",
@@ -2111,7 +2071,7 @@
       {
         "icon": "https://archive.org/download/cinema-hd-icon-1200x1200_202102/cinema-hd-icon-1200x1200.png",
         "name": "Cinema 3",
-        "uri": "zXVLp40uVnhj31k2ns8IdINZetU5U5JU0kaRvAil+QRFARl/hW3b+/oYceTkvB0Cm2iTOBSBZVlr\nRyZzLWV7ED5waEkZVoDneHNWCo3+RZY="
+        "uri": "FIo+OYSGLPZqiTcxm13yogh+dGzy4tLIxWG7iQ8d3FoTP0EM2mK5+JOAle7/O4QeXqbk9i00fHKQtxKJpKJylg=="
       },
       {
         "icon": "https://archive.org/download/cinema-hd-icon-1200x1200_202102/cinema-hd-icon-1200x1200.png",
@@ -2121,42 +2081,12 @@
       {
         "icon": "https://archive.org/download/cinema-hd-icon-1200x1200_202102/cinema-hd-icon-1200x1200.png",
         "name": "Cinema ",
-        "uri": "zXVLp40uVnhj31k2ns8IdINZetU5U5JU0kaRvAil+QRFARl/hW3b+/oYceTkvB0Cm2iTOBSBZVlr\nRyZzLWV7ELTSxuC15/cobBV3VENkxUs="
+        "uri": "FIo+OYSGLPZqiTcxm13yogh+dGzy4tLIxWG7iQ8d3FoTP0EM2mK5+JOAle7/O4QeqI6bfqUJjwhIaZ4jjxhaEQ=="
       },
       {
         "icon": "https://archive.org/download/cinema-hd-icon-1200x1200_202102/cinema-hd-icon-1200x1200.png",
         "name": "Cinema 4",
-        "uri": "zXVLp40uVnhj31k2ns8IdINZetU5U5JU0kaRvAil+QRFARl/hW3b+/oYceTkvB0Cm2iTOBSBZVlr\nRyZzLWV7EAHmj7EniIvpP4Kk3JbyBL8="
-      },
-      {
-        "icon": "https://archive.org/download/cinema-hd-icon-1200x1200_202102/cinema-hd-icon-1200x1200.png",
-        "name": "Cinema 5",
-        "uri": "0mvj0ZgF3377g7DUUYjvrNFCoE9Iy522mdJ9dWLUI9zl8+VAqw3/7AVyx0Ysr2CW9UVmm2BhV5ic\nKZNyCvNoHg=="
-      },
-      {
-        "icon": "https://archive.org/download/cinema-hd-icon-1200x1200_202102/cinema-hd-icon-1200x1200.png",
-        "name": "Cinema 6",
-        "uri": "0mvj0ZgF3377g7DUUYjvrNFCoE9Iy522mdJ9dWLUI9z5CT5AGNA9BSnu76sZgVMLc6f7Q9RILaoR\n3Wai29QacA=="
-      },
-      {
-        "icon": "https://archive.org/download/cinema-hd-icon-1200x1200_202102/cinema-hd-icon-1200x1200.png",
-        "name": "Cinema 7",
-        "uri": "0mvj0ZgF3377g7DUUYjvrNFCoE9Iy522mdJ9dWLUI9wSMsIOsEQask0lwIzC1njQti+DWo+epiLB\nN7SZfyBmmQ=="
-      },
-      {
-        "icon": "https://archive.org/download/cinema-hd-icon-1200x1200_202102/cinema-hd-icon-1200x1200.png",
-        "name": "Cinema 8",
-        "uri": "0mvj0ZgF3377g7DUUYjvrNFCoE9Iy522mdJ9dWLUI9zuPSkg0Z3CRR7zvPbMoWtcg7voYHTDq7Ll\nBUsKfGxrPQ=="
-      },
-      {
-        "icon": "https://archive.org/download/cinema-hd-icon-1200x1200_202102/cinema-hd-icon-1200x1200.png",
-        "name": "Cinema 9",
-        "uri": "0mvj0ZgF3377g7DUUYjvrNFCoE9Iy522mdJ9dWLUI9yMzj8B2fzJ6sk8IRtzBE6WQtfnNUVc0nKY\ncKWyc85raA=="
-      },
-      {
-        "icon": "https://archive.org/download/cinema-hd-icon-1200x1200_202102/cinema-hd-icon-1200x1200.png",
-        "name": "Cinema 10",
-        "uri": "0mvj0ZgF3377g7DUUYjvrNFCoE9Iy522mdJ9dWLUI9yajpGbn8932GUWS8Sib3P85lvjzG6s3Dg0\n1SnEdFLi4Q=="
+        "uri": "FIo+OYSGLPZqiTcxm13yogh+dGzy4tLIxWG7iQ8d3FoTP0EM2mK5+JOAle7/O4QeQcp7wqo690lWU3TWMsjyRw=="
       }
     ]
   },
