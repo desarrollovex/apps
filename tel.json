@@ -1348,10 +1348,15 @@
       },
       {
         "icon": "http://static.dplay.tech/imagenes/uncrime.png",
-        "name": "UNIVERSAL CRIME",
+        "name": "CRIME 1",
         "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnXkcCZ/trMWk4UzJffm3zTdyAWHPg/OsDxUTQys+QyfWg==",
         "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibbi2400+uAO2Gu6aMyf8nYr",
         "drm_scheme": "clearkey"
+      },
+      {
+        "icon": "http://static.dplay.tech/imagenes/uncrime.png",
+        "name": "CRIME 2",
+        "uri": "jIhFDeEN4aTjm6bBhemFpeUAWhIcWnPmsqR2Q2pPvpw91jmucNcIto9IcqdraYAF"
       },
       {
         "icon": "http://static.dplay.tech/imagenes/unpremiere.png",
