@@ -2480,11 +2480,11 @@
         "drm_scheme": "clearkey"
       },
       {
-        "icon": "https://static.dplay.tech/imagenes/smithsonianchannel.png",
+        "icon": "http://static.dplay.tech/imagenes/smithsonianchannel.png",
         "name": "Smithsonian Channel",
         "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnVzdh3CSo5a/I15QplHtSVPJLkw3EY8U8bKRrlJS5g2jA==",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "HCZtbqzut9luoVOjrMqam6q4cY8jz6kMQgW69iqw5mT/Zvlqcd9yYh1nxE0LSCEB"
+        "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibYiUL97MDa6CtkaqBjLeawSritNL0nFWdTdf2K/uyBpzg==",
+        "drm_scheme": "clearkey"
       },
       {
         "icon": "https://static.flow.com.ar/images/670/CH_LOGO/350/500/0/0/74835190079.png",
