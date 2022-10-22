@@ -3171,6 +3171,11 @@
     "mode": false,
     "lista": [
       {
+        "icon": "https://static.mytuner.mobi/media/tvos_radios/tslfavzfzpk2.jpg",
+        "name": "RADIO SAFIRO",
+        "uri": "LXKu58FDeoZi/Xwl4dfH/2WWQal+Bf6jrsy42Ra66hh5oFvgumrLeLI/lj4443Ur"
+      },
+      {
         "icon": "http://api.argentinatv.live/logos/retrohit.jpeg",
         "name": "RADIO RETROHIT IGUAZU 102.7",
         "uri": "N6kw4F5p5IzmEeq+lpi/UWZaNZvyx1mIz60Xh70LFfSFvMTRANrb6h7id1NYxqMZ"
@@ -3221,13 +3226,12 @@
         "name": "EVENT",
         "uri": "TMGBCwH7GxKkaXQ4yvbTM4fu3BZGVR8aZgH1rPy0Vobzzohp9uZbMYMRixABsYtz"
       },
-       {
+      {
         "icon": "https://forum.panasef.com/wp-content/uploads/2018/12/Icono-11.png",
         "name": "EVENT",
         "uri": "tUJY21IyYazQI2cUOrQtCtDi2PKouGV1az1qs+vzSpDxKhzJWm7bXc70Bpe17XK4"
       },
       {
-
         "icon": "https://i.ibb.co/4F7Y1G3/motorsur.jpg",
         "name": "MOTOR SUR TV",
         "uri": "76Wkrp7B5W7fEMAwxf6Dg32akMhEAgWtxQ0AUNP1OXuK/c7bKrhzdAn5olPQrQDFrzGFyujeVZ/Y+vldtdL8dg=="
