@@ -177,16 +177,6 @@
         "drm_license_url": "HCZtbqzut9luoVOjrMqamxGggpNcltJ2MSrP7FgGGhKNv+mNAd7LZI/yihgJh3QoC00ALMy46SyDr2BYuoLX4g=="
       },
       {
-        "icon": "https://lavozdetucuman.com/wp-content/uploads/2021/06/LOGOBUENO-300x100.png",
-        "name": "LA VOZ DE TUCUMAN MULTIPLATAFORMA TV",
-        "uri": "0u7RtaCoyz0sIDXu0NxHuVH9z1NMt9YE6cZ5GnmYJRQ3JdzgxpVHnAzSWhhOWOC2oKVYrehrHqY5JTSXq634ncGnZAItHDGz7gpNh00xn3A="
-      },
-      {
-        "icon": "https://lavozdetucuman.com/wp-content/uploads/2021/06/LOGOBUENO-300x100.png",
-        "name": "LA VOZ DE TUCUMAN MULTIPLATAFORMA RADIOS FMS",
-        "uri": "iPeoYYZ1jn0KkumPEHy+oLEi/pTyEyoGk8LqgC5Hg3NGzWRULia7O6H2YkcvTe3PHFjk30Hblbg0ZcQEfvFdAA=="
-      },
-      {
         "icon": "http://static.dplay.tech/imagenes/sptv32.png",
         "name": "SAN PEDRO 32 TV",
         "uri": "iPeoYYZ1jn0KkumPEHy+oGMj8zInDlKxV9cAO+2aOwUJNp1O5vMT5ZnQdNKXPqX3"
@@ -195,11 +185,6 @@
         "icon": "https://pbs.twimg.com/profile_images/1532029271610376193/CouxLUR6_400x400.jpg",
         "name": "MULTIVISION CABLE",
         "uri": "UhqpWSq8+5v9J/Iv0iqISreAsi29D0bhCASLoMUurnrLoJTsvv0NGNTtaWPVSJD+Qz7SG+dj8EUkG6Qm5xtbwHc0IFZGxAqSkIdB7X6XAjd9Rzxkn3f8B9VRYseMxF2x"
-      },
-      {
-        "icon": "https://mundialtvdigital.com/logopalomar.jpg",
-        "name": "EL PALOMAR TV TUCUMAN",
-        "uri": "fC3MHOkKge9KClRhCnF6I6QnDbCRCUHiukipj9480egbGbnrdj0odVysXSFBI23ocUhz87sJWArukP16NBIwhqkGtqp/xgsk7EbjtUHyLfA="
       },
       {
         "icon": "https://www.fenix951.com.ar/nuevo_2013/a2017/assets/imgapp/logocanal.jpeg",
@@ -1357,6 +1342,11 @@
         "icon": "http://static.dplay.tech/imagenes/uncrime.png",
         "name": "CRIME 2",
         "uri": "jIhFDeEN4aTjm6bBhemFpeUAWhIcWnPmsqR2Q2pPvpw91jmucNcIto9IcqdraYAF"
+      },
+      {
+        "icon": "http://static.dplay.tech/imagenes/uncrime.png",
+        "name": "CRIME 3",
+        "uri": "BsP+EThbiZ6o2iRNEUbRhbNPGM5FT+J2/PRg5k7D9JZaIy6MZiGum8migwj6cGAEkea9OWBDwmRw\nH0WIE983Gatsysg+Qw7vZnB/mYzZ1VI="
       },
       {
         "icon": "http://static.dplay.tech/imagenes/unpremiere.png",
@@ -3226,13 +3216,12 @@
         "name": "EVENTOS",
         "uri": "tUJY21IyYazQI2cUOrQtCtDi2PKouGV1az1qs+vzSpDxKhzJWm7bXc70Bpe17XK4"
       },
-       {
+      {
         "icon": "https://forum.panasef.com/wp-content/uploads/2018/12/Icono-11.png",
         "name": "EVENTOS",
         "uri": "rdln+3sJuk5+YoW5Lpn8UFIQTkn1aT56jxBfUhFYncu5baPHVJTO79WDsZqoYPLmc5AJ/8bmI8j+mQMuxn6MTb8e7CF3V16nyDtl26OJe5i7Ji2qax6XqczNS6ZR6wtF4Ms7mtDSMvy0HF8PQPVBgQs1eJLMUE8se7jx4PRRKkk3gdMDlwX8Pp9cDoCBbGHgXNyH0Kx6/vRqMbhzJz8O5OuZtB63mBIZV+CSUIvQS0TOsjYBdnKU2RmHM6E0h/FZNsTq8tiwqVTQs0U7BlpoizKiLdeTCxu0Zlqk5QShquDS7zvD57CcNRFMnfvtB2dRVB+vqSVYZ7j/kA4QkpvYmQ6j21wNLsTTX5QEiiDnkdXAYGx+YmxJZhfv47AiTJlAzjfwfsOj9E20YEXOKUzWHHivl49qzFPvmHn8dwtDIeUlbnrT9A0ZkiqlV/tOqQ9GDW2kV/2gAnouX4+VsxXCYTlYB/NtQ3gM75M+AFXbf6jQC/hDhnPXaHC7sGW45YomPhuZ2MG+6ZsdBnRkP0nWB8XCTz9rwbZCh20Sf1TSFN7J51YaYTM7QJd/N+ktwp6q41IPyiGN6bk9CuL58FOHJTvLguh0KZpeDE+oa6Dk0PF+dvKTperfglnZexeackpuNU1dy/vd9krB9wM9sI7T24Wi82Q1rjzfr7N9t+nPhwAL/fcsie0hEW3uNPD+4os5Kl+kwFvGtSq0DhQBSwe4IVbyw2lrjGXBBJM8QIRRT0c3s2XtKhv4MtbEVvMdxUfYzk7SIcsx7ssaliJhhOlliFPTMaB/rvyg/iJG+Wi28j0=",
         "drm_scheme": "clearkey",
         "drm_license_url": "9JYmefF5xiyqvd4/Ya3X0i3GwOJDMcRiX7LsAWQaWt/zTSXaPavca8+3UdjiUGzb"
-         
       },
       {
         "icon": "https://i.ibb.co/4F7Y1G3/motorsur.jpg",
