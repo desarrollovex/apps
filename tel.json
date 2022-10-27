@@ -750,14 +750,7 @@
     "mode": false,
     "lista": [
       {
-        "icon": "http://static.dplay.tech:8080/imagenes/daznf1.png",
-        "name": "DAZN F1",
-        "uri": "aQzLS6e/EXA49dg60WEabo4/hMKFISbucu8mDLhKS71baPNf17eMjmvC4vSIU0JoMkY/pUggNdsp7I7iYdY0yqACZMCOwBJ0YOeqrM6d1kmyEqVOkT4fgLoqi9Dw64CVvoc2Gr3iP98IP+kfJwVlk7jVxmLLxQ2YfQp8MLUm+lSeHYbWfYDp67LZVUrANcrv",
-        "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibZdn1N05WtlxoVRJudcVOOk",
-        "drm_scheme": "clearkey"
-      },
-      {
-        "icon": "http://static.dplay.tech:8080/imagenes/daznf1.png",
+        "icon": "http://static.dplay.tech/imagenes/daznf1.png",
         "name": "DAZN F1",
         "uri": "aQzLS6e/EXA49dg60WEabo4/hMKFISbucu8mDLhKS71baPNf17eMjmvC4vSIU0JoMkY/pUggNdsp7I7iYdY0yqACZMCOwBJ0YOeqrM6d1kmyEqVOkT4fgLoqi9Dw64CVvoc2Gr3iP98IP+kfJwVlk7jVxmLLxQ2YfQp8MLUm+lSeHYbWfYDp67LZVUrANcrv",
         "drm_scheme": "clearkey",
@@ -865,9 +858,9 @@
       {
         "icon": "https://static.flow.com.ar/images/74/CH_LOGO/350/500/0/0/78711436072355.png",
         "name": "TyC Sports",
-        "uri": "5YdyVi+PL8QZpLM9X5SumhqEzF66E7LtO1G5KLXQgWuJx/PcZpFkSwA64Dsurly4BJmB90KVlkILc61L60SGk1qqxmOk5lu9hku4sQ5fWs85GaNp11ZCITxrHR0+9CES",
-        "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibahSXAiSvy9aNRWKvaxYQYL",
-        "drm_scheme": "clearkey"
+        "drm_scheme": "clearkey",
+        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4yjD6zvaSceFKgIvl+gmuBL8Dp+Ryu4IsVSZC+PBdj+MbfbQSHiwyDOn1hdC8p6W+XUs8Mkvibnk/+FqThVoNYh",
+        "drm_license_url": "HCZtbqzut9luoVOjrMqam5s/6BXlssVkHouytKHc5UshYLj8eMQi8AnbqxKoXmlYrrn5g8wFsvatYKLR1jlLZw=="
       },
       {
         "icon": "https://static.flow.com.ar/images/270/CH_LOGO/350/500/0/0/81432910072195.png",
@@ -2387,11 +2380,11 @@
         "drm_scheme": "clearkey"
       },
       {
-        "icon": "http://static.dplay.tech/imagenes/smithsonianchannel.png",
+        "icon": "https://static.dplay.tech/imagenes/smithsonianchannel.png",
         "name": "Smithsonian Channel",
         "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnVzdh3CSo5a/I15QplHtSVPJLkw3EY8U8bKRrlJS5g2jA==",
-        "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibYiUL97MDa6CtkaqBjLeawSritNL0nFWdTdf2K/uyBpzg==",
-        "drm_scheme": "clearkey"
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "HCZtbqzut9luoVOjrMqam6q4cY8jz6kMQgW69iqw5mT/Zvlqcd9yYh1nxE0LSCEB"
       },
       {
         "icon": "https://static.flow.com.ar/images/670/CH_LOGO/350/500/0/0/74835190079.png",
