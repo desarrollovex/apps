@@ -5226,6 +5226,56 @@
     "mode": true,
     "lista": [
       {
+        "name": "El Encargado",
+        "icon": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZbPzTe96X3OSTTaNm3EgFHLcAVGogO_hPGH0-rK1xt2hDD1U4MHblNz7zYm-B9FgyjbRtDtN06ZlP8rKVw59HkhYyba_fAT1CVX5CJur0DwzSGQNP2zGgH3IRgxvEmPQKKRUhqv_U-eC3XC85PWeu-dxko4D4jxcctyUJz5vQ_enAP-cFzz-7RcEg/s600/El%20Encargado_Star%20Plus%20Poster.jpg",
+        "temporada": [
+          {
+            "name": "CAPITULO 1",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZoQsf6J6qVLGeD0F8FA3I49eUdlINumjNG/ZJoy6//iGclrK96dsuDYg\nqENoYhLAvngSj/5tcc+5hR3WyVK7IFFSaCh66vwMGyXlkAOQkbL7"
+          },
+          {
+            "name": "CAPITULO 2",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZoQsf6J6qVLGeD0F8FA3I49eUdlINumjNG/ZJoy6//iGclrK96dsuDYg\nqENoYhLAvkJGTJW3NRJ8Ba2RaNcE2qTEz25+e8xFZ9zFsk0dPY6Y"
+          },
+          {
+            "name": "CAPITULO 3",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZoQsf6J6qVLGeD0F8FA3I49eUdlINumjNG/ZJoy6//iGclrK96dsuDYg\nqENoYhLAvukZ6ZeVvokwAZrHaQbYotaWik1b9y2GGp/iyd1ki0xF"
+          },
+          {
+            "name": "CAPITULO 4",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZoQsf6J6qVLGeD0F8FA3I49eUdlINumjNG/ZJoy6//iGclrK96dsuDYg\nqENoYhLAvkdqkD14ytZVAO9O/04czAwkHt1SbqYME6ixh5kGvptn"
+          },
+          {
+            "name": "CAPITULO 5",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZoQsf6J6qVLGeD0F8FA3I49eUdlINumjNG/ZJoy6//iGclrK96dsuDYg\nqENoYhLAvs/ayU0HYFCBi5TfBGqzSeI4iUWaOdiHv6zwzTPDC9Nw"
+          },
+          {
+            "name": "CAPITULO 6",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZoQsf6J6qVLGeD0F8FA3I49eUdlINumjNG/ZJoy6//iGclrK96dsuDYg\nqENoYhLAvq/RN5PiqQrNIdr7QEjDXok+UGWI7v+haeG9xaIZjo3/"
+          },
+          {
+            "name": "CAPITULO 7",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZoQsf6J6qVLGeD0F8FA3I49eUdlINumjNG/ZJoy6//iGclrK96dsuDYg\nqENoYhLAviqCIh92i1ZtbOhy/m3t2n9Fy5YFctN507tXAl+c0YpC"
+          },
+          {
+            "name": "CAPITULO 8",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZoQsf6J6qVLGeD0F8FA3I49eUdlINumjNG/ZJoy6//iGclrK96dsuDYg\nqENoYhLAvj1s8EGleTx+C1BwiA+t08KmODgllz3l0ItOc96dl/hg"
+          },
+          {
+            "name": "CAPITULO 9",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZoQsf6J6qVLGeD0F8FA3I49eUdlINumjNG/ZJoy6//iGclrK96dsuDYg\nqENoYhLAvhcnbI0MxHf7deVi1QYiogWQR8YjSl76Dpi3cwqbJQRJ"
+          },
+          {
+            "name": "CAPITULO 10",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZoQsf6J6qVLGeD0F8FA3I49eUdlINumjNG/ZJoy6//iGclrK96dsuDYg\nqENoYhLAvtD8ckPy07QPMvManbznySuFH/eT0Mw4GewvA4r86k0I"
+          },
+          {
+            "name": "CAPITULO 11",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZoQsf6J6qVLGeD0F8FA3I49eUdlINumjNG/ZJoy6//iGclrK96dsuDYg\nqENoYhLAvt0Hrcyag1xuy/1GHjXVcA+gAinr6DaO7R1li/vSXko3"
+          }
+        ]
+      },
+      {
         "name": "Andor",
         "icon": "https://es.web.img3.acsta.net/pictures/22/09/21/10/06/4973830.jpg",
         "temporada": [
