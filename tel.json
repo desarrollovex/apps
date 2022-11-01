@@ -1237,42 +1237,27 @@
       {
         "icon": "http://static.dplay.tech/imagenes/universalcinema.png",
         "name": "UNIVERSAL CINEMA",
-        "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnXvqCOyrhUuWEEalf/TK/Bg5D/BHlp8MyR9zpve5X3f5Q==",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apTKNlMML75BO1ipSXjsa1aiszvvpwE7X0Zj\n1rHwO3tNBg=="
+        "uri": "Gd8N3JY+rQe50qUp0JqelLFQuR1g7v8MAza19fHXFjM1aXLm4GZo7zUT2tfyXt+bsUlJJkN0olHE\nqMapCp8BuA=="
       },
       {
         "icon": "http://static.dplay.tech/imagenes/uncomedy.png",
         "name": "UNIVERSAL COMEDY",
-        "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnVbA57AsmprxVLRMEtr75/myEF922Qy3jG7\n9h9rTel4sA==",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apTKNlMML75BO1ipSXjsa1aiYKOkMoXcJLy3A0iYkJi73Q=="
+        "uri": "Gd8N3JY+rQe50qUp0JqelLFQuR1g7v8MAza19fHXFjM1aXLm4GZo7zUT2tfyXt+blKzkwStQ1OJR\ntg9F/RwFMw=="
       },
       {
         "icon": "http://static.dplay.tech/imagenes/uncrime.png",
         "name": "UNIVERSAL CRIME",
-        "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnXkcCZ/trMWk4UzJffm3zTdyAWHPg/OsDxUTQys+QyfWg==",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "fKZDeeMII4hzzOisytLJXA+M8WSN4c+Oj17ek8dktwPOrHHxQUeeAw7Y+VvQI+6A"
-      },
-      {
-        "icon": "http://static.dplay.tech/imagenes/uncrime.png",
-        "name": "CRIME 2",
-        "uri": "QG0geTlWnbwERfJbicHB+J3M3PjbbE2ksULAOxflppQc8fqEiRHSgUDsLDFOt5VdsWmIwMI97Pti\nK4Nk04wpWQ=="
+        "uri": "Gd8N3JY+rQe50qUp0JqelLFQuR1g7v8MAza19fHXFjM1aXLm4GZo7zUT2tfyXt+bU124B8qNXKMK\n0bIOOsbEVA=="
       },
       {
         "icon": "http://static.dplay.tech/imagenes/unpremiere.png",
         "name": "UNIVERSAL PREMIERE",
-        "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnW9z4Se5t1zlSpxDQb4JlWso4Dz+EhuRtfe/bYmzub8GQ==",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "fKZDeeMII4hzzOisytLJXA+M8WSN4c+Oj17ek8dktwPp8EMbNtyrvbdB1IIIHsA8"
+        "uri": "Gd8N3JY+rQe50qUp0JqelLFQuR1g7v8MAza19fHXFjM1aXLm4GZo7zUT2tfyXt+bFkdlHdeoOp7g\nFvT8DWFmlQ=="
       },
       {
         "icon": "http://static.dplay.tech/imagenes/unreality.png",
         "name": "UNIVERSAL REALITY",
-        "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnUBl0U4gOrzzH2ANRQIdc7DjoLQ2GnIQ/6eFuOftlLK+w==",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "fKZDeeMII4hzzOisytLJXA+M8WSN4c+Oj17ek8dktwPw1JZg8LfI5n047VHwVDxY"
+        "uri": "Gd8N3JY+rQe50qUp0JqelLFQuR1g7v8MAza19fHXFjM1aXLm4GZo7zUT2tfyXt+b/if9yFWhS0BS\n2dXUHTykLQ=="
       }
     ]
   },
