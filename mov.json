@@ -647,6 +647,26 @@
     "mode": true,
     "lista": [
       {
+        "icon": "https://es.web.img2.acsta.net/medias/nmedia/18/88/91/08/20306579.jpg",
+        "name": "El Hobbit: Un viaje inesperado",
+        "uri": "DZBuj2t/1os0BNoYlHwt69ITrj8LxV10KP8vr3+A2jBNcTFl3UUbuq7B5+RI+Nd2rBvb/qzKyGVT\nA9QAuYD0ikwANkteupT3aYIhC0EjUZirF/cioeCmzAdVhi8x6PyU"
+      },
+      {
+        "icon": "https://es.web.img3.acsta.net/pictures/13/12/13/11/42/576944.jpg",
+        "name": "El Hobbit: La desolación de Smaug",
+        "uri": "DZBuj2t/1os0BNoYlHwt69ITrj8LxV10KP8vr3+A2jBNcTFl3UUbuq7B5+RI+Nd2e2K73WgsYFQG\nxhizo/OtDtGu7V4gb/8e1BOabC5GFkOKja54MxskFmTJ5deXgZa8"
+      },
+      {
+        "icon": "https://es.web.img2.acsta.net/pictures/14/10/17/13/10/188874.jpg",
+        "name": ",El Hobbit: la batalla de los cinco ejércitos",
+        "uri": "DZBuj2t/1os0BNoYlHwt69ITrj8LxV10KP8vr3+A2jBNcTFl3UUbuq7B5+RI+Nd2JPMnIAlka69w\n6VdL9R1F/PePv60LeUA+1brh18LaL8xbvMnGkKX47Jvs8s/4xOXOim7MJZfgrtIYtJrFBcN/9g=="
+      },
+      {
+        "icon": "https://es.web.img3.acsta.net/pictures/16/02/25/16/13/438033.jpg",
+        "name": "El laberinto del fauno",
+        "uri": "DZBuj2t/1os0BNoYlHwt69ITrj8LxV10KP8vr3+A2jDWmE3OGZx9Pau9lOGd/a2x3FcA7O84ZHtc\nh3xuP4e4eKgV6CV934y2NEbSjj97nVc="
+      },
+      {
         "icon": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/0f803739895d817f236c37077c034d37524e134cd1f24465a9cadfdf0c572d8e._RI_V_TTW_.jpg",
         "name": "El pico de Dante",
         "uri": "Fd7VYd+Xm/S6VMHJ32eqZlRivE4jRi6eawAoizliRUCA/coVbCE/nD+iTXvvvNrmUeM0PkGqXjKp\n3oTC+O/Fbw=="
@@ -922,6 +942,41 @@
     "name": "PELICULAS ACCION- AVENTURA- CIENCIA FICCION",
     "mode": true,
     "lista": [
+      {
+        "icon": "https://images-na.ssl-images-amazon.com/images/I/81fAIcnNTuL._RI_.jpg",
+        "name": "Desterrado",
+        "uri": "DZBuj2t/1os0BNoYlHwt69ITrj8LxV10KP8vr3+A2jAZ3/c2JU7Gn+V1h48I3JA9d9M3tnGaouWK\nc8zVxpA36g=="
+      },
+      {
+        "icon": "https://es.web.img2.acsta.net/pictures/14/03/27/12/23/470760.jpg",
+        "name": "El Fugitivo",
+        "uri": "DZBuj2t/1os0BNoYlHwt69ITrj8LxV10KP8vr3+A2jBHaBwNErQIE+bA7loR1k7rDOpGdtPa9I0H\ny9JZNkOxcA=="
+      },
+      {
+        "icon": "https://es.web.img2.acsta.net/medias/nmedia/18/68/88/73/20143931.jpg",
+        "name": "La mascara de hierro",
+        "uri": "DZBuj2t/1os0BNoYlHwt69ITrj8LxV10KP8vr3+A2jDZjhF3g7i5Owzq1FWYHr+Ba/QADutFyxI+\nSC2sG7w3zvQpX7yocPqvCQzCJKJsxAc="
+      },
+      {
+        "icon": "https://es.web.img3.acsta.net/medias/nmedia/18/78/92/48/20436047.jpg",
+        "name": "El mariachi",
+        "uri": "Fd7VYd+Xm/S6VMHJ32eqZk0a4lqFSAJ0u7qy/9pysqvNLa+MsKW2LmopR3h31V1R2GmwceALVRLk\nSF8lZbvESA=="
+      },
+      {
+        "icon": "https://es.web.img2.acsta.net/medias/nmedia/18/81/93/76/19679330.jpg",
+        "name": "El mecanico",
+        "uri": "DZBuj2t/1os0BNoYlHwt69ITrj8LxV10KP8vr3+A2jAy2+qCMNmpGF3lHkOdqGhaZG5jUgdLCLmw\nY21O36Dyjg=="
+      },
+      {
+        "icon": "https://m.media-amazon.com/images/I/51lLvCD2IiL._AC_.jpg",
+        "name": "El Negociador",
+        "uri": "DZBuj2t/1os0BNoYlHwt69ITrj8LxV10KP8vr3+A2jDRur0NWj6kvpSGuEWRUZtGkV2ZMXKDQn4i\nU9Vid/lNFw=="
+      },
+      {
+        "icon": "https://es.web.img3.acsta.net/medias/nmedia/18/79/70/91/19514464.jpg",
+        "name": "El nucleo",
+        "uri": "DZBuj2t/1os0BNoYlHwt69ITrj8LxV10KP8vr3+A2jDdE23ufSECyqcwhtJuJubSNdqfjGsn4PYm\nKKBpLZ6ecQ=="
+      },
       {
         "icon": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/631218.jpg",
         "name": "El patriota",
@@ -2379,6 +2434,21 @@
     "mode": true,
     "lista": [
       {
+        "icon": "https://es.web.img3.acsta.net/medias/nmedia/18/87/33/97/19920960.jpg",
+        "name": "El gran lewosky",
+        "uri": "DZBuj2t/1os0BNoYlHwt69ITrj8LxV10KP8vr3+A2jAOBiaFYHBuZ3w+IYoPqiBnXvFP/RBYkzUR\nbUwFKfv76Q=="
+      },
+      {
+        "icon": "https://es.web.img2.acsta.net/pictures/15/11/11/09/32/253285.jpg",
+        "name": "El gran Stan",
+        "uri": "Fd7VYd+Xm/S6VMHJ32eqZriy3GgsJU/lSmbr6LNh9fhGk2gULdQJQqrPzC9ErS6YzIanRjRosHDE\npNVMECPM/w=="
+      },
+      {
+        "icon": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/71c568a893ea79ea9c4c8c991ec3196c02673a96c9202281dc3c3458981c1562._RI_V_TTW_.jpg",
+        "name": "El hombre del cable",
+        "uri": "Fd7VYd+Xm/S6VMHJ32eqZklBkr+BlerawXDb0ivhYXnAmChACBmz11tcAx1vL0WeXtWzyaECR5nS\n6VULcYLbTHukOz8gQ3MIoLpC5K3mBvg="
+      },
+      {
         "icon": "https://es.web.img3.acsta.net/c_310_420/pictures/14/03/27/13/31/330541.jpg",
         "name": "Gemelos",
         "uri": "DZBuj2t/1os0BNoYlHwt69ITrj8LxV10KP8vr3+A2jAz7ZqsWZubRHR9NIyynNxypsowpeMwWIMo\n4bhGQzqwbA=="
@@ -2960,6 +3030,46 @@
     "name": "PELICULAS DRAMA- SUSPENSO- CRIMEN",
     "mode": true,
     "lista": [
+      {
+        "icon": "https://es.web.img2.acsta.net/r_1280_720/medias/nmedia/18/62/84/94/18668020.jpg",
+        "name": "el gran truco",
+        "uri": "DZBuj2t/1os0BNoYlHwt69ITrj8LxV10KP8vr3+A2jCISs9o36nB9UDl0WbRhKPsRZIMVedmJAO+\nbu/lztT8UQ=="
+      },
+      {
+        "icon": "https://es.web.img3.acsta.net/medias/nmedia/18/77/56/83/20025137.jpg",
+        "name": "El Guardaespalda",
+        "uri": "DZBuj2t/1os0BNoYlHwt69ITrj8LxV10KP8vr3+A2jCdHgSw5NRTvQZ6/Pm5Tu+MVhJK4fqn2wlA\nms1b+cf42A=="
+      },
+      {
+        "icon": "https://es.web.img2.acsta.net/medias/nmedia/18/86/11/83/19823625.jpg",
+        "name": "El Guardaespalda 2",
+        "uri": "DZBuj2t/1os0BNoYlHwt69ITrj8LxV10KP8vr3+A2jDFmHAzTh/U2DO7oRbifR2MQYvMwMmfan1n\nmMD+EHuFDQ=="
+      },
+      {
+        "icon": "https://m.media-amazon.com/images/I/41QyfwJ+y6L.jpg",
+        "name": "El hombre bicentenario",
+        "uri": "DZBuj2t/1os0BNoYlHwt69ITrj8LxV10KP8vr3+A2jCMbEz3ePSlz1Jh0jjKKnoZhEBBZUy1CGX9\nHXgFimR2B/NpsvrcmKkjp62PYE+CNWM="
+      },
+      {
+        "icon": "https://es.web.img2.acsta.net/pictures/16/02/22/13/32/340710.jpg",
+        "name": "El ilusionista",
+        "uri": "DZBuj2t/1os0BNoYlHwt69ITrj8LxV10KP8vr3+A2jB+Lc8PaaKLYQz3QqvkbA25mZAsEN9LnQfp\nmuzFgXtffA=="
+      },
+      {
+        "icon": "https://es.web.img3.acsta.net/pictures/14/04/01/12/34/398968.jpg",
+        "name": "El imperio del sol",
+        "uri": "DZBuj2t/1os0BNoYlHwt69ITrj8LxV10KP8vr3+A2jBKRCdBND7wc3gp21SaoOpDHNZCGIDZya/H\nJAh/P6B14WoXOUKkypvz0FBbQ4QcpSc="
+      },
+      {
+        "icon": "https://es.web.img2.acsta.net/medias/nmedia/18/67/08/53/20071009.jpg",
+        "name": "El maquinista",
+        "uri": "DZBuj2t/1os0BNoYlHwt69ITrj8LxV10KP8vr3+A2jB8JdQ274ySuyu2dj1ptr8qqet3QJlzaAmn\nzsIPk1GfeA=="
+      },
+      {
+        "icon": "https://es.web.img2.acsta.net/pictures/14/04/14/10/10/502236.jpg",
+        "name": "El numero 23",
+        "uri": "DZBuj2t/1os0BNoYlHwt69ITrj8LxV10KP8vr3+A2jA6/kIxxFwSJXhBgj8QfVpXot4nFjPvvKID\neZaD1BvdcQ=="
+      },
       {
         "icon": "https://es.web.img3.acsta.net/pictures/18/06/12/12/12/0117051.jpg",
         "name": "El padrino",
@@ -3792,6 +3902,11 @@
     "mode": true,
     "lista": [
       {
+        "icon": "https://es.web.img3.acsta.net/pictures/14/04/14/10/36/123417.jpg",
+        "name": "El Orfanato",
+        "uri": "DZBuj2t/1os0BNoYlHwt69ITrj8LxV10KP8vr3+A2jBy8NqimuTMEjXr7HuZbaZstMYpX6Grbrzf\n0QfV3g4IAw=="
+      },
+      {
         "icon": "https://m.media-amazon.com/images/I/51FKRVuijOL._SY445_.jpg",
         "name": "El remanente",
         "uri": "Fd7VYd+Xm/S6VMHJ32eqZjDVmm9p+mhqVQIjathW+OUpRaUUaGY6pk+l3K772cO1IBZ6fvyUp6x2\n5fmMmeTNUEYGWt+kwFibTyQgYJgzw1RRJ752Ktca8CSCosSzNdV+HOIzDysNk2KfWRSHiO88u/9Z\nq5Lt+sh4DvkTED/OupS7H7ys209DzcxDHrMM9EvY"
@@ -4142,6 +4257,16 @@
     "name": "PELICULAS INFANTILES",
     "mode": true,
     "lista": [
+      {
+        "icon": "https://es.web.img3.acsta.net/medias/nmedia/18/84/34/57/19816291.jpg",
+        "name": "El gato con botas",
+        "uri": "DZBuj2t/1os0BNoYlHwt69ITrj8LxV10KP8vr3+A2jDBVWPTpn1/66hjA8SiWZ5Oc9e3255RyU2C\n3LSWODRp0A=="
+      },
+      {
+        "icon": "https://es.web.img3.acsta.net/medias/nmedia/18/82/96/91/20085347.jpg",
+        "name": "El Grinch",
+        "uri": "Fd7VYd+Xm/S6VMHJ32eqZrPEgTQ4LuR+AUJpggnAZGmQDYObsXtmZu2to1rP1TLN81Wl2WvOFBPr\nJSCo/mvcxg=="
+      },
       {
         "icon": "https://es.web.img3.acsta.net/medias/nmedia/18/79/96/30/19541005.jpg",
         "name": "Enredados",
@@ -4803,6 +4928,17 @@
         "icon": "https://images-na.ssl-images-amazon.com/images/I/81l0gvkHSYL.jpg",
         "name": "Star Wars- El ascenso de Skywalker",
         "uri": "Fd7VYd+Xm/S6VMHJ32eqZs5kyc0zwKweNgU0KtXEPShzANnQsyhSa0N3vt9+5+y4zp7cN3ARAyGhGJLZYxYd19raqp7t8feZNO1O01soSBdQwY16pc9Z2cHjRiY/uGbK"
+      }
+    ]
+  },
+  {
+    "name": "D-C Universe",
+    "mode": true,
+    "lista": [
+      {
+        "icon": "https://es.web.img3.acsta.net/pictures/15/11/20/13/14/031438.jpg",
+        "name": "El Hombre de acero",
+        "uri": "DZBuj2t/1os0BNoYlHwt69ITrj8LxV10KP8vr3+A2jBo0rB+05XNuqaD93LUT5fUURftBB1Yek66\nfxPGyi2XuQ=="
       }
     ]
   },
