@@ -4,6 +4,11 @@
     "mode": true,
     "lista": [
       {
+        "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/1/w1280/e0inlqmlAQ0dbrrcLRXiQQRJ0fr.jpg",
+        "name": "La leyenda de la Llorona",
+        "uri": "It4hL9cGNnGI8hUqRaPD547YclzW9FvUj8Gdnrb7ZRD+2fJD3i6+IUbHldxumOJ5Aac1whB9KLIZ\nVPaw3CADBQ=="
+      },
+      {
         "icon": "https://es.web.img2.acsta.net/pictures/22/10/07/16/48/1142280.jpg",
         "name": "Black Adams",
         "uri": "Fd7VYd+Xm/S6VMHJ32eqZkE+DmePpTJiUuACfr1RVhb59SjVcVgi511h5I9s3CGiV/47H0QW9Q/u\nG8viuRgdNUoQHmcezkPzdqRd2ibPwvE="
@@ -2895,6 +2900,11 @@
     "name": "PELICULAS DRAMA- SUSPENSO- CRIMEN",
     "mode": true,
     "lista": [
+      {
+        "icon": "https://es.web.img3.acsta.net/r_1280_720/pictures/bzp/03/121780.jpg",
+        "name": "El Experimento",
+        "uri": "DZBuj2t/1os0BNoYlHwt69ITrj8LxV10KP8vr3+A2jBDdhvZnCLGyH6Wh4WEzNbpQPb8zxnK2OJ+\nPiADtvVbxg=="
+      },
       {
         "icon": "https://es.web.img2.acsta.net/r_1280_720/medias/nmedia/18/62/84/94/18668020.jpg",
         "name": "el gran truco",
