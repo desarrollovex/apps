@@ -21,20 +21,15 @@
         "icon": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Canal_9_2015.png",
         "name": "CANAL 9",
         "drm_scheme": "clearkey",
-        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4zM2hzhChi4Kwv1HCJT0Bsj5EmF4XwNJEckbnYxh3Al4PRaQ89q2NGa/fuJe6pWSlo=",
+        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4zM2hzhChi4Kwv1HCJT0BsjHQ3+PVPqcTLRHJEhIOwkCVYVEEBf5anSkPi3WkTKbxo=",
         "drm_license_url": "HCZtbqzut9luoVOjrMqam5rT9CEstTF1RW4WOGi9AtozPdxJHtFZ43NbPXFTT2ZZ"
       },
       {
         "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png",
         "name": "TELEFE",
-        "uri": "vriUr3OKz1kVyrTiqBzoN/7EMUq7Nn8KdIyHmnuL2dpajqjpfkvcQP1Mlsyx3qxgSClGld2cT8edB4jT2A86ipVhlyRRJ723UGJlINkzP0N/t9by8ATm30WIPd/edo52",
         "drm_scheme": "clearkey",
-        "drm_license_url": "hs3dtdtVpX4bycgt64ciVgW80w0HN3eUJ7eJXuovIfnFhu4DzlYqPvVhtujnT2CB"
-      },
-      {
-        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png",
-        "name": "TELFE",
-        "uri": "ZH1xOnNOTqpMBBY5Rib/RWK7G8VCo/bWpWIhNvfOEbgAsLkkyVwNyWavc1cScybEiV9AzMduV8bH\nce+KYcrbWA=="
+        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4yZX7Rzp1Zmcsn+t+viIsEUDU0VWRD9Yp+1JleJzxv58J3bkrCWOgvhVSvAh8z+u3A=",
+        "drm_license_url": "HCZtbqzut9luoVOjrMqamwBaaHobU1j066yE9k8mBiyduqXnYBGTgOUkhowJI3+B"
       },
       {
         "icon": "https://upload.wikimedia.org/wikipedia/commons/3/32/Logo_de_eltrece_lanzado_en_2016.png",
@@ -46,9 +41,9 @@
       {
         "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/1280px-TN_todo_noticias_logo.svg.png",
         "name": "TN NOTICIAS",
-        "uri": "vriUr3OKz1kVyrTiqBzoN/7EMUq7Nn8KdIyHmnuL2dqtifgE1Nt2mNRgrxDyG2fCjYbJh8ZBxcM/I+p7+JZr5gfWDXRkZqcEb+2Zw0o3rHp8pa3lUhrsOWKkpK791ALQ",
         "drm_scheme": "clearkey",
-        "drm_license_url": "hs3dtdtVpX4bycgt64ciVgW80w0HN3eUJ7eJXuovIfkhbORUDukYrbPS1h50eeFd"
+        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4yCyVug7xGsO3hyJWmTshGIHzeCkgPd7pRue/aR4W+zB+rFbi98YXXleQCWGxQL/7IMSAEeRdmFxIcBHRfdohLm",
+        "drm_license_url": "HCZtbqzut9luoVOjrMqam/tseZotSTjxnCYUAC6EXTqnn1V+VUsACpa56PCFYH0G"
       },
       {
         "icon": "https://upload.wikimedia.org/wikipedia/commons/8/82/A24_%282019-1%29.png",
@@ -121,13 +116,6 @@
         "drm_license_url": "HCZtbqzut9luoVOjrMqam6pnd4BadbMszyn0CGbFcydgKEr7SdKyjsTw1kPyksb5vJraOFTTIIlk4crAgapiBA=="
       },
       {
-        "icon": "https://static.flow.com.ar/images/1029/CH_LOGO/60/40/0/0/18914232072197.png",
-        "name": "VIAJAR",
-        "drm_scheme": "clearkey",
-        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4yWBh20iAYAjoTHkpHZrhxaN6ag18N5uWOVsnQvRfpnTYTXDaCYV86oezYSTpZ9R6s=",
-        "drm_license_url": "HCZtbqzut9luoVOjrMqam0GvLijHnOFGcg01S0v7WHU4LmNXBa9PmTMl5Au5HfOL"
-      },
-      {
         "icon": "https://static.flow.com.ar/images/7097/CH_LOGO/60/40/0/0/58413014074320.png",
         "name": "DTV",
         "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4yEC5qpamRrREuBe+gFO9vuwCS/Ygnob66TNviyEqjrEb3y+WrFN8HdGdLgC6ey0n1WB1tUwwVQVkCaGpqa70VT",
@@ -141,50 +129,19 @@
     "mode": false,
     "lista": [
       {
-        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/1280px-TN_todo_noticias_logo.svg.png",
-        "name": "TN NOTICIAS",
-        "drm_scheme": "clearkey",
-        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4yjo1CeXCPkrsbMv/ISLo8ibAa++5qAlF2fjr+cEc/lUBgYwsutq79k94Jsdvubozd2NCl3b2UFtPNGdFR8P17P",
-        "drm_license_url": "HCZtbqzut9luoVOjrMqam/tseZotSTjxnCYUAC6EXTqnn1V+VUsACpa56PCFYH0G"
-      },
-      {
-        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png",
-        "name": "TELEFE",
-        "drm_scheme": "clearkey",
-        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4zyueL4wE0Jqtu4vRS3TNBB/UiGKgEnQLN2kZZD0yblNKSbjQnnz4x04VHTY34z+p6NYLYOBZpmfErn6MLFTAkZ",
-        "drm_license_url": "HCZtbqzut9luoVOjrMqamwBaaHobU1j066yE9k8mBiyduqXnYBGTgOUkhowJI3+B"
-      },
-      {
-        "icon": "https://www.m3u.cl/logo/249_5TV.png",
-        "name": "5tv",
-        "uri": "tJY6wT2z5XIDGg6lICThtFCvHwNAA8IYAYCxlVSCsDXdsJTjRJcm55yWxmuu3xsnT5XQkUE1H3Q8\nb+Ra76+GB073WN5V17BXlQAW8yh0CK0="
-      },
-      {
-        "icon": "https://www.m3u.cl/logo/221_5R_TV_Santa_Fe.pn",
-        "name": "5R TV",
-        "uri": "hnkrL3xbiwDJQ381iH1iSSfVvlyR1JkSr0KnOoR+xjTABtNmlbHFFQkMVBTUVADiCWMrgGEvhMLP\nqsGFuilWiU74rMphRcUTmfewsh4I3duqisIqagWK7xCcc9EHHZ2l"
-      },
-      {
-        "icon": "https://www.m3u.cl/logo/227_Canal_13_La_Rioja.jpg",
-        "name": "13 Rioja",
-        "uri": "UNQg5R6SlSLHrj34FEU+kRZHhvAnOrkJcacLJjESkKIl6QESglJste08Iy9N3OIUG8cKEpTDR9gH\nEY3tn47FTg=="
-      },
-      {
-        "icon": "https://canal12misiones.com/nuevo/wp-content/uploads/2021/01/Doce-Misiones-03.png",
-        "name": "CANAL DOCE MISIONES",
-        "drm_scheme": "clearkey",
-        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4wPqx+qgisclRyP9TaG3crRJpsND4zcqjYuNb7l61EgjSaAgR2GE9E/AdB4+w1PdpwTWdc8iG/nrQM8TalkTQm8",
-        "drm_license_url": "HCZtbqzut9luoVOjrMqamxGggpNcltJ2MSrP7FgGGhKNv+mNAd7LZI/yihgJh3QoC00ALMy46SyDr2BYuoLX4g=="
-      },
-      {
-        "icon": "http://static.dplay.tech/imagenes/sptv32.png",
-        "name": "SAN PEDRO 32 TV",
-        "uri": "iPeoYYZ1jn0KkumPEHy+oGMj8zInDlKxV9cAO+2aOwUJNp1O5vMT5ZnQdNKXPqX3"
+        "icon": "https://lavozdesanpedro.com.ar/wp-content/uploads/2022/10/LOGO.jpg",
+        "name": "NORTE TV TUCUMAN",
+        "uri": "iPeoYYZ1jn0KkumPEHy+oDHn65uKH3ydBRrlnmCTKUI6YzM7yQshzRCeVpg7rPdS"
       },
       {
         "icon": "https://pbs.twimg.com/profile_images/1532029271610376193/CouxLUR6_400x400.jpg",
         "name": "MULTIVISION CABLE",
         "uri": "UhqpWSq8+5v9J/Iv0iqISreAsi29D0bhCASLoMUurnrLoJTsvv0NGNTtaWPVSJD+Qz7SG+dj8EUkG6Qm5xtbwHc0IFZGxAqSkIdB7X6XAjd9Rzxkn3f8B9VRYseMxF2x"
+      },
+      {
+        "icon": "https://mundialtvdigital.com/logopalomar.jpg",
+        "name": "EL PALOMAR TV TUCUMAN",
+        "uri": "fC3MHOkKge9KClRhCnF6I6QnDbCRCUHiukipj9480egbGbnrdj0odVysXSFBI23ocUhz87sJWArukP16NBIwhqkGtqp/xgsk7EbjtUHyLfA="
       },
       {
         "icon": "https://www.fenix951.com.ar/nuevo_2013/a2017/assets/imgapp/logocanal.jpeg",
@@ -346,9 +303,9 @@
         "uri": "KsiuEyVQ460Eq9rEW5fR3Vp2LzzreaFiNdV6fpTmMSrAP+CJ8wX/388tIO22S1uXdfKs24byJO+q3lSvYQNJVw=="
       },
       {
-        "icon": "https://bragadotv.com.ar/wp-content/uploads/2020/08/logoicono.png",
+        "icon": "https://static.dplay.tech/imagenes/bragadotv.jpg",
         "name": "BRAGADO TV",
-        "uri": "YLdKP1SZFu+rkCHhlDVHwrx/C4y4mheKmTmANvVkokvz4H44MWkjc33pzs++oLNET5wngsqrHIoh3duAUecJxA=="
+        "uri": "t59uELZdayTJoFF5qUPb5MOLI8ABKDW7Kh6r8rZXT9cEc6C59vh1dCPAUxLEu+XZbKHZDLFNcX3728wj9TSu0w=="
       },
       {
         "icon": "https://raw.githubusercontent.com/eservicetv/playdigital/main/canal5.jpg",
@@ -764,17 +721,22 @@
         "drm_license_url": "HCZtbqzut9luoVOjrMqamynTD1OUSsrNcRU4OdMGt6Or+pRQFyTSwPbog2XgE8QA"
       },
       {
-        "icon": "https://static.flow.com.ar/images/3545/CH_LOGO/60/40/350/500/92564610073951.png",
-        "name": "ESPN PREMIUM",
-        "uri": "vriUr3OKz1kVyrTiqBzoN/7EMUq7Nn8KdIyHmnuL2doccaevCao65XlAkcrnn7xjAEYnN7BTgkwsjk+KvAhSIrtdNzBfOq3g6zqqCqTQ7dKdc42253e7GCDQA1IWfEo/leDxEbBm3EKdQzYhNVGnbQ==",
-        "drm_license_url": "hs3dtdtVpX4bycgt64ciVoPc/70bqP0Xb0u+5m1jO/MvWZIKrvSHO7KRPHySH2sh",
-        "drm_scheme": "clearkey"
+        "icon": "http://static.dplay.tech/imagenes/daznf1.png",
+        "name": "DAZN F1",
+        "drm_scheme": "clearkey",
+        "uri": "XCAa2za6nPqIzLiQ5Z3jEGonX/jLC0ytdSXdQrr9gHuaS1tTMUrjJQaoR4Fd7gd7ai9kCzV9IknXaqy8v8mye2p2Hptn5V6sdEZqvAHDCVU=",
+        "drm_license_url": "HCZtbqzut9luoVOjrMqamynTD1OUSsrNcRU4OdMGt6Or+pRQFyTSwPbog2XgE8QA"
+      },
+      {
+        "icon": "https://img.sport-tv-guide.live/images/stations/a1164.png",
+        "name": "BEIN SPORTS EXTRA",
+        "uri": "wsX2rHfy0U7EH6776YVNSLHIDw6FVnn+oj69RolvE5LEt1+NBGvzZNjhiNTDbq8m+expz4v/OCYcVmqX8HHeFA=="
       },
       {
         "icon": "https://static.flow.com.ar/images/3545/CH_LOGO/60/40/350/500/92564610073951.png",
         "name": "ESPN PREMIUM",
         "drm_scheme": "clearkey",
-        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4wGT52mdeZ3SD1iRaW1YsEsrL/9o7RanpAtZhH3jELrewnnhceYtiVo9p0kU9KnD2HUf1qJ8t4bvkIoUHU0hvA0NDypQD19x9OeGk3MOObSBA==",
+        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4wD72BnoY2lcokAA//b2ltPXHA9Ens+NqRvbFIzCOnCX19BDIHmWZQL6xFBSPfB1UMiYxtAQI/gMKBX2wM1kYfSCd+k015dj+Vu85ENn0RPRg==",
         "drm_license_url": "5YdyVi+PL8QZpLM9X5SumnXfVdiLbWmKfSu3LbQGVbf0MQTOkUHayICWw4qzZ96t"
       },
       {
@@ -853,13 +815,8 @@
       {
         "icon": "https://static.flow.com.ar/images/74/CH_LOGO/350/500/0/0/78711436072355.png",
         "name": "TyC Sports",
-        "uri": "wnNbG3LGain8L+dL5/adx3j1w4HboqK9TwhpkLdNt+XqfD4GPnRZAXm7UI4wEAWqv9MP4Cg98W/t\njRGxlU3lGC8+DXQsq41VNuzMtwrLdzqlz4aiVfdKbSUM2vjKxeSq"
-      },
-      {
-        "icon": "https://static.flow.com.ar/images/74/CH_LOGO/350/500/0/0/78711436072355.png",
-        "name": "TyC Sports",
         "drm_scheme": "clearkey",
-        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4yjD6zvaSceFKgIvl+gmuBL8Dp+Ryu4IsVSZC+PBdj+MbfbQSHiwyDOn1hdC8p6W+XUs8Mkvibnk/+FqThVoNYh",
+        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4zyHP+yLc/d0yh+CpF8/cEnpc3lkgrrmmPJ7D3O3kiq33BdkQf8534j7WqdXtAuclM=",
         "drm_license_url": "HCZtbqzut9luoVOjrMqam5s/6BXlssVkHouytKHc5UshYLj8eMQi8AnbqxKoXmlYrrn5g8wFsvatYKLR1jlLZw=="
       },
       {
