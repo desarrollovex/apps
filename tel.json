@@ -1,6 +1,6 @@
 [
   {
-    "name": "Argentina",
+    "name": "ARGENTINA",
     "mode": false,
     "lista": [
       {
@@ -1936,6 +1936,21 @@
     "name": "VARIOS CANALES",
     "mode": false,
     "lista": [
+      {
+        "icon": "https://yt3.ggpht.com/76koP9R-C9Kwi2GL12LEkl4CmyWD6DXO7mN1XTidzqJh0kNV6IWefmQ7B_DFPdgTQKYDOza99Q=s900-c-k-c0x00ffffff-no-rj",
+        "name": "AZM TV",
+        "uri": "7D8BfUaTHZn8UOPxblrHdPs5tv7KILUKXzF+CNmFxx9zsLFQPGkcP9bgqkjdCMut"
+      },
+      {
+        "icon": "https://sjdiario.com.ar/wp-content/uploads/2021/06/Logo-Limpio-1.png",
+        "name": "SJ DIARIO",
+        "uri": "NTiWAUgEVQQJYpfwJWj1j/hAOCtISvSKRSNhJFo+QwyHWYs/JsHOiunKSOep3gEjLJymM1Wo/QLc\n9iibZxMz3A=="
+      },
+      {
+        "icon": "https://cadenanew.com.ar/wp-content/uploads/2021/09/cropped-cropped-XDENA-1.png",
+        "name": "Cadena New",
+        "uri": "NTiWAUgEVQQJYpfwJWj1j/hAOCtISvSKRSNhJFo+QwznzZCzAzqgdphkVBqcJnNcUSfDr9CJRcl6\njQrGL+r9dA=="
+      },
       {
         "icon": "https://foroalfa.org/imagenes/ilustraciones/Caso_Canal_Encuentro.gif",
         "name": "Encuentro",
