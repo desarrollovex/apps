@@ -129,6 +129,13 @@
     "mode": false,
     "lista": [
       {
+        "icon": "https://canal12misiones.com/nuevo/wp-content/uploads/2021/01/Doce-Misiones-03.png",
+        "name": "CANAL DOCE MISIONES",
+        "uri": "5YdyVi+PL8QZpLM9X5SumhqEzF66E7LtO1G5KLXQgWsW/IaMTNUU9EYWaPuE/U9LOP3+4PrzifYWbvV0xE+dGH98jaAuEdMi+t7GWyGr0tBF/XQNqRaV5L3i3TxbEr48",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYiba/FBhCqDyzDap0+lGSNH1l"
+      },
+      {
         "icon": "https://lavozdesanpedro.com.ar/wp-content/uploads/2022/10/LOGO.jpg",
         "name": "NORTE TV TUCUMAN",
         "uri": "iPeoYYZ1jn0KkumPEHy+oDHn65uKH3ydBRrlnmCTKUI6YzM7yQshzRCeVpg7rPdS"
