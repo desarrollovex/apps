@@ -1017,6 +1017,22 @@
     ]
   },
   {
+    "name": "GRAN HERMANO 24/7",
+    "mode": false,
+    "lista": [
+      {
+        "icon": "https://telefe-static.akamaized.net/media/18236425/casting-gran-hermano-2022.jpg?height=360&mode=crop",
+        "name": "GH 2022 SD",
+        "uri": "L0nhrjGOdxOlT5pGHRZkKgI8IzNH4WHWPaVxWJPMJWZ5+d+Y0Jo5SsGNrexH/Mlp8RrYxYLrj71y\nO+FGWJR7QxFZb8hXr+4EKRqdeiyZ0UcnmpHuWDiO222HTMqIRCdH9/ArfQ+H1U3h9WM9HTN6Aw=="
+      },
+      {
+        "icon": "https://lh3.googleusercontent.com/-el7nacLOOXE/Y08YyJsahbI/AAAAAAAAA2I/6i517dTpJasJC-0BG8ZJCQWGKucpZIsSwCNcBGAsYHQ/w480/ver-gran-hermano-en-vivo.jpg",
+        "name": "GH 2022 HD",
+        "uri": "L0nhrjGOdxOlT5pGHRZkKgI8IzNH4WHWPaVxWJPMJWZ5+d+Y0Jo5SsGNrexH/Mlp8RrYxYLrj71y\nO+FGWJR7QxFZb8hXr+4EKRqdeiyZ0UcnmpHuWDiO222HTMqIRCdHBsX/rFffHHIM/FT2fz4gSw=="
+      }
+    ]
+  },
+  {
     "name": "CANALES INFANTILES",
     "mode": false,
     "lista": [
@@ -4504,27 +4520,6 @@
         "icon": "https://cinema10.com.br/upload/series/series_22_Maluco.jpg",
         "name": "El Principel del Rap",
         "uri": "FIo+OYSGLPZqiTcxm13yogh+dGzy4tLIxWG7iQ8d3FoTP0EM2mK5+JOAle7/O4QeUgbY+MpODmUvOyJkXgew+A=="
-      }
-    ]
-  },
-  {
-    "name": "GRAN HERMANO 24/7",
-    "mode": false,
-    "lista": [
-      {
-        "icon": "https://telefe-static.akamaized.net/media/18236425/casting-gran-hermano-2022.jpg?height=360&mode=crop",
-        "name": "GH 2022 SD",
-        "uri": "L0nhrjGOdxOlT5pGHRZkKgI8IzNH4WHWPaVxWJPMJWZ5+d+Y0Jo5SsGNrexH/Mlp8RrYxYLrj71y\nO+FGWJR7QxFZb8hXr+4EKRqdeiyZ0UcnmpHuWDiO222HTMqIRCdH9/ArfQ+H1U3h9WM9HTN6Aw=="
-      },
-      {
-        "icon": "https://lh3.googleusercontent.com/-el7nacLOOXE/Y08YyJsahbI/AAAAAAAAA2I/6i517dTpJasJC-0BG8ZJCQWGKucpZIsSwCNcBGAsYHQ/w480/ver-gran-hermano-en-vivo.jpg",
-        "name": "GH 2022 HD",
-        "uri": "wsX2rHfy0U7EH6776YVNSLHIDw6FVnn+oj69RolvE5LRpLHdo41HE3FjBP8ogAgTgZaiVHHb9bhK\n8OTIKRb4VOzqmyGm1GHXEwLCYV7TXSM="
-      },
-      {
-        "icon": "https://lh3.googleusercontent.com/-el7nacLOOXE/Y08YyJsahbI/AAAAAAAAA2I/6i517dTpJasJC-0BG8ZJCQWGKucpZIsSwCNcBGAsYHQ/w480/ver-gran-hermano-en-vivo.jpg",
-        "name": "GH 2022 HD",
-        "uri": "L0nhrjGOdxOlT5pGHRZkKgI8IzNH4WHWPaVxWJPMJWZ5+d+Y0Jo5SsGNrexH/Mlp8RrYxYLrj71y\nO+FGWJR7QxFZb8hXr+4EKRqdeiyZ0UcnmpHuWDiO222HTMqIRCdHBsX/rFffHHIM/FT2fz4gSw=="
       }
     ]
   }
