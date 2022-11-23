@@ -735,26 +735,6 @@
         "drm_license_url": "HCZtbqzut9luoVOjrMqamynTD1OUSsrNcRU4OdMGt6Or+pRQFyTSwPbog2XgE8QA"
       },
       {
-        "icon": "https://img.sport-tv-guide.live/images/tv-station-dazn-2-es-2511.png",
-        "name": "DAZN 2",
-        "uri": "0mvj0ZgF3377g7DUUYjvrHaaYixMywXXX1FM9fPjizgPbH9iJRHnfiVQW7C3KQ72/GWMdXelJnTz\nFX9QFjAwXQ=="
-      },
-      {
-        "icon": "https://img.sport-tv-guide.live/images/tv-station-dazn-3-es-2524.png",
-        "name": "DAZN 3",
-        "uri": "0mvj0ZgF3377g7DUUYjvrHaaYixMywXXX1FM9fPjizgPbH9iJRHnfiVQW7C3KQ72cnye7UMqOLDQ\nHrmEqgUDhg=="
-      },
-      {
-        "icon": "https://img.sport-tv-guide.live/images/tv-station-dazn-4-es-2525.png",
-        "name": "DAZN 4",
-        "uri": "0mvj0ZgF3377g7DUUYjvrHaaYixMywXXX1FM9fPjizgPbH9iJRHnfiVQW7C3KQ726AoLM5FHmXZ7\nZcdAXyBhZA=="
-      },
-      {
-        "icon": "https://cdn.sincroguia.tv/uploads/images/t/x/1/xmovistar-la-liga.jpg.pagespeed.ic.ms2Jjy3cbG.jpg",
-        "name": "La liga",
-        "uri": "0mvj0ZgF3377g7DUUYjvrHaaYixMywXXX1FM9fPjizgPbH9iJRHnfiVQW7C3KQ72czjqavdY0pvV\nXJrcIttOgQ=="
-      },
-      {
         "icon": "https://img.sport-tv-guide.live/images/stations/a1164.png",
         "name": "BEIN SPORTS EXTRA",
         "uri": "wsX2rHfy0U7EH6776YVNSLHIDw6FVnn+oj69RolvE5LEt1+NBGvzZNjhiNTDbq8m+expz4v/OCYcVmqX8HHeFA=="
@@ -845,21 +825,6 @@
         "drm_scheme": "clearkey",
         "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4zyHP+yLc/d0yh+CpF8/cEnpc3lkgrrmmPJ7D3O3kiq33BdkQf8534j7WqdXtAuclM=",
         "drm_license_url": "HCZtbqzut9luoVOjrMqam5s/6BXlssVkHouytKHc5UshYLj8eMQi8AnbqxKoXmlYrrn5g8wFsvatYKLR1jlLZw=="
-      },
-      {
-        "icon": "https://static.flow.com.ar/images/74/CH_LOGO/350/500/0/0/78711436072355.png",
-        "name": "TyC 2",
-        "uri": "0mvj0ZgF3377g7DUUYjvrHaaYixMywXXX1FM9fPjizgPbH9iJRHnfiVQW7C3KQ72pdnLxtDL4Q9mW+BWwmL/NQ=="
-      },
-      {
-        "icon": "https://static.flow.com.ar/images/74/CH_LOGO/350/500/0/0/78711436072355.png",
-        "name": "TyC 3",
-        "uri": "W9p2NUpj8tvrBp+fKr5LTMyRyENCLp/4dQN2IfHLHugxygV3iZb6on9N/3Dh4ptU7NT+MyU74D278NjWRDyDrVL+bnvySNzp1e66/QlO9hS7rtkhUj6DojYJGlN9H5uS"
-      },
-      {
-        "icon": "https://static.flow.com.ar/images/74/CH_LOGO/350/500/0/0/78711436072355.png",
-        "name": "TyC 4",
-        "uri": "0mvj0ZgF3377g7DUUYjvrHaaYixMywXXX1FM9fPjizgPbH9iJRHnfiVQW7C3KQ72h8shjLVLXl1M\n+rOgZSxMxA=="
       },
       {
         "icon": "https://static.flow.com.ar/images/270/CH_LOGO/350/500/0/0/81432910072195.png",
@@ -1013,22 +978,6 @@
         "drm_scheme": "clearkey",
         "uri": "GC2/ddPzLVut0fvk2/wB4goX8aK3dlw6jkqWAKJxC57j2YIoYljyZYNW41sGSlV2",
         "drm_license_url": "HCZtbqzut9luoVOjrMqam8WzunXTO5gYuhG7ekpRnDT54aOL6L2BsBzsENzxzj+G"
-      }
-    ]
-  },
-  {
-    "name": "GRAN HERMANO 24/7",
-    "mode": false,
-    "lista": [
-      {
-        "icon": "https://telefe-static.akamaized.net/media/18236425/casting-gran-hermano-2022.jpg?height=360&mode=crop",
-        "name": "GH 2022 SD",
-        "uri": "L0nhrjGOdxOlT5pGHRZkKgI8IzNH4WHWPaVxWJPMJWZ5+d+Y0Jo5SsGNrexH/Mlp8RrYxYLrj71y\nO+FGWJR7QxFZb8hXr+4EKRqdeiyZ0UcnmpHuWDiO222HTMqIRCdH9/ArfQ+H1U3h9WM9HTN6Aw=="
-      },
-      {
-        "icon": "https://lh3.googleusercontent.com/-el7nacLOOXE/Y08YyJsahbI/AAAAAAAAA2I/6i517dTpJasJC-0BG8ZJCQWGKucpZIsSwCNcBGAsYHQ/w480/ver-gran-hermano-en-vivo.jpg",
-        "name": "GH 2022 HD",
-        "uri": "L0nhrjGOdxOlT5pGHRZkKgI8IzNH4WHWPaVxWJPMJWZ5+d+Y0Jo5SsGNrexH/Mlp8RrYxYLrj71y\nO+FGWJR7QxFZb8hXr+4EKRqdeiyZ0UcnmpHuWDiO222HTMqIRCdHBsX/rFffHHIM/FT2fz4gSw=="
       }
     ]
   },
@@ -3139,7 +3088,7 @@
       {
         "icon": "https://forum.panasef.com/wp-content/uploads/2018/12/Icono-11.png",
         "name": "EVENTOS",
-        "uri": "tUJY21IyYazQI2cUOrQtCtDi2PKouGV1az1qs+vzSpDxKhzJWm7bXc70Bpe17XK4"
+        "uri": "W9p2NUpj8tvrBp+fKr5LTMyRyENCLp/4dQN2IfHLHugxygV3iZb6on9N/3Dh4ptU7NT+MyU74D278NjWRDyDrVL+bnvySNzp1e66/QlO9hS7rtkhUj6DojYJGlN9H5uS"
       },
       {
         "icon": "https://forum.panasef.com/wp-content/uploads/2018/12/Icono-11.png",
