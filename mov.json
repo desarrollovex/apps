@@ -4,6 +4,11 @@
     "mode": true,
     "lista": [
       {
+        "icon": "http://tuvideo.tv/poster/w200/7244951669164641i.jpg",
+        "name": "La mujer Rey",
+        "uri": "aqjOEhWtVS9CYLQkJfIDWXqsT8E1LwZLkiIoZIFZ8t5On+NfLFhddWMw5V4zKfJVB9mB1PIP1gQ4\nx4gUywLoAw=="
+      },
+      {
         "icon": "http://tuvideo.tv/poster/w200/6268721668910086i.jpg",
         "name": "Emergencia en el Aire",
         "uri": "aqjOEhWtVS9CYLQkJfIDWQXSQJhtTFoAPGKqp8tDoh1hB7fHYHfd9bNTZMg1uWoIDWuin72/pAGM\n286LvDsTMKJ1Y3WtyFOefd8/LP9ZQSk="
@@ -52,6 +57,11 @@
         "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/1/w1280/e0inlqmlAQ0dbrrcLRXiQQRJ0fr.jpg",
         "name": "La leyenda de la Llorona",
         "uri": "It4hL9cGNnGI8hUqRaPD547YclzW9FvUj8Gdnrb7ZRD+2fJD3i6+IUbHldxumOJ5Aac1whB9KLIZ\nVPaw3CADBQ=="
+      },
+      {
+        "icon": "https://es.web.img2.acsta.net/pictures/22/10/07/16/48/1142280.jpg",
+        "name": "Black Adams",
+        "uri": "aqjOEhWtVS9CYLQkJfIDWS9QL0ZlDua+kba7ctIeNZVxQ8WgiG7MvIXlEUZ0llCfe+L47NJqKgOZ\nVxzzELP5cg=="
       },
       {
         "icon": "https://es.web.img2.acsta.net/pictures/22/10/07/16/48/1142280.jpg",
