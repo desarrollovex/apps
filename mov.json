@@ -626,6 +626,44 @@
     "mode": true,
     "lista": [
       {
+        "name": "Merlina",
+        "icon": "https://image.tmdb.org/t/p/w185/nH3Xqdb8QGcvbwBMweFhglpbtya.jpg",
+        "temporada": [
+          {
+            "name": "CAPITULO 1",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZqJiS54xeFK++aDT0wdyELrnNmV0vDkvqSMwQKUsY8WGJZT53ehfbmsD\nVx9RVIN3sA=="
+          },
+          {
+            "name": "CAPITULO 2",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZqJiS54xeFK++aDT0wdyELrL/1xlzcgkM3gZKQ7ee2jCqzqg/Un5WrUu\nofaWJv5+0Q=="
+          },
+          {
+            "name": "CAPITULO 3",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZqJiS54xeFK++aDT0wdyELrMsZhxXFOx/Q13ih57uSZ6+tunspmBsKzL\nyEApRFWslA=="
+          },
+          {
+            "name": "CAPITULO 4",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZqJiS54xeFK++aDT0wdyELo0lAzy9HfRiWl3XOol8MgiA5ajFOL4WXY+\nPwLLTy1vmA=="
+          },
+          {
+            "name": "CAPITULO 5",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZqJiS54xeFK++aDT0wdyELov0L9QsDOVmXBV9W9dNhOnyPp4V111SPkT\nPb4YuPlMpw=="
+          },
+          {
+            "name": "CAPITULO 6",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZqJiS54xeFK++aDT0wdyELoWf90QwIZW8z301gNmdg1yZmPQAdROmKwA\n4luvb/wSIw=="
+          },
+          {
+            "name": "CAPITULO 7",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZqJiS54xeFK++aDT0wdyELrWHCgeH5JNOHk2+6tp0sAoC/Ckrcpz8+No\nYvaAD/B/2Q=="
+          },
+          {
+            "name": "CAPITULO 8",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZqJiS54xeFK++aDT0wdyELoCKRPE7vRVPI8nFcFMLtwzkQcEgVLA3ZJB\nlUFWoSTnrw=="
+          }
+        ]
+      },
+      {
         "name": "The Great T1",
         "icon": "https://es.web.img2.acsta.net/pictures/20/05/06/12/15/3872637.jpg",
         "temporada": [
