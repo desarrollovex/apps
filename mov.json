@@ -616,6 +616,52 @@
     "mode": true,
     "lista": [
       {
+        "name": "The Great T1",
+        "icon": "https://es.web.img2.acsta.net/pictures/20/05/06/12/15/3872637.jpg",
+        "temporada": [
+          {
+            "name": "CAPITULO 1",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZhHhiEFIBzXDZZaCTbCM8AFB/3bVvhq6RWb+ZLoGWvYvXDaIBQ+iCfRf\nwv4msjosPw=="
+          },
+          {
+            "name": "CAPITULO 2",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZhHhiEFIBzXDZZaCTbCM8AFB/3bVvhq6RWb+ZLoGWvYvB27Ufh+H2EDs\n2x2UScneGw=="
+          },
+          {
+            "name": "CAPITULO 3",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZhHhiEFIBzXDZZaCTbCM8AFB/3bVvhq6RWb+ZLoGWvYv/Rg05cYIdLsI\nX2+KrMycyQ=="
+          },
+          {
+            "name": "CAPITULO 4",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZhHhiEFIBzXDZZaCTbCM8AFB/3bVvhq6RWb+ZLoGWvYvbQTZ3QmlxP34\nlPmAzCEyDw=="
+          },
+          {
+            "name": "CAPITULO 5",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZhHhiEFIBzXDZZaCTbCM8AFB/3bVvhq6RWb+ZLoGWvYvPfmag813rJeI\ncFpqnmsV1A=="
+          },
+          {
+            "name": "CAPITULO 6",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZhHhiEFIBzXDZZaCTbCM8AFB/3bVvhq6RWb+ZLoGWvYvMBmrrrfrLQqE\ns7WcfNGzbQ=="
+          },
+          {
+            "name": "CAPITULO 7",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZhHhiEFIBzXDZZaCTbCM8AFB/3bVvhq6RWb+ZLoGWvYvH2ezwjT1R9x3\n6mdEnpQuxA=="
+          },
+          {
+            "name": "CAPITULO 8",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZhHhiEFIBzXDZZaCTbCM8AFB/3bVvhq6RWb+ZLoGWvYvYLRbrgyMGGOm\n0rO9G3bZdw=="
+          },
+          {
+            "name": "CAPITULO 9",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZhHhiEFIBzXDZZaCTbCM8AFB/3bVvhq6RWb+ZLoGWvYvJhTAwQu7cSfC\nh0ZrlXEUtw=="
+          },
+          {
+            "name": "CAPITULO 10",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZhHhiEFIBzXDZZaCTbCM8AFB/3bVvhq6RWb+ZLoGWvYv5Tcuz2t16tF0\nq6Mnl9EqGQ=="
+          }
+        ]
+      },
+      {
         "name": "The Crown",
         "icon": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/7NALYG3CZVBERC3MKQYHX2NN44.jpg",
         "temporada": [
