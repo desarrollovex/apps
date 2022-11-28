@@ -1,6 +1,6 @@
 [
   {
-    "name": "Argentina",
+    "name": "ARGENTINA",
     "mode": false,
     "lista": [
       {
@@ -684,11 +684,9 @@
     "mode": false,
     "lista": [
       {
-        "icon": "http://static.dplay.tech/imagenes/daznf1.png",
-        "name": "DAZN F1",
-        "uri": "aQzLS6e/EXA49dg60WEabo4/hMKFISbucu8mDLhKS71baPNf17eMjmvC4vSIU0JoMkY/pUggNdsp7I7iYdY0yqACZMCOwBJ0YOeqrM6d1kmyEqVOkT4fgLoqi9Dw64CVvoc2Gr3iP98IP+kfJwVlk7jVxmLLxQ2YfQp8MLUm+lSeHYbWfYDp67LZVUrANcrv",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "p3w4YOr2vcNcc+A/yk81q7V9enJS1lEqwJBkJ+dRKBNYGR7Df5RV66Yy7Gb0gJ7T"
+        "icon": "https://i.imgur.com/fRgQOe9.png",
+        "name": "evento 1",
+        "uri": "zXVLp40uVnhj31k2ns8IdINZetU5U5JU0kaRvAil+QRFARl/hW3b+/oYceTkvB0Cm2iTOBSBZVlrRyZzLWV7EP6MPdHlpjfPKI1X3REnfHU="
       },
       {
         "icon": "http://static.dplay.tech/imagenes/daznf1.png",
@@ -963,17 +961,17 @@
       {
         "icon": "https://i.imgur.com/fRgQOe9.png",
         "name": "evento 2",
-        "uri": "zXVLp40uVnhj31k2ns8IdINZetU5U5JU0kaRvAil+QRFARl/hW3b+/oYceTkvB0Cm2iTOBSBZVlr\nRyZzLWV7ELzAmytma7pemyyXwHeEGu4="
+        "uri": "zXVLp40uVnhj31k2ns8IdINZetU5U5JU0kaRvAil+QRFARl/hW3b+/oYceTkvB0Cm2iTOBSBZVlrRyZzLWV7ELzAmytma7pemyyXwHeEGu4="
       },
       {
         "icon": "https://i.imgur.com/fRgQOe9.png",
         "name": "evento 3",
-        "uri": "zXVLp40uVnhj31k2ns8IdINZetU5U5JU0kaRvAil+QRFARl/hW3b+/oYceTkvB0Cm2iTOBSBZVlr\nRyZzLWV7EBb7HrH99M4zRTDg7PzUqSg="
+        "uri": "zXVLp40uVnhj31k2ns8IdINZetU5U5JU0kaRvAil+QRFARl/hW3b+/oYceTkvB0Cm2iTOBSBZVlrRyZzLWV7EBb7HrH99M4zRTDg7PzUqSg="
       },
       {
         "icon": "https://i.imgur.com/fRgQOe9.png",
         "name": "evento 4",
-        "uri": "zXVLp40uVnhj31k2ns8IdINZetU5U5JU0kaRvAil+QRFARl/hW3b+/oYceTkvB0Cm2iTOBSBZVlr\nRyZzLWV7EPcrsLbpLHQBidJdMeK7vuQ="
+        "uri": "zXVLp40uVnhj31k2ns8IdINZetU5U5JU0kaRvAil+QRFARl/hW3b+/oYceTkvB0Cm2iTOBSBZVlrRyZzLWV7EPcrsLbpLHQBidJdMeK7vuQ="
       },
       {
         "icon": "https://i.imgur.com/fRgQOe9.png",
