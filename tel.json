@@ -1,6 +1,6 @@
 [
   {
-    "name": "ARGENTINA",
+    "name": "Argentina",
     "mode": false,
     "lista": [
       {
@@ -684,11 +684,6 @@
     "mode": false,
     "lista": [
       {
-        "icon": "https://i.imgur.com/fRgQOe9.png",
-        "name": "evento 1",
-        "uri": "zXVLp40uVnhj31k2ns8IdINZetU5U5JU0kaRvAil+QRFARl/hW3b+/oYceTkvB0Cm2iTOBSBZVlrRyZzLWV7EP6MPdHlpjfPKI1X3REnfHU="
-      },
-      {
         "icon": "http://static.dplay.tech/imagenes/daznf1.png",
         "name": "DAZN F1",
         "drm_scheme": "clearkey",
@@ -956,7 +951,7 @@
       {
         "icon": "https://i.imgur.com/fRgQOe9.png",
         "name": "evento 1",
-        "uri": "zXVLp40uVnhj31k2ns8IdINZetU5U5JU0kaRvAil+QRFARl/hW3b+/oYceTkvB0Cm2iTOBSBZVlrRyZzLWV7EP6MPdHlpjfPKI1X3REnfHU="
+        "uri": "zXVLp40uVnhj31k2ns8IdINZetU5U5JU0kaRvAil+QRFARl/hW3b+/oYceTkvB0Cm2iTOBSBZVlrRyZzLWV7EM8mNhJOlt35PEp4Y53d7zI="
       },
       {
         "icon": "https://i.imgur.com/fRgQOe9.png",
