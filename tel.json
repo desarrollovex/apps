@@ -1,6 +1,6 @@
 [
   {
-    "name": "Argentina",
+    "name": "ARGENTINA",
     "mode": false,
     "lista": [
       {
@@ -704,6 +704,11 @@
     "mode": false,
     "lista": [
       {
+        "icon": "https://i.ibb.co/jTpWsm6/tennis.jpg",
+        "name": "TENNIS CHANNEL",
+        "uri": "Th8t/hJCkRlm+AMqRRbket46Px/RxkTDO/F2o7ZOZcQLmUfeSv6YXZUGsLM64l59f3SSQnHPVD09\nPQcVO+QebA=="
+      },
+      {
         "icon": "https://scontent.ftuc1-2.fna.fbcdn.net/v/t39.30808-6/281989457_102345062490697_488459412695090524_n.jpg?stp=cp0_dst-jpg_e15_fr_q65&_nc_cat=105&ccb=1-7&_nc_sid=dd9801&efg=eyJpIjoidCJ9&_nc_ohc=OdfQcsmpmMYAX_LhLK6&tn=MAXz8_0JWH0R3c3_&_nc_ht=scontent.ftuc1-2.fna&oh=00_AfB4k703tgTYoGsY9ajIDmwYnH8VXkJrzH0ecU253YRPEQ&oe=638AA489",
         "name": "SEO Deportes",
         "uri": "oWkh8EtSDxQ+2V4ilSmakcmKvMYIdR+wYyuC+S4W5TE="
@@ -1218,7 +1223,9 @@
       {
         "icon": "https://static.wikia.nocookie.net/logopedia/images/2/2b/BitMe.png/revision/latest/scale-to-width-down/1200?cb=20200123215611&path-prefix=es",
         "name": "BIT ME",
-        "uri": "D2jLokBxFj/Mr0k2a6m34MBEfb4jPAG8U8cJqU/XgrkNKFEPBcWRg6qrE2oRIPRYA6cqRTRyDEu+BzBuEjmcJmUqgSevpNO8KWxDI/X20aM="
+        "uri": "GC2/ddPzLVut0fvk2/wB4kZrUJ2WFh7TEFusWZsnfjt+yv7qY1iV5HViKuf8tV9eur3Czf80YhXA\nKFkj0V6v9g==",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "7n9dxcYgNSQGDGf11WhqlfUkcCzxE9xDFCMMxTWLlkkSIYR3FKSnerQa+8eSL+88"
       }
     ]
   },
