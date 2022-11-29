@@ -1,6 +1,6 @@
 [
   {
-    "name": "ARGENTINA",
+    "name": "Argentina",
     "mode": false,
     "lista": [
       {
@@ -377,6 +377,11 @@
     "name": "INTERIOR ARGENTINA",
     "mode": false,
     "lista": [
+      {
+        "icon": "https://i.imgur.com/aB7BsqM.png",
+        "name": "Xama TV",
+        "uri": "7Td3JFvKcqEPJGxSnqEox+2l2DlooSp38gPSk2xQE+9ULffbKZJEZwfM6baRk9Ws"
+      },
       {
         "icon": "http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/canal-12-metro-tv.png",
         "name": "CANAL 12 METRO",
