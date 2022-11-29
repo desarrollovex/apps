@@ -1,6 +1,6 @@
 [
   {
-    "name": "Argentina",
+    "name": "ARGENTINA",
     "mode": false,
     "lista": [
       {
@@ -958,6 +958,20 @@
         "icon": "https://i.imgur.com/fRgQOe9.png",
         "name": "evento 5",
         "uri": "FIo+OYSGLPZqiTcxm13yogh+dGzy4tLIxWG7iQ8d3FoTP0EM2mK5+JOAle7/O4QeS8209uHyf8+jWw1BDUQK4w=="
+      },
+      {
+        "icon": "https://i.imgur.com/fRgQOe9.png",
+        "name": "Evento 6",
+        "uri": "mE1HknBiC6w90R89CUBLxgeVzHqyAJpMUkPkJr4kUYaIISgYpXPtqfDZbcsaJoZb",
+        "drm_license_url": "HCZtbqzut9luoVOjrMqam/oQslUOOxqDfb0I0JXgSi7lEb+XwFPJejPAcPv16QPw",
+        "drm_scheme": "clearkey"
+      },
+      {
+        "icon": "https://i.imgur.com/fRgQOe9.png",
+        "name": "Evento 7",
+        "uri": "mE1HknBiC6w90R89CUBLxgeVzHqyAJpMUkPkJr4kUYYKdEimHjlNGHTKMCqE+a4p",
+        "drm_license_url": "HCZtbqzut9luoVOjrMqam/oQslUOOxqDfb0I0JXgSi7FbZQoTDB73Ln3nQoiDd27",
+        "drm_scheme": "clearkey"
       },
       {
         "icon": "https://static.flow.com.ar/images/74/CH_LOGO/350/500/0/0/78711436072355.png",
