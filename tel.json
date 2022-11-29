@@ -797,20 +797,6 @@
         "drm_license_url": "HCZtbqzut9luoVOjrMqam5s/6BXlssVkHouytKHc5UsWbZx/huLur6g1LTBeSStc/hqQf0rEjQe3EWLmIrnYZA=="
       },
       {
-        "icon": "http://static.dplay.tech/imagenes/dtv1.png?",
-        "name": "DIRECTV SPORTS 1",
-        "drm_scheme": "clearkey",
-        "uri": "5YdyVi+PL8QZpLM9X5SumtDQJEBWxu6D8yDreJ+NMx80/6xIPYk20L647YcwZSjE",
-        "drm_license_url": "HCZtbqzut9luoVOjrMqam/oQslUOOxqDfb0I0JXgSi7lEb+XwFPJejPAcPv16QPw"
-      },
-      {
-        "icon": "http://static.dplay.tech/imagenes/dtv2.png?",
-        "name": "DIRECTV SPORTS 2",
-        "drm_scheme": "clearkey",
-        "uri": "5YdyVi+PL8QZpLM9X5SummSIIJWFjCgBUhoJyjYv73P8AYrCnXH/Iz3Ddy5+Irib",
-        "drm_license_url": "HCZtbqzut9luoVOjrMqam/oQslUOOxqDfb0I0JXgSi7FbZQoTDB73Ln3nQoiDd27"
-      },
-      {
         "icon": "http://static.dplay.tech/imagenes/dtv3.png",
         "name": "DIRECTV SPORTS PLUS",
         "drm_scheme": "clearkey",
@@ -986,20 +972,6 @@
         "drm_scheme": "clearkey",
         "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4y07pDDUjaeOWownFQZofNiIkK4BG/p7/VGglpFq7Sakv/QWCR9IbbLwYqeqbMH+ErePXXvpBMlSs392e1WgmeO",
         "drm_license_url": "HCZtbqzut9luoVOjrMqam5s/6BXlssVkHouytKHc5UsWbZx/huLur6g1LTBeSStc/hqQf0rEjQe3EWLmIrnYZA=="
-      },
-      {
-        "icon": "http://static.dplay.tech/imagenes/dtv1.png?",
-        "name": "DIRECTV SPORTS 1",
-        "drm_scheme": "clearkey",
-        "uri": "5YdyVi+PL8QZpLM9X5SumtDQJEBWxu6D8yDreJ+NMx80/6xIPYk20L647YcwZSjE",
-        "drm_license_url": "HCZtbqzut9luoVOjrMqam/oQslUOOxqDfb0I0JXgSi7lEb+XwFPJejPAcPv16QPw"
-      },
-      {
-        "icon": "http://static.dplay.tech/imagenes/dtv2.png?",
-        "name": "DIRECTV SPORTS 2",
-        "drm_scheme": "clearkey",
-        "uri": "5YdyVi+PL8QZpLM9X5SummSIIJWFjCgBUhoJyjYv73P8AYrCnXH/Iz3Ddy5+Irib",
-        "drm_license_url": "HCZtbqzut9luoVOjrMqam/oQslUOOxqDfb0I0JXgSi7FbZQoTDB73Ln3nQoiDd27"
       },
       {
         "icon": "http://static.dplay.tech/imagenes/dtv3.png",
