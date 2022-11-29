@@ -37,6 +37,11 @@
       {
         "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png",
         "name": "TELEFE",
+        "uri": "ZH1xOnNOTqpMBBY5Rib/RWK7G8VCo/bWpWIhNvfOEbgAsLkkyVwNyWavc1cScybEiV9AzMduV8bH\nce+KYcrbWA=="
+      },
+      {
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png",
+        "name": "TELEFE",
         "drm_scheme": "clearkey",
         "uri": "jwjdtN1vPAWPglxaqI7tf7yXJDdeZAFjHlDzvGo6CyKjzrZG0NvnaRO7UipB4gpLkgB7Sq8HfLGAog3PiNDK+l6xxMSAbvxTlVdqYb4iO4KypYGEbe4+yXeU7tMQSVLq",
         "drm_license_url": "HCZtbqzut9luoVOjrMqamwBaaHobU1j066yE9k8mBiyduqXnYBGTgOUkhowJI3+B"
@@ -378,6 +383,16 @@
     "mode": false,
     "lista": [
       {
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Canal_9_2015.png",
+        "name": "El Nueve",
+        "uri": "0USrc3JgXgZ9Z0f8knKwxM3XMOECZ0nJP0AC6G9kXlcILkrJRFtAJg6+KbhvsUgEr9dP3KLarIT8\nrKrx2AZAF4cwDMtOWUpLUIdgPkET67Y="
+      },
+      {
+        "icon": "https://i.imgur.com/5IPjtJk.png",
+        "name": "SEO TV Novelas",
+        "uri": "dJfqdA57SrExqJf5Qn2GFSYlVGxeEn69q5l3z4Isgu3l/4LbdKckq6a1C4XJ8dRR"
+      },
+      {
         "icon": "https://i.imgur.com/aB7BsqM.png",
         "name": "Xama TV",
         "uri": "7Td3JFvKcqEPJGxSnqEox+2l2DlooSp38gPSk2xQE+9ULffbKZJEZwfM6baRk9Ws"
@@ -688,6 +703,21 @@
     "name": "DEPORTIVOS",
     "mode": false,
     "lista": [
+      {
+        "icon": "https://i.imgur.com/7NeBmWX.jpg",
+        "name": "Redbull TV",
+        "uri": "MLsaQxFqzRCvSF7WudTEgGe5T59tnMR4goVRFpA+5vB05TNu40ywEl5G0kG0rM4XnFsxqvI0WchI\neFWs11ZCJ0Ep7RYLVpoaQ9tw13t6ngY="
+      },
+      {
+        "icon": "https://i.imgur.com/4fqvwEk.png",
+        "name": "STIRR MavTV",
+        "uri": "+Z0YJAmTfMweMw+2n3yqlPmhx1hukSmiP1fLojUpex9K7q8wwS/1zc0j2ZDDY+MSMDEgLFQFRVjE\njNrlR7geCWtx4joUDf9cpGOBG/VgsR4="
+      },
+      {
+        "icon": "https://images.pluto.tv/channels/5f8ecfb9db6c180007a6d1b0/colorLogoPNG.png",
+        "name": "World Poker Tour",
+        "uri": "JprSQ9X5a5Bm8tLMUuK7aZEjWNDXNALVNDxXRicfHcL3AfalN0/tbru3sgZn9+xE03tJV1nAko0p\nhKYLRgwiNBueov+dvhPHb5gs4wnCtu9YCEGED8xaB6OZxsNqdfkbdqzF30351BwsGSCBRJX5gQ=="
+      },
       {
         "icon": "http://static.dplay.tech/imagenes/daznf1.png",
         "name": "DAZN F1",
@@ -1095,6 +1125,21 @@
     "name": "INFANTILES",
     "mode": false,
     "lista": [
+      {
+        "icon": "https://i.imgur.com/1BW5tDe.png",
+        "name": "EnerGeek Animate",
+        "uri": "m3PzVuTUQAHlxdbpWJjJS4oXNcCmWDWmDKZbm4NDlvcBe4Uf95Lf12xJ641XGzugsvE1GZFtZoMu\niiUjANUBhg=="
+      },
+      {
+        "icon": "https://i.imgur.com/AdsItgE.png",
+        "name": "EnerGeek Fanpop",
+        "uri": "sck63B5JbM4uihIi9zX7Xv2dQC3szk4P7yuSRQ5GlvmJLOK2e5i65byqs0j9iLGZbGJHYKGNHt4C\nT6mqe//hN01r+FCIqxlUeja/z9IG8kM="
+      },
+      {
+        "icon": "https://i.imgur.com/sFYhUs5.png",
+        "name": "EnerGeek Retro",
+        "uri": "m3PzVuTUQAHlxdbpWJjJS73qR9rwi1MYpuwBghth06p0Mbr7mKvx1O0SKfWKfPRLfh3f3N7qK04H\nhO9vRJNbzA=="
+      },
       {
         "icon": "https://upload.wikimedia.org/wikipedia/commons/c/c3/TvG2.jpg",
         "name": "TVG",
@@ -2578,6 +2623,16 @@
     "name": "MUSICA",
     "mode": false,
     "lista": [
+      {
+        "icon": "https://i.imgur.com/WcM7BP5.png",
+        "name": "Tropical Moon Eventos TV",
+        "uri": "p2XQ2uUj2B8rn0qdNShc/OohkQwFWz5nd3Cedm67aEbuF95jsMpGVzOqRupjhcs+hqQYoXjD9EEX\nSk75+UnCdA=="
+      },
+      {
+        "icon": "https://i.imgur.com/WcM7BP5.png",
+        "name": "Tropical Moon Salsa TV",
+        "uri": "p2XQ2uUj2B8rn0qdNShc/OudCG1LNuMO8X8isOAlpwkpO05cSGgdnBWpJIRinyzHWcCi3DJ3vpDH\n+gvGNDI5Ng=="
+      },
       {
         "icon": "https://xtrematv.com/wp-content/uploads/2022/05/logocovers.jpg",
         "name": "Covers",
