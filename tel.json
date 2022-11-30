@@ -1,6 +1,6 @@
 [
   {
-    "name": "ARGENTINA",
+    "name": "Argentina",
     "mode": false,
     "lista": [
       {
@@ -1026,6 +1026,13 @@
         "drm_scheme": "clearkey",
         "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4zyHP+yLc/d0yh+CpF8/cEnpc3lkgrrmmPJ7D3O3kiq33BdkQf8534j7WqdXtAuclM=",
         "drm_license_url": "HCZtbqzut9luoVOjrMqam5s/6BXlssVkHouytKHc5UshYLj8eMQi8AnbqxKoXmlYrrn5g8wFsvatYKLR1jlLZw=="
+      },
+      {
+        "icon": "https://static.flow.com.ar/images/74/CH_LOGO/350/500/0/0/78711436072355.png",
+        "name": "TyC Sports",
+        "uri": "5YdyVi+PL8QZpLM9X5SumhqEzF66E7LtO1G5KLXQgWs4Or88rLliZHs/Z2WnVGZifmZDCBcx55o1KhwxFQd7nIipbMqxVX6sh9tR0EA9N+I=",
+        "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibahSXAiSvy9aNRWKvaxYQYL",
+        "drm_scheme": "clearkey"
       },
       {
         "icon": "https://static.flow.com.ar/images/270/CH_LOGO/350/500/0/0/81432910072195.png",
