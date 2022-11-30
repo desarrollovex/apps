@@ -17286,5 +17286,16 @@
         "uri": "Fd7VYd+Xm/S6VMHJ32eqZkatqRx74JqbWAF4RBHFnw6K2Od0oQuohRniFfWZNS0R6wlECNjYM3zNtCJ9IJfYoIt6K7Gq5WYFYd9VUgwH3is="
       }
     ]
+  },
+  {
+    "name": "PRUEBA",
+    "mode": true,
+    "lista": [
+      {
+        "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2015/10/w1280/aD8fQF2WFAvMMxmMHHj2RXz2hwP.jpg",
+        "name": "007 Spectre",
+        "uri": "DZBuj2t/1os0BNoYlHwt65iNDfUnmLF6Nh6pFhqrlXk0qk94TUNfczhe8kWn3sic6rI+L23GkQSP\ni8ZrhtPy9Q=="
+      }
+    ]
   }
 ]
