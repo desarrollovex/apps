@@ -1,6 +1,6 @@
 [
   {
-    "name": "ARGENTINA",
+    "name": "Argentina",
     "mode": false,
     "lista": [
       {
@@ -40,11 +40,6 @@
         "drm_scheme": "clearkey",
         "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4zM2hzhChi4Kwv1HCJT0BsjHQ3+PVPqcTLRHJEhIOwkCVYVEEBf5anSkPi3WkTKbxo=",
         "drm_license_url": "HCZtbqzut9luoVOjrMqam5rT9CEstTF1RW4WOGi9AtozPdxJHtFZ43NbPXFTT2ZZ"
-      },
-      {
-        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png",
-        "name": "TELEFE",
-        "uri": "ZH1xOnNOTqpMBBY5Rib/RWK7G8VCo/bWpWIhNvfOEbgAsLkkyVwNyWavc1cScybEiV9AzMduV8bH\nce+KYcrbWA=="
       },
       {
         "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png",
@@ -1340,11 +1335,11 @@
         "drm_license_uri": "HCZtbqzut9luoVOjrMqam0OoGzKZPJJZmCEInlAVdecuLsv5tax4Zo3wrkiBIJlc"
       },
       {
-        "icon": "http://static.dplay.tech/imagenes/cnlatin.png",
+        "icon": "https://lh3.googleusercontent.com/SsAK4Dcgn1ubVDqYhUYa3eQFzGBCNu-5-FqouCyCKoegXnJ_9Tbt9j99U67sW9idbNQ0",
         "name": "CINE LATINO",
         "uri": "DYWBx5NsG5BY2GsUNzRm6+boc1eK/UJV6P3QtKE6smm4iTLHR/9Z+BPhxxVyJw140LWcXTAfL/wRMR4QBL3RDg==",
-        "drm_license_uri": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apQiiAT5b9Yl65XA7SJSAOQWd/8f+22VBl8l3rmEe5JToA==",
-        "drm_scheme": "clearkey"
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apQiiAT5b9Yl65XA7SJSAOQWcw65F2UVxwYrBo5ZpV4Lyw=="
       },
       {
         "icon": "https://static.flow.com.ar/images/267/CH_LOGO/350/500/0/0/75126015073445.png",
