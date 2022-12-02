@@ -1,6 +1,6 @@
 [
   {
-    "name": "Argentina",
+    "name": "ARGENTINA",
     "mode": false,
     "lista": [
       {
@@ -1031,6 +1031,13 @@
         "drm_scheme": "clearkey",
         "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4zyHP+yLc/d0yh+CpF8/cEnpc3lkgrrmmPJ7D3O3kiq33BdkQf8534j7WqdXtAuclM=",
         "drm_license_url": "HCZtbqzut9luoVOjrMqam5s/6BXlssVkHouytKHc5UshYLj8eMQi8AnbqxKoXmlYrrn5g8wFsvatYKLR1jlLZw=="
+      },
+      {
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg/800px-Logotipo_de_Latina_Televisi%C3%B3n.svg.png",
+        "name": "Latina",
+        "drm_scheme": "clearkey",
+        "uri": "1vLhATJl2pi+T8G80deUcB5BoI3l2JPmoaah2lSSGIoolf592Mjqz+vWmMvgkfYN",
+        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apRyfzcEdhUI7XlJF5rIbVavMWJHNPs7cYy7m1o2WrE1iQ=="
       },
       {
         "icon": "https://static.flow.com.ar/images/270/CH_LOGO/350/500/0/0/81432910072195.png",
