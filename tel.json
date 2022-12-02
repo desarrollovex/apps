@@ -1,6 +1,6 @@
 [
   {
-    "name": "ARGENTINA",
+    "name": "Argentina",
     "mode": false,
     "lista": [
       {
@@ -35,18 +35,11 @@
         "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apS9hRy8DqAPOjejlV0EKmv+dyIzX9HwDkDG0Ien34M9XQ=="
       },
       {
-        "icon": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Canal_9_2015.png",
-        "name": "CANAL 9",
-        "drm_scheme": "clearkey",
-        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4zM2hzhChi4Kwv1HCJT0BsjHQ3+PVPqcTLRHJEhIOwkCVYVEEBf5anSkPi3WkTKbxo=",
-        "drm_license_url": "HCZtbqzut9luoVOjrMqam5rT9CEstTF1RW4WOGi9AtozPdxJHtFZ43NbPXFTT2ZZ"
-      },
-      {
         "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png",
         "name": "TELEFE",
         "drm_scheme": "clearkey",
         "uri": "jwjdtN1vPAWPglxaqI7tf7yXJDdeZAFjHlDzvGo6CyKjzrZG0NvnaRO7UipB4gpLkgB7Sq8HfLGAog3PiNDK+l6xxMSAbvxTlVdqYb4iO4KypYGEbe4+yXeU7tMQSVLq",
-        "drm_license_url": "HCZtbqzut9luoVOjrMqamwBaaHobU1j066yE9k8mBiyduqXnYBGTgOUkhowJI3+B"
+        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apRxTb5+PuApXuijf3ocASvm4QBOurRYV5jkJlrNYqWKLA=="
       },
       {
         "icon": "https://upload.wikimedia.org/wikipedia/commons/3/32/Logo_de_eltrece_lanzado_en_2016.png",
