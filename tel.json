@@ -1335,9 +1335,9 @@
       {
         "icon": "http://static.dplay.tech/imagenes/cnlatin.png",
         "name": "CINE LATINO",
-        "drm_scheme": "clearkey",
         "uri": "DYWBx5NsG5BY2GsUNzRm6+boc1eK/UJV6P3QtKE6smm4iTLHR/9Z+BPhxxVyJw140LWcXTAfL/wRMR4QBL3RDg==",
-        "drm_license_uri": "HCZtbqzut9luoVOjrMqam2pKD27/boCOG9q4e2CFpXpy3AhAPwgvzqtU/jZr4+z2"
+        "drm_license_uri": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apQiiAT5b9Yl65XA7SJSAOQWd/8f+22VBl8l3rmEe5JToA==",
+        "drm_scheme": "clearkey"
       },
       {
         "icon": "https://static.flow.com.ar/images/267/CH_LOGO/350/500/0/0/75126015073445.png",
