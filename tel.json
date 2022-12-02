@@ -1,6 +1,6 @@
 [
   {
-    "name": "Argentina",
+    "name": "ARGENTINA",
     "mode": false,
     "lista": [
       {
@@ -26,6 +26,13 @@
         "uri": "5YdyVi+PL8QZpLM9X5SumhqEzF66E7LtO1G5KLXQgWvVqZyCm8garUqXG4V/LO6nVp0F+7YMCaKBiP4U1inOwzYsmXHDJ/+jWl4VlPMcisM=",
         "drm_scheme": "clearkey",
         "drm_license_url": "HCZtbqzut9luoVOjrMqam0OoGzKZPJJZmCEInlAVdedXF/2C0TZdL4EooKUg6VYH"
+      },
+      {
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Canal_9_2015.png",
+        "name": "CANAL 9",
+        "drm_scheme": "clearkey",
+        "uri": "hSfzDHrQ+u4mu42iSsVD9i/LwXL2hupKtacmrulOw7dpzKL0awXlQ8sU3WQ1xMU1MKdMERmmWm9TG1Yyd+LkT3ItXhgpTKaLXkG7nN5z0W0rI1nIpC4AJaG6dbENKi+H",
+        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apS9hRy8DqAPOjejlV0EKmv+dyIzX9HwDkDG0Ien34M9XQ=="
       },
       {
         "icon": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Canal_9_2015.png",
