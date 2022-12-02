@@ -1,6 +1,6 @@
 [
   {
-    "name": "Argentina",
+    "name": "ARGENTINA",
     "mode": false,
     "lista": [
       {
@@ -1033,11 +1033,25 @@
         "drm_license_url": "HCZtbqzut9luoVOjrMqam5s/6BXlssVkHouytKHc5UshYLj8eMQi8AnbqxKoXmlYrrn5g8wFsvatYKLR1jlLZw=="
       },
       {
-        "icon": "https://static.wikia.nocookie.net/logopedia/images/7/70/Latina_TV_2022.svg/revision/latest/scale-to-width-down/200?cb=20220926161922&path-prefix=es",
-        "name": "latina",
+        "icon": "https://play-lh.googleusercontent.com/wlZ5OQY1to32eYujOSoRD3dYF0vX7beMWHUCWcU6Wr5_xFt8KK-LXz4HvQmYR9L0SCA",
+        "name": "TUDN 1",
         "drm_scheme": "clearkey",
-        "uri": "1vLhATJl2pi+T8G80deUcB5BoI3l2JPmoaah2lSSGIoolf592Mjqz+vWmMvgkfYN",
-        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apRyfzcEdhUI7XlJF5rIbVavMWJHNPs7cYy7m1o2WrE1iQ=="
+        "uri": "GC2/ddPzLVut0fvk2/wB4goX8aK3dlw6jkqWAKJxC57j2YIoYljyZYNW41sGSlV2",
+        "drm_license_url": "HCZtbqzut9luoVOjrMqam8WzunXTO5gYuhG7ekpRnDT54aOL6L2BsBzsENzxzj+G"
+      },
+      {
+        "icon": "https://static.wikia.nocookie.net/logopedia/images/7/70/Latina_TV_2022.svg/revision/latest/scale-to-width-down/200?cb=20220926161922&path-prefix=es",
+        "name": "TUDN 2",
+        "drm_scheme": "clearkey",
+        "uri": "Ewe4N3IAiRa9aKLlXy/BawBwtnUugL8UfRHpczDpEOjsIm+BEsbL/t/S/a4V3G/yBY28h66iyYkZiUSLb4U39Q==",
+        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apTstETq9bX6fCG6A7mxcZKwXH/42j1btUW7vaw+crSncQ=="
+      },
+      {
+        "icon": "https://static.wikia.nocookie.net/logopedia/images/7/70/Latina_TV_2022.svg/revision/latest/scale-to-width-down/200?cb=20220926161922&path-prefix=es",
+        "name": "TUDN 3",
+        "drm_scheme": "clearkey",
+        "uri": "GC2/ddPzLVut0fvk2/wB4goX8aK3dlw6jkqWAKJxC57j2YIoYljyZYNW41sGSlV2",
+        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apTstETq9bX6fCG6A7mxcZKwXH/42j1btUW7vaw+crSncQ=="
       },
       {
         "icon": "https://static.flow.com.ar/images/270/CH_LOGO/350/500/0/0/81432910072195.png",
@@ -1059,13 +1073,6 @@
         "drm_scheme": "clearkey",
         "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnXvYh/EGFelZ+CW1MVbSJyNmDms4FHJ0fALQmI4aB5+Vg==",
         "drm_license_url": "HCZtbqzut9luoVOjrMqam/oQslUOOxqDfb0I0JXgSi68taO1dxVTX1ckkrnZe/RD"
-      },
-      {
-        "icon": "https://play-lh.googleusercontent.com/wlZ5OQY1to32eYujOSoRD3dYF0vX7beMWHUCWcU6Wr5_xFt8KK-LXz4HvQmYR9L0SCA",
-        "name": "TUDN",
-        "drm_scheme": "clearkey",
-        "uri": "GC2/ddPzLVut0fvk2/wB4goX8aK3dlw6jkqWAKJxC57j2YIoYljyZYNW41sGSlV2",
-        "drm_license_url": "HCZtbqzut9luoVOjrMqam8WzunXTO5gYuhG7ekpRnDT54aOL6L2BsBzsENzxzj+G"
       }
     ]
   },
