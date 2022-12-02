@@ -982,7 +982,9 @@
       {
         "icon": "https://i.imgur.com/fRgQOe9.png",
         "name": "evento 2",
-        "uri": "0mvj0ZgF3377g7DUUYjvrGqF469OcdCH+tSuX/EImnY+g07FJIDTLQfMmWm9/+g0rPbdCBFh0/QR\nXjunPAZm4w=="
+        "drm_scheme": "clearkey",
+        "uri": "73WN51BCYvKeH5iiGIqm6udDYl0mwPoKk8BSFREqvYWwIO+at+N8gDZOtfQAewqN",
+        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apTh9TQflaU6rJy/I0DEFAM5nMPDVuj1dZq/\nnkbiYvQZ3Q=="
       },
       {
         "icon": "https://i.imgur.com/fRgQOe9.png",
