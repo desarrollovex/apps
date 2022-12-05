@@ -977,7 +977,7 @@
       {
         "icon": "https://i.imgur.com/fRgQOe9.png",
         "name": "evento 1",
-        "uri": "oWkh8EtSDxQ+2V4ilSmakcmKvMYIdR+wYyuC+S4W5TE="
+        "uri": "oWkh8EtSDxQ+2V4ilSmakbMLITLlAxdcKxY319ftJdk="
       },
       {
         "icon": "https://i.imgur.com/fRgQOe9.png",
@@ -3360,13 +3360,6 @@
         "drm_scheme": "clearkey",
         "uri": "9/WnHxPGNG4h6ccro0nxYYut606DHAtEpDXJP828UIOlXBJh1fqvVNRPcb2E6etI7rICMRJlUG5dwMtJJ4NyU6bTXsGzcQofz8j5p8GZrvmH4q+wAcSU3zwzaPmzglqm",
         "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apSxcdqVeBdgCfaz33TrVWivlnibOpeguhGZ20QBRr943w=="
-      },
-      {
-        "icon": "https://i.ibb.co/SRpHdzc/240px-VTV-Uruguay-svg.png",
-        "name": "VTV PLUS",
-        "drm_scheme": "clearkey",
-        "uri": "jwjdtN1vPAWPglxaqI7tf4MdJ8O26nmCA05rpzR0SyOrb7muuxebhGssQiwAVLPXsHF+fWGK7sL24cu+f06yOwSR7xic80JUP+zMnEDvwbJpAKdz3RmXgm4lJU4+jnRH",
-        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apRkaMuITZjtbeFlLfAENbemW5kNLmSADJrYudRbnCOK0Q=="
       }
     ]
   },
