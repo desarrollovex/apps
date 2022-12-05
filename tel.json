@@ -3332,6 +3332,41 @@
         "drm_scheme": "clearkey",
         "uri": "9/WnHxPGNG4h6ccro0nxYYut606DHAtEpDXJP828UINOsfwAI63XVBnsvg4QvsJ+7HrijSM/47DznSbQPqDc6+Tv8Kmeew7AyjNDnnWg4AGm8KIg32aAhaUgE/XMyN/E",
         "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apQLYGdCf1VRQjOOc9AUuOQQJH5n2PEcDgSrgbDxioJTxA=="
+      },
+      {
+        "icon": "https://i.ibb.co/QK6CbsM/canal10.png",
+        "name": "TELEDOCE",
+        "drm_scheme": "clearkey",
+        "uri": "9/WnHxPGNG4h6ccro0nxYYut606DHAtEpDXJP828UIOgSrf1HGQFpFiFaGeJUFLnyC5xWLi4oOl0WlHkZRsJszZlyUB0K/AU4LXiPG9qnhYoWc9I0dGjwB6e7ompfgVL",
+        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apRxTb5+PuApXuijf3ocASvmO44jVNRTupd/+dl1iitfRA=="
+      },
+      {
+        "icon": "https://i.ibb.co/mhjv8H6/m2-Olr7dp-400x400.png",
+        "name": "CANAL 4",
+        "drm_scheme": "clearkey",
+        "uri": "9/WnHxPGNG4h6ccro0nxYYut606DHAtEpDXJP828UIN+pRNXu0CZAdYe0aJ6DUt4e2/ocmqMLPcBm2bI2g4TDOAvnHqSH4FJAYgPv7WAvbzvw9CVxAEehu5C80HjpdGo",
+        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apRe7GxZU0Cy4WjHK5o6gUmW+QbePP9x8whsc3DvEGaxDA=="
+      },
+      {
+        "icon": "https://i.ibb.co/S3j0Kw5/televisionnacionaluruguay-500x500-300x300.jpg",
+        "name": "TNU",
+        "drm_scheme": "clearkey",
+        "uri": "9/WnHxPGNG4h6ccro0nxYYut606DHAtEpDXJP828UIP8g1+vyyBSTLtkZ2WxriQZ30vh3lIM0LJf8Dt1fsjujag58HFD0HFKeA2VfOONtYphPIqLa6YYGkTPoGoumwbH",
+        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apS9iEKDM5dtEkKivVOV0n8kPMeds6Y1gfFJghROiIlJzA=="
+      },
+      {
+        "icon": "https://i.ibb.co/S3j0Kw5/televisionnacionaluruguay-500x500-300x300.jpg",
+        "name": "TV CIUDAD",
+        "drm_scheme": "clearkey",
+        "uri": "9/WnHxPGNG4h6ccro0nxYYut606DHAtEpDXJP828UIOlXBJh1fqvVNRPcb2E6etI7rICMRJlUG5dwMtJJ4NyU6bTXsGzcQofz8j5p8GZrvmH4q+wAcSU3zwzaPmzglqm",
+        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apSxcdqVeBdgCfaz33TrVWivlnibOpeguhGZ20QBRr943w=="
+      },
+      {
+        "icon": "https://i.ibb.co/S3j0Kw5/televisionnacionaluruguay-500x500-300x300.jpg",
+        "name": "VTV PLUS",
+        "drm_scheme": "clearkey",
+        "uri": "9/WnHxPGNG4h6ccro0nxYYut606DHAtEpDXJP828UINw8yu87Zg8hubCM2Q45y0MdJBtjr6AviRDc9lwHep1WWyXfpsWLAoypR4jFRdHn0Yaaw0T7mX2QoGZuyxGnhq5",
+        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apRkaMuITZjtbeFlLfAENbemW5kNLmSADJrYudRbnCOK0Q=="
       }
     ]
   },
