@@ -987,9 +987,11 @@
         "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apTh9TQflaU6rJy/I0DEFAM5nMPDVuj1dZq/nkbiYvQZ3Q=="
       },
       {
-        "icon": "https://i.imgur.com/fRgQOe9.png",
+        "icon": "https://i.imgur.com/lW2O5oP.jpg",
         "name": "evento 3",
-        "uri": "0mvj0ZgF3377g7DUUYjvrGqF469OcdCH+tSuX/EImnYx0G0jo1eYjlD4Q1Io3fNUGdQa+lM1EBDc\nQuIxvEtJBQ=="
+        "drm_scheme": "clearkey",
+        "uri": "hgo8qXp2sHyDRuUvT3hW266BhCq8wm5oKqFx+1R0kpm737VUeG0vBl6bA5lP1AONAMS5EhDIgPQbOxuNZdoTCqZE2/0k0aBl3oH+Z1qJhP3a2AWOyWGG9tCHtbCd0LWy",
+        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apTh9TQflaU6rJy/I0DEFAM5zYFykjqF/ubwX2ZgaJFaZA=="
       },
       {
         "icon": "https://i.imgur.com/fRgQOe9.png",
@@ -999,12 +1001,7 @@
       {
         "icon": "https://i.imgur.com/fRgQOe9.png",
         "name": "evento 5",
-        "uri": "0mvj0ZgF3377g7DUUYjvrGqF469OcdCH+tSuX/EImnYktrSH7AuVa6H8XTzwZZVDiYLSxjET47we\nBXFOCOupeQ=="
-      },
-      {
-        "icon": "https://i.imgur.com/fRgQOe9.png",
-        "name": "evento 5",
-        "uri": "FIo+OYSGLPZqiTcxm13yogh+dGzy4tLIxWG7iQ8d3FoTP0EM2mK5+JOAle7/O4QeS8209uHyf8+jWw1BDUQK4w=="
+        "uri": "0mvj0ZgF3377g7DUUYjvrGqF469OcdCH+tSuX/EImnYx0G0jo1eYjlD4Q1Io3fNUGdQa+lM1EBDc\nQuIxvEtJBQ=="
       },
       {
         "icon": "https://i.imgur.com/fRgQOe9.png",
