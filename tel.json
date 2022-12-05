@@ -3318,6 +3318,24 @@
     ]
   },
   {
+    "name": "URUGUAY",
+    "mode": false,
+    "lista": [
+      {
+        "icon": "https://i.ibb.co/Tbhgmz4/UCL.png",
+        "name": "ULC",
+        "uri": "e/qkQ1OiIbPTIpqzE6nqYdrn9+8QA3/FvJhaPDhgaSw5m+Lv+8KhIi59TtyLYOgXLyysVNqdwN6jl3RIsqb5pg=="
+      },
+      {
+        "icon": "https://i.ibb.co/QK6CbsM/canal10.png",
+        "name": "CANAL 10",
+        "drm_scheme": "clearkey",
+        "uri": "9/WnHxPGNG4h6ccro0nxYYut606DHAtEpDXJP828UINOsfwAI63XVBnsvg4QvsJ+7HrijSM/47DznSbQPqDc6+Tv8Kmeew7AyjNDnnWg4AGm8KIg32aAhaUgE/XMyN/E",
+        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apQLYGdCf1VRQjOOc9AUuOQQJH5n2PEcDgSrgbDxioJTxA=="
+      }
+    ]
+  },
+  {
     "name": "BRASIL",
     "mode": false,
     "lista": [
