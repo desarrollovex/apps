@@ -3807,6 +3807,13 @@
     "mode": false,
     "lista": [
       {
+        "icon": "https://megatelevisionhd.com/img/TNT_Sports.webp",
+        "name": "TNT SPORT",
+        "drm_scheme": "clearkey",
+        "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnWEEfvjiH+LDqsBivV0K8je2Q2crMJmYG6cF8vUsdrofg==",
+        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apSCXRFvoRjmanFLnw2ePpFcgP6C1uihKoOKL45u+k7vfA=="
+      },
+      {
         "icon": "https://www.m3u.cl/logo/1235_Origen_TV.png",
         "name": "Origen tv",
         "uri": "8fvlyU6hH4sQWCw66i5u7gy52thNT5T7LeF9wV48znkPJyXdnsae4k5Otsio2QgzGeLV6bHKyPD/II8kEMvhiA=="
@@ -3933,9 +3940,11 @@
     "mode": false,
     "lista": [
       {
-        "icon": "https://graph.facebook.com/eltorotv.es/picture?width=200&height=200",
-        "name": "Toro TV",
-        "uri": "hTgSbAI89/cR6qMaKhqBqzkh2ZVFXJGycjN+aBJr5Wr1nfUOf8gAlWylhUSh0wPyLsa+bEE2PEaUn7jtKNhD3g=="
+        "icon": "https://megatelevisionhd.com/img/logo_canal/Antena_3.png",
+        "name": "Antena 3",
+        "drm_scheme": "clearkey",
+        "uri": "hSfzDHrQ+u4mu42iSsVD9kAROQ9f8SztnFA8a+9Qw/jzV7KMwnykvFaMJctOPZwxLlBxSTk1DwxjuX8IWZYF4dqeOqzVs82+t8EgZ1pKMTux0toGcyWQkWG0Nlp2f+8E",
+        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apTsKUZ94FzSLjEnDTKj1KMyxjDMS/Oik7HhF+qs/hZ+4A=="
       },
       {
         "icon": "https://pbs.twimg.com/profile_images/1144547866393882626/2R0Khn5n_200x200.png",
@@ -4198,6 +4207,20 @@
     "name": "MEXICO",
     "mode": false,
     "lista": [
+      {
+        "icon": "https://megatelevisionhd.com/wp/wp-content/uploads/2022/07/azcinema.png",
+        "name": "Cinema",
+        "drm_scheme": "clearkey",
+        "uri": "DYWBx5NsG5BY2GsUNzRm6+boc1eK/UJV6P3QtKE6smm1aB8sDE8Pt0/QXgD1nu7ezPwbY5MtBn9M1lWSYfkTwA==",
+        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apR/NLxfDl8/j8CbAe51CAr2DomRIjl3ZkEYJ8+bn0qFxw=="
+      },
+      {
+        "icon": "https://www.cineytele.com/wp-content/uploads/2018/09/AZ-MUNDO-NI.jpg",
+        "name": "Azteca",
+        "drm_scheme": "clearkey",
+        "uri": "DYWBx5NsG5BY2GsUNzRm6+boc1eK/UJV6P3QtKE6smkliAFgfa+YzTRx+9VnPdOmK6rI8+YBUhsiVFy6BQljjw==",
+        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apQew38ItqHiLlRpYet4d5Bq+qy88ghAL81j/KU9/EfOzg=="
+      },
       {
         "icon": "https://static.wikia.nocookie.net/doblaje/images/f/f9/Canal-Once-Mexico-Logo-nuevo.png/revision/latest/scale-to-width-down/397?cb=20140304222859&path-prefix=es",
         "name": "CANAL ONCE",
