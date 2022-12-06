@@ -1,6 +1,6 @@
 [
   {
-    "name": "ARGENTINA",
+    "name": "Argentina",
     "mode": false,
     "lista": [
       {
@@ -2482,7 +2482,7 @@
         "name": "ON DIRECTV",
         "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnX7/SqT58b7YDx+OBYnsBzcM7j8nrdTNYpKG+2JIM95PQ==",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "HCZtbqzut9luoVOjrMqam2ZQmyAXuFi/yqAiI7DiycMgZh6ivFdJSLz8iyLnQTRN"
+        "drm_license_uri": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apSyL6AyARQ9zbLwuA/gOnliUDuI2FAONg9xQ7SsWDAgzw=="
       },
       {
         "icon": "https://static.flow.com.ar/images/667/CH_LOGO/350/500/0/0/846786600758.png",
@@ -4216,15 +4216,10 @@
       },
       {
         "icon": "https://www.cineytele.com/wp-content/uploads/2018/09/AZ-MUNDO-NI.jpg",
-        "name": "Azteca",
+        "name": "AzMUNDO",
         "drm_scheme": "clearkey",
         "uri": "DYWBx5NsG5BY2GsUNzRm6+boc1eK/UJV6P3QtKE6smkliAFgfa+YzTRx+9VnPdOmK6rI8+YBUhsiVFy6BQljjw==",
-        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apQew38ItqHiLlRpYet4d5Bq+qy88ghAL81j/KU9/EfOzg=="
-      },
-      {
-        "icon": "https://static.wikia.nocookie.net/doblaje/images/f/f9/Canal-Once-Mexico-Logo-nuevo.png/revision/latest/scale-to-width-down/397?cb=20140304222859&path-prefix=es",
-        "name": "CANAL ONCE",
-        "uri": "WlKc9IRNt3Cgx4PZXVqBvxcPAm5BAsmVmlnPUbImJY7rYUuNN3lbAmDqx9fy2iuzinYK7KhLILB2\nUQaPACXf+KYTXoMlOMlbw+m6Vk0XNBo="
+        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apQDRPko8hGh6d4KvO3DoDC26G+5CRlqDmE2Db6rhuJiPQ=="
       },
       {
         "icon": "https://1.bp.blogspot.com/-IL8t_loyb9g/YSVucSwXkJI/AAAAAAAAEN0/O2rdiOFpjTUDQ8K8FpTOD0MgLBvllN1KwCLcBGAsYHQ/s540/estrella-tv-logoroku.png%22,ESTRELLA",
@@ -4268,11 +4263,6 @@
       },
       {
         "icon": "https://i.imgur.com/A9kTYN8.png",
-        "name": "MULTIMEDIOS LAGUNA",
-        "uri": "WVo8ID8zvPOIHVKwERZ6kIZZgU4EwXXcYX9b4lZkHkKzAozrf6KX59OeQWvHAHDoatWHG6KRq3RG/lV6uotd/g5Vc3z+2XfO6lLCcoAmxxI="
-      },
-      {
-        "icon": "https://i.imgur.com/A9kTYN8.png",
         "name": "MULTIMEDIOS MONTERREY",
         "uri": "43gVjGERU33a2cWw3JbT9PAhfzgY0MT+4rmZG2QJcb/m6q0lEDRcXtabg6uXnKIGhuOjybRg+C0/c7hG8KPQUg6s3yAyqaUl3R0mkHCVrm8="
       },
@@ -4301,11 +4291,6 @@
         "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1280px-2015_Fox_sports_logo.svg.png",
         "name": "FOX SPORT",
         "uri": "E/HFaDb0Zyaf4+l4eoCE4Qn2Aje2IANdxyUryFlj/fTN+weHlyEkLk338X2hP/IL6LkokgYsN7uJD7P54OfPFP1bm64qycEFgjTkNdP7ZrBxA5IxpmvjJfWyQ2pemmZF"
-      },
-      {
-        "icon": "https://www.bein.com/en/wp-content/uploads/sites/3/2019/06/sports.png",
-        "name": "BEING SPORT ",
-        "uri": "Zokf1Z7aFQCFRFXcnPdvkcaTcxvPs0cLIPNCy5KpV3eCbqOgFCd3bgqy4EMix2j+FVmrOCPpZTBzzS3h7GpOXg=="
       },
       {
         "icon": "https://pbs.twimg.com/profile_images/996779176421019648/o1pPkhwJ_400x400.jpg",
