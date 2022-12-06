@@ -699,6 +699,13 @@
     "mode": false,
     "lista": [
       {
+        "icon": "https://megatelevisionhd.com/img/ecdf2.png",
+        "name": "ECDF",
+        "drm_scheme": "clearkey",
+        "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnWEsOSTO6qbKDInff5qm7tdtDI5pUAKiTtOJTAhuTMFjQ==",
+        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apTFG4QSGKKQWQHrdqrKGYwEgXI8FzHgJFjUqW2GjdN+eg=="
+      },
+      {
         "icon": "https://i.ibb.co/jTpWsm6/tennis.jpg",
         "name": "TENNIS CHANNEL",
         "uri": "Th8t/hJCkRlm+AMqRRbket46Px/RxkTDO/F2o7ZOZcQLmUfeSv6YXZUGsLM64l59f3SSQnHPVD09\nPQcVO+QebA=="
