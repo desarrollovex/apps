@@ -135,6 +135,62 @@
     ]
   },
   {
+    "name": "REFUERZO",
+    "mode": false,
+    "lista": [
+      {
+        "icon": "http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/el-trece.png",
+        "name": "el trece",
+        "uri": "CJyOhjppZ6Cx0tZhPqm0YGxko1ntYJqCW2RojQpJfkp5V3S/xV1fiMPT5dD6n0dHH9J2JOODkx6G\njCoXqm49bg=="
+      },
+      {
+        "icon": "http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/el-trece.png",
+        "name": "el trece",
+        "uri": "CJyOhjppZ6Cx0tZhPqm0YGxko1ntYJqCW2RojQpJfkptOZ/JeqJ7atpJebFgAoUcrV7irq7J8xnn\nKxCU6YBJQw=="
+      },
+      {
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/512px-Telefe_%28nuevo_logo%29.png",
+        "name": "TELEFE 1",
+        "uri": "ZH1xOnNOTqpMBBY5Rib/RWK7G8VCo/bWpWIhNvfOEbgAsLkkyVwNyWavc1cScybEiV9AzMduV8bH\nce+KYcrbWA=="
+      },
+      {
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/512px-Telefe_%28nuevo_logo%29.png",
+        "name": "TELEFE 2",
+        "uri": "owZIDPAjubY9UK+9h7w0eoo8WWvwENMXHhd6tg70vMU7NNeNKHmElVurHiyocoID/eS0cBrTfUum\nO4Tt9TGr7Q=="
+      },
+      {
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Canal_9_2015.png",
+        "name": "El Nueve",
+        "uri": "0USrc3JgXgZ9Z0f8knKwxM3XMOECZ0nJP0AC6G9kXlcILkrJRFtAJg6+KbhvsUgEr9dP3KLarIT8\nrKrx2AZAF4cwDMtOWUpLUIdgPkET67Y="
+      },
+      {
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/8/8c/LogoCanal26.png",
+        "name": "Canal 26",
+        "uri": "BoqmxP2dz/94dlVkvUMWLh5e16xtGgloL1ABEp8nPURqBiJcvuSXRonYcKfls1jGxGh+oD7F0iLw\nzRGDj2S9dsoGNV6uQ/IsPM1JiP6yUIA="
+      },
+      {
+        "icon": "http://www.radiosargentina.com.ar/png/VI---C5N.png",
+        "name": "C5N",
+        "uri": "owZIDPAjubY9UK+9h7w0eoo8WWvwENMXHhd6tg70vMU7NNeNKHmElVurHiyocoIDh1R2Lf+AmVVO\nfPWlNHoVAA=="
+      },
+      {
+        "icon": "http://www.radiosargentina.com.ar/png/VIAMETUC.png",
+        "name": "AMERICA TUC",
+        "uri": "owZIDPAjubY9UK+9h7w0eoo8WWvwENMXHhd6tg70vMU7NNeNKHmElVurHiyocoIDfxqgk36RgvYE\nnOGwRwZJpQ=="
+      },
+      {
+        "icon": "http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/television-publica.png",
+        "name": "TVP 480",
+        "uri": "ZH1xOnNOTqpMBBY5Rib/RWK7G8VCo/bWpWIhNvfOEbi+Psxgtox4n5XlcpzU5VIN+vC83+LbfBu1\nltTlJl+aPUZniC+rH4yfo+3osqUj658="
+      },
+      {
+        "icon": "http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/television-publica.png",
+        "name": "TVP 720",
+        "uri": "guVxKAo9sioXLyaqavKT8W2otKV7uDjw9Jrn0REsFGYTmW/JifR577YBXp/WcXTcqU8Uyg/1T/ga\n2By7hblivpTn5u6ROLxRCorP+0Sve6tvxj6XZq4bBOQxxGeUC3TWWUxPDLT/sSakYCroan7FVQ=="
+      }
+    ]
+  },
+  {
     "name": "INTERIOR DE ARGENTINA",
     "mode": false,
     "lista": [
