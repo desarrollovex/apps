@@ -42,6 +42,13 @@
         "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apRxTb5+PuApXuijf3ocASvm4QBOurRYV5jkJlrNYqWKLA=="
       },
       {
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png",
+        "name": "TELEFE",
+        "drm_scheme": "clearkey",
+        "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnXlzYsuJ1QkJkrZfM3ePN7sApL78uzQXhMiSaWgdDiW0Q==",
+        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apRxTb5+PuApXuijf3ocASvm4QBOurRYV5jkJlrNYqWKLA=="
+      },
+      {
         "icon": "https://upload.wikimedia.org/wikipedia/commons/3/32/Logo_de_eltrece_lanzado_en_2016.png",
         "name": "EL TRECE",
         "drm_scheme": "clearkey",
@@ -1011,14 +1018,21 @@
       },
       {
         "icon": "https://static.flow.com.ar/images/74/CH_LOGO/350/500/0/0/78711436072355.png",
-        "name": "TyC sport",
+        "name": "TyC sport 1",
         "drm_scheme": "clearkey",
         "uri": "jwjdtN1vPAWPglxaqI7tfyAwO3Bf0cmWP8bUFAP6iJRjH/hTHpDQd7SM3KqhzLyfdZXlwmMYGolVjI3N+c+TyB5qFfbXMTN7D8+Ugy7iBB01RoySuMOHqQafYUVMOzHH",
         "drm_license_url": "oSn+506Y3qeid7iktuUuQtvGyG+lKkBRbZ+KHryF5Ub3jIgL70beEyuPoYkLMnvx"
       },
       {
         "icon": "https://static.flow.com.ar/images/74/CH_LOGO/350/500/0/0/78711436072355.png",
-        "name": "TyC sport",
+        "name": "TyC sport 2",
+        "drm_scheme": "clearkey",
+        "uri": "F7ODrAaOxPzSA1ErhBEmbORcBhXux2aTE6f6VC2+Pe14AuvsAMpN069Pl54sE2/laHgvwYCV+7kIgxL1sTvBAREXbq9SyOaB7D9Lemctaaw=",
+        "drm_license_url": "oSn+506Y3qeid7iktuUuQtvGyG+lKkBRbZ+KHryF5Ub3jIgL70beEyuPoYkLMnvx"
+      },
+      {
+        "icon": "https://static.flow.com.ar/images/74/CH_LOGO/350/500/0/0/78711436072355.png",
+        "name": "TyC sport 3",
         "drm_scheme": "clearkey",
         "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4zyHP+yLc/d0yh+CpF8/cEnpc3lkgrrmmPJ7D3O3kiq33BdkQf8534j7WqdXtAuclM=",
         "drm_license_url": "HCZtbqzut9luoVOjrMqam5s/6BXlssVkHouytKHc5UshYLj8eMQi8AnbqxKoXmlYrrn5g8wFsvatYKLR1jlLZw=="
