@@ -970,9 +970,34 @@
     ]
   },
   {
-    "name": "EVENTOS QATAR",
+    "name": "EVENTOS VARIOS SERVIDORES QATAR",
     "mode": false,
     "lista": [
+      {
+        "icon": "https://i.imgur.com/lW2O5oP.jpg",
+        "name": "evento Telemundo",
+        "uri": "OL8Bvx4EodO/dryg1Lvr0Vu+EN8ggjbYLUSVnjEemIiATSeK467eMlaljN440iN7YJLG/SudLHzv\no6PAj2NNOw=="
+      },
+      {
+        "icon": "https://i.imgur.com/lW2O5oP.jpg",
+        "name": "evento Ingles",
+        "uri": "0vdu9yNRKdCVpuKdKSuP81BCyAyPnNV/Vi6JOtN/akrbxNTvXfztZ0FboJn0LjtI+NsUsbsUYGRg\n9hBC5nwS01g+DxhTa9yBOCWVf8zxIx5RfnIYjkoNIoymUewRwfRk"
+      },
+      {
+        "icon": "https://i.imgur.com/lW2O5oP.jpg",
+        "name": "evento Occidental",
+        "uri": "bDDbedrMrsQO8jNeWsajKY8gf65r9ivhm8aM/d6faedZZo9FxjtpkKEEKuL/Rhat"
+      },
+      {
+        "icon": "https://i.imgur.com/lW2O5oP.jpg",
+        "name": "evento Occidental",
+        "uri": "jbBkEqOaCVCCZhNVjM0JPudQh/NGLIgA36/naIK05kxzHdnW42RajPf5+T4uEed+p+0X7vNRrG1S\nL0AgwTphtA=="
+      },
+      {
+        "icon": "https://i.imgur.com/lW2O5oP.jpg",
+        "name": "evento ",
+        "uri": "yDhuga9jVCmPeObih3gLUpKreqC7o9w7JtDPZYGuy//NMaAm9XtEk0ZWQHav+7uuTjPHNRdox5Jd\nra4VzD1nPkbXBJAPMB3FjmkBnlDgbsY="
+      },
       {
         "icon": "https://i.imgur.com/lW2O5oP.jpg",
         "name": "evento 1",
