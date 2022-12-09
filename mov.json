@@ -4,6 +4,31 @@
     "mode": true,
     "lista": [
       {
+        "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/9/w1280/qDukjmqZsgyLN7UKsaGoO69Txcq.jpg",
+        "name": "La maldicion del hombre lobo",
+        "uri": "Fd7VYd+Xm/S6VMHJ32eqZrPEgTQ4LuR+AUJpggnAZGlV4ssdDdhzGhbXxz+J2qKof/7DNMrSJK3u\nGd86cxuHKQ=="
+      },
+      {
+        "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/9/w1280/fUqIFYsmzR2w0pPrkm2xyp5Suct.jpg",
+        "name": "Boleto de Fuga",
+        "uri": "It4hL9cGNnGI8hUqRaPD55fA4YVO9MB+lkMnzSkutr81OPyhPmmX+Dih+5Uqe47PNfakuqXSjl7E\nBwEAGzHIkA=="
+      },
+      {
+        "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/5/w1280/gOXTTRXjSo2Lk9LO6oxLL6lMP7U.jpg",
+        "name": "Diorama",
+        "uri": "DZBuj2t/1os0BNoYlHwt65iNDfUnmLF6Nh6pFhqrlXlcqdvEr/5wmUfjxpk+0bOmbwJJO/zrEW3u\nNkMT9RMSXw=="
+      },
+      {
+        "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/11/w300/jUtlgyDFzEVP9EQaveQwpvE61ly.jpg",
+        "name": "Desencantada",
+        "uri": "Fd7VYd+Xm/S6VMHJ32eqZrPEgTQ4LuR+AUJpggnAZGlSlwQZIZRFicJk8nKKdBW97IshBzAdwTxe\nuvvB/1WxBQ=="
+      },
+      {
+        "icon": "http://tuvideo.tv/poster/w200/tyv3iU87q5IdTAUVLWJeILJ4Cyf.jpg",
+        "name": "Troll",
+        "uri": "Fd7VYd+Xm/S6VMHJ32eqZrPEgTQ4LuR+AUJpggnAZGlxchpqc+dxGJYBtM0TcpZcBDYY1mzZemhR\n+VoQaECAkQ=="
+      },
+      {
         "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/6/w1280/l76aJTcLlx8pUiqQd2CIadiEfpj.jpg",
         "name": "Robo entre ladrones",
         "uri": "DZBuj2t/1os0BNoYlHwt65iNDfUnmLF6Nh6pFhqrlXmi2FJ0Q/VIimNcyBZLWYiawcfQKDFStfeb32VGX+6EEw=="
