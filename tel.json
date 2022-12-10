@@ -1,6 +1,6 @@
 [
   {
-    "name": "ARGENTINA",
+    "name": "Argentina",
     "mode": false,
     "lista": [
       {
@@ -987,8 +987,10 @@
       },
       {
         "icon": "https://i.imgur.com/lW2O5oP.jpg",
-        "name": "evento Ingles",
-        "uri": "yDhuga9jVCmPeObih3gLUpKreqC7o9w7JtDPZYGuy/8Hsu+tzTVJXlYfCkS+UKBKjW/mI1kvjgsX\nllfoey4jcA=="
+        "name": "Mega deportes",
+        "uri": "PwuDTb0e3u0Ac39lUoMrertabMP9Hg8dvPxrJy8YvXT7HNs6d1fCNtzwKvkki7k4SY5mYIrJnZbd46GYr8mwHg==",
+        "drm_license_url": "/xRSNozPhCPG0pt5xg/SZMagHMyrjTvsh84330LQaQPH5FRGp2b9KbHahmmKqY4cLfiDPd8thWfZji7XyNpmEg==",
+        "drm_scheme": "clearkey"
       },
       {
         "icon": "https://i.imgur.com/lW2O5oP.jpg",
