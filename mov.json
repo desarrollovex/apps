@@ -416,6 +416,136 @@
     "mode": true,
     "lista": [
       {
+        "name": "La casa de papel coreana",
+        "icon": "https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/6/w1280/9c9aT9WDEG0UhNlL7yWP9yM7qiT.jpg",
+        "temporada": [
+          {
+            "name": "LAS INTRO SON SIN SONIDO",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZrnPcQEbqzPwEDl8GR7eLw4GOGF/L57j+QMvPEYwBT6B"
+          },
+          {
+            "name": "CAPITULO 1",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZrnPcQEbqzPwEDl8GR7eLw4GOGF/L57j+QMvPEYwBT6B"
+          },
+          {
+            "name": "CAPITULO 2",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZrnPcQEbqzPwEDl8GR7eLw4AxY7BVttklP8axKCBWGM0"
+          },
+          {
+            "name": "CAPITULO 3",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZrnPcQEbqzPwEDl8GR7eLw6gOvk78E3YG4JH5dfLyRmY"
+          },
+          {
+            "name": "CAPITULO 4",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZrnPcQEbqzPwEDl8GR7eLw6reAYWhJO9B4hovajb7LtV"
+          },
+          {
+            "name": "CAPITULO 5",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZrnPcQEbqzPwEDl8GR7eLw6qm9Szgoabt/kHwEedaeQI"
+          },
+          {
+            "name": "CAPITULO 6",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZrnPcQEbqzPwEDl8GR7eLw5YLxvhh2pr3pXLcNlHdtq4"
+          },
+          {
+            "name": "CAPITULO 7",
+            "uri": "87EPKu4J1ov2znxaviA1D6X/A6IWDW0folK5hZXWjIdn1khkif8vpfE9pSZks83/hsHXZfflynB7e+xwTXEceS1tjhxynGGKtkaTJgBanFzhuR98ssNIomINnJLURd6OPFoCNILTJbWu8Gs9vb/4ZDAbl3LzkFLHGH75cccT29s="
+          },
+          {
+            "name": "CAPITULO 8",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZrnPcQEbqzPwEDl8GR7eLw5GTsbHZKGxEfBIUP/Ipb+X"
+          },
+          {
+            "name": "CAPITULO 9",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZrnPcQEbqzPwEDl8GR7eLw6lutkt9K/IgO7PwQKQJs5G"
+          },
+          {
+            "name": "CAPITULO 10",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZrnPcQEbqzPwEDl8GR7eLw79KohOxPeXgk7V6ycWtOqo"
+          },
+          {
+            "name": "CAPITULO 11",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZrnPcQEbqzPwEDl8GR7eLw5Q70bR4SEgXA5qhXk3dM4A"
+          },
+          {
+            "name": "CAPITULO 12",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZrnPcQEbqzPwEDl8GR7eLw6gKokabCl2K03vtJwPoIgZ"
+          },
+          {
+            "name": "CAPITULO 13",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZrnPcQEbqzPwEDl8GR7eLw5/9PfeIs4v1K6Mtl+HBocg"
+          },
+          {
+            "name": "CAPITULO 14",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZrnPcQEbqzPwEDl8GR7eLw4PDZPcZY86o3hr8DCowYjI"
+          },
+          {
+            "name": "CAPITULO 15",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZrnPcQEbqzPwEDl8GR7eLw4lNl3aSfGTLJ+u1xVPgKjI"
+          },
+          {
+            "name": "CAPITULO 16",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZrnPcQEbqzPwEDl8GR7eLw4/c46Z81ANiLeVklPnISIv"
+          },
+          {
+            "name": "CAPITULO 17",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZrnPcQEbqzPwEDl8GR7eLw7p2SAm3skvRAZRLXG8Nyk3"
+          },
+          {
+            "name": "CAPITULO 18",
+            "uri": "q7b+0hmk/K6RCpXq/lWPM0KFVzq9xEChQ3whIgjvuOQ8pI/cwwWdCBzIJP2G95Ua9Rv3LHmUXjEcBdWBO3PXA6s1/n+P8j6a9LstYGuF0CXEXHQUPc31RpiVRC6BdGg0EBIFWgUax7jC1ztICQlS5pvLjvMC9l6vfrvSAABJqMk="
+          },
+          {
+            "name": "CAPITULO 19",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZrnPcQEbqzPwEDl8GR7eLw7Efcb+qqKqUF3KGsn9SCoS"
+          },
+          {
+            "name": "CAPITULO 20",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZrnPcQEbqzPwEDl8GR7eLw6YDjpzHXlVDLWBV0HzPygR"
+          },
+          {
+            "name": "CAPITULO 21",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZrnPcQEbqzPwEDl8GR7eLw41eoNOfxx+xt5uh0rdv7T2"
+          },
+          {
+            "name": "CAPITULO 22",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZrnPcQEbqzPwEDl8GR7eLw5OnFDb/bNkV2wMSFEiaR+R"
+          },
+          {
+            "name": "CAPITULO 23",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZrnPcQEbqzPwEDl8GR7eLw7v6l76iO/u2/ji67Vt3EjQ"
+          },
+          {
+            "name": "CAPITULO 24",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZrnPcQEbqzPwEDl8GR7eLw4bl3d/u4GXbtPZlU62MGhn"
+          },
+          {
+            "name": "CAPITULO 25",
+            "uri": "87EPKu4J1ov2znxaviA1D6X/A6IWDW0folK5hZXWjIdn1khkif8vpfE9pSZks83/U9J7mSw9RXJWT3u33hRih47IipRbF7ubsCAEhxW0jpfQmnG5hQFNqdU3U1hu4tx7KVacMNVqcxzgQiPC84nvsLXemRYgUZ8GH+8qk9e8f/E="
+          },
+          {
+            "name": "CAPITULO 26",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZrnPcQEbqzPwEDl8GR7eLw5AvphTUJUKI4McLcPJfgIi"
+          },
+          {
+            "name": "CAPITULO 27",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZrnPcQEbqzPwEDl8GR7eLw5ZUGWT6NRDIBn39hI0GQvE"
+          },
+          {
+            "name": "CAPITULO 28",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZrnPcQEbqzPwEDl8GR7eLw4IGghaOuBe0H67ym4kD/C0"
+          },
+          {
+            "name": "CAPITULO 29",
+            "uri": "CVhonNz3u5W53amsW7NVrTy1jK+N4z8fHdngBRXZHvZs31ru5jeKazD+6iJkjnUuw0FSu6e56EkmW7bTsGeVBtrwBgFeNbuNWYDm4Sj7bA8bh4yxaE4aCpfbmI/Ww3P2NQJHxw1j0GQBrmEZnxJnsv5wcmBwrus47DFf7FlF3G4="
+          },
+          {
+            "name": "CAPITULO 30",
+            "uri": "CVhonNz3u5W53amsW7NVrTy1jK+N4z8fHdngBRXZHvZs31ru5jeKazD+6iJkjnUu0LshqupWMEup4elFM9oH2Pyp/2yY6KCO3hwIU7SVjulUIZTveh1t90hQdhGElsy8RtnKz5J8DiMhrWX9QbbxeOnlwR2VctRLJKc0irXm4cw="
+          }
+        ]
+      },
+      {
         "name": "La Leyenda de Bruce Lee",
         "icon": "https://www.selecta-vision.com/wp-content/uploads/bruce-lee-el-hombre-y-la-leyenda-3.jpg",
         "temporada": [
@@ -17205,12 +17335,12 @@
       {
         "icon": "https://m.media-amazon.com/images/I/71Klel4y4oL._AC_SY679_.jpg",
         "name": "CAPITAN AMERICA EL PRIMER VEMGADOR",
-        "uri": "AzPJPbiI838MjmE84hgKqdGmMTBH6SFtY5I3K4fpdyu79LeTZXyPh0l41lU1+xHqaDiyRKeHC3JK\nvIjjyizi72yb7oEADPxM1p/xSi+N8nb0gEb0MvbTGG9pcR1GMJ7fW07oZBmpPWntKC3L4ojzZ4yT\njKPi+60XzE4xL3fl0T6emj1d8hxiOUrY89cL7sqbVn5liotuWKKi9RpmAfPgnNSEMh0p/V3JLTqc\nbfed+ACrcjDhBpvpxDNHAuk+PXcf"
+        "uri": "DZBuj2t/1os0BNoYlHwt65iNDfUnmLF6Nh6pFhqrlXltmZfV3+XHoIdIq5eBPV/77d+srHw/VANY\n4M+3MdGLuULoQrFluAc/jx1/HHMizgPldSxCeepuBoFr3bzEgIjd"
       },
       {
         "icon": "https://m.media-amazon.com/images/I/91owo83n7SL._AC_SY679_.jpg",
         "name": "CAPITAN AMERICA EL SOLDADO DEL INVIERNO",
-        "uri": "AzPJPbiI838MjmE84hgKqdGmMTBH6SFtY5I3K4fpdyu79LeTZXyPh0l41lU1+xHqaDiyRKeHC3JK\nvIjjyizi72yb7oEADPxM1p/xSi+N8nb0gEb0MvbTGG9pcR1GMJ7fW07oZBmpPWntKC3L4ojzZ4yT\njKPi+60XzE4xL3fl0T6emj1d8hxiOUrY89cL7sqbdjOplwHYaJluJQfLay+R6B5lmVPDO6LX6Rn/\nimpnK9MNP01w2lpAQh29rGNRYu0Gqt99nd3+XGEfLUq6W++46Q=="
+        "uri": "aqjOEhWtVS9CYLQkJfIDWVld4NxxgD+Xi0WaFns5qPvCBRBTWh9Y1hxczUf5AM9Qov5a24w6qvw+\nPFwJimA/ys50XGnMoEbo0lu9nTKjTSo="
       },
       {
         "icon": "https://m.media-amazon.com/images/I/81VJ95I2sGL._SY606_.jpg",
