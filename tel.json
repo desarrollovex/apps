@@ -1332,9 +1332,25 @@
         "drm_license_url": "HCZtbqzut9luoVOjrMqam5s/6BXlssVkHouytKHc5Us670M3t5VQMwvyEMHJdA2L2gREJH3vKxN3fMtPFGgrpA=="
       },
       {
-        "icon": "http://static.dplay.tech/imagenes/universalcinema.png",
-        "name": "UNIVERSAL CINEMA",
-        "uri": "0mvj0ZgF3377g7DUUYjvrGqF469OcdCH+tSuX/EImnYp+iJPxQeG9O8lCQl0i5RfUIRlrtCc3qBx\nvuuQcBSb1Q=="
+        "icon": "http://static.dplay.tech/imagenes/uncrime.png",
+        "name": "CINEMA",
+        "drm_scheme": "clearkey",
+        "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnXvqCOyrhUuWEEalf/TK/Bg5D/BHlp8MyR9zpve5X3f5Q==",
+        "drm_license_url": "/xRSNozPhCPG0pt5xg/SZMagHMyrjTvsh84330LQaQNpyvJPlPlb1ShwZkgrIQbrPpObNiqme5NvtyMKMMENhw=="
+      },
+      {
+        "icon": "http://static.dplay.tech/imagenes/uncrime.png",
+        "name": "CINEMA",
+        "drm_scheme": "clearkey",
+        "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnXvqCOyrhUuWEEalf/TK/Bg5D/BHlp8MyR9zpve5X3f5Q==",
+        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apQ7E3A3SdtHdMrt07BBDUruekzzRVIoMbDNz7ZEGIWtOA=="
+      },
+      {
+        "icon": "http://static.dplay.tech/imagenes/uncrime.png",
+        "name": "CINEMA",
+        "drm_scheme": "clearkey",
+        "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnXkcCZ/trMWk4UzJffm3zTdyAWHPg/OsDxUTQys+QyfWg==",
+        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apQ7E3A3SdtHdMrt07BBDUruekzzRVIoMbDNz7ZEGIWtOA=="
       },
       {
         "icon": "http://static.dplay.tech/imagenes/uncomedy.png",
