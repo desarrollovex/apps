@@ -4,6 +4,21 @@
     "mode": true,
     "lista": [
       {
+        "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/12/w1280/j9NcPdkrBY0aFOKpTtjDQJdvT4c.jpg",
+        "name": "Noche en el museo: El regreso de Kahmunrah",
+        "uri": "Fd7VYd+Xm/S6VMHJ32eqZrPEgTQ4LuR+AUJpggnAZGnG6cSayc8srnHHyXnSlyB66AcPmXdSOSGU\ncrdypPwG7w=="
+      },
+      {
+        "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/12/w1280/s9sUK1vAaOcxJfKzNTszrNkPhkH.jpg",
+        "name": "Emancipación: Hacia la libertad",
+        "uri": "Fd7VYd+Xm/S6VMHJ32eqZrPEgTQ4LuR+AUJpggnAZGnG6cSayc8srnHHyXnSlyB6n4EGQO2CeHoA\nGYq2sdAbyw=="
+      },
+      {
+        "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/11/w1280/hVa3OCfwqFm6K3Sk6IF68cYr7uk.jpg",
+        "name": "Pinocho de Guillermo del Toro",
+        "uri": "Fd7VYd+Xm/S6VMHJ32eqZrPEgTQ4LuR+AUJpggnAZGnG6cSayc8srnHHyXnSlyB6ip+svpPqxaaC\nZ/W/9bsICg=="
+      },
+      {
         "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/9/w1280/qDukjmqZsgyLN7UKsaGoO69Txcq.jpg",
         "name": "La maldicion del hombre lobo",
         "uri": "Fd7VYd+Xm/S6VMHJ32eqZrPEgTQ4LuR+AUJpggnAZGlV4ssdDdhzGhbXxz+J2qKof/7DNMrSJK3u\nGd86cxuHKQ=="
@@ -420,128 +435,52 @@
         "icon": "https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/6/w1280/9c9aT9WDEG0UhNlL7yWP9yM7qiT.jpg",
         "temporada": [
           {
-            "name": "LAS INTRO SON SIN SONIDO",
-            "uri": "Fd7VYd+Xm/S6VMHJ32eqZrnPcQEbqzPwEDl8GR7eLw4GOGF/L57j+QMvPEYwBT6B"
-          },
-          {
-            "name": "CAPITULO 1",
-            "uri": "Fd7VYd+Xm/S6VMHJ32eqZrnPcQEbqzPwEDl8GR7eLw4GOGF/L57j+QMvPEYwBT6B"
+            "name": "Capitulo 1",
+            "uri": "CVhonNz3u5W53amsW7NVrTy1jK+N4z8fHdngBRXZHvZs31ru5jeKazD+6iJkjnUudJcQm5W8kavF\nAdvUGf1Lkrong7yohZDMdWzpULu/D5q+zfbOKa5B0i8AmFF++gly0dOhrlHjMajjTPSTNCZhCumJ\naxR03A16NtoS4/eYsOw="
           },
           {
             "name": "CAPITULO 2",
-            "uri": "Fd7VYd+Xm/S6VMHJ32eqZrnPcQEbqzPwEDl8GR7eLw4AxY7BVttklP8axKCBWGM0"
+            "uri": "q7b+0hmk/K6RCpXq/lWPM0KFVzq9xEChQ3whIgjvuOQ8pI/cwwWdCBzIJP2G95UaYHQMkHBJN/7j\nc58ZX78NKcSLV9c00xNaPKJ69oH4aWDtAHg36RGxQ0GOjDL0f3eUDGjLHGU/P4UWUkBoF7ZhUisT\nAKNN8kuHverQkgwRtn4="
           },
           {
             "name": "CAPITULO 3",
-            "uri": "Fd7VYd+Xm/S6VMHJ32eqZrnPcQEbqzPwEDl8GR7eLw6gOvk78E3YG4JH5dfLyRmY"
+            "uri": "q7b+0hmk/K6RCpXq/lWPM0KFVzq9xEChQ3whIgjvuOQ8pI/cwwWdCBzIJP2G95Ua118c83Ha1adn\n/pdU8pMYN+pOM2ulMgmUuDqD07dq4sTPOxa1eIvcnUIqm6NTsP1dB0Y3ffK4PR0XO7uaOJbs8uJi\nL5iaSKSqgr7jfuDlpI4="
           },
           {
             "name": "CAPITULO 4",
-            "uri": "Fd7VYd+Xm/S6VMHJ32eqZrnPcQEbqzPwEDl8GR7eLw6reAYWhJO9B4hovajb7LtV"
+            "uri": "87EPKu4J1ov2znxaviA1D6X/A6IWDW0folK5hZXWjIdn1khkif8vpfE9pSZks83/3GYqvBMPbvnI\n4MSfUyJVnWzM02nt5IZpURBnbfbWBIh4g3kNPOUFPEN5TUFEi7DFvB/sfUY+XJZHANUfAzgy6+iq\nfrGKumwSllExvZWh2nI="
           },
           {
             "name": "CAPITULO 5",
-            "uri": "Fd7VYd+Xm/S6VMHJ32eqZrnPcQEbqzPwEDl8GR7eLw6qm9Szgoabt/kHwEedaeQI"
+            "uri": "87EPKu4J1ov2znxaviA1D6X/A6IWDW0folK5hZXWjIdn1khkif8vpfE9pSZks83/KF4ORWcWVc+2\nlUErtFEVBdu6l5ZB9rajFgA6pd3vPCaXxAyMLYHneUPT/jTo3a8wtI3z/u2Wn1r83jbyfAE9S2GI\n6k1DMDojlnZf+ThY+Ww="
           },
           {
             "name": "CAPITULO 6",
-            "uri": "Fd7VYd+Xm/S6VMHJ32eqZrnPcQEbqzPwEDl8GR7eLw5YLxvhh2pr3pXLcNlHdtq4"
+            "uri": "q7b+0hmk/K6RCpXq/lWPM0KFVzq9xEChQ3whIgjvuOQ8pI/cwwWdCBzIJP2G95UaO5l1WfHOrk2g\nhV00yzPhG3edkCQWvPCW/L5XNn71mTJgykPDfEH8f0tO7pZj3ElkEL2cT0UA53/spqC3NvLiuyT/\nTOIi3WycjS89ySU5wwA="
           },
           {
             "name": "CAPITULO 7",
-            "uri": "87EPKu4J1ov2znxaviA1D6X/A6IWDW0folK5hZXWjIdn1khkif8vpfE9pSZks83/hsHXZfflynB7e+xwTXEceS1tjhxynGGKtkaTJgBanFzhuR98ssNIomINnJLURd6OPFoCNILTJbWu8Gs9vb/4ZDAbl3LzkFLHGH75cccT29s="
+            "uri": "q7b+0hmk/K6RCpXq/lWPM0KFVzq9xEChQ3whIgjvuOQ8pI/cwwWdCBzIJP2G95Uao7nyJfHm0ZLF\nz2+RXpVUu49JxzdxeOjaqOtbaNkgTRbcoBaR6BcnSd3PBvqSJruoUIxDBZA0cgKDnMLmbNl7okr2\ni8xz00lvpmjXkQc2j6E="
           },
           {
             "name": "CAPITULO 8",
-            "uri": "Fd7VYd+Xm/S6VMHJ32eqZrnPcQEbqzPwEDl8GR7eLw5GTsbHZKGxEfBIUP/Ipb+X"
+            "uri": "q7b+0hmk/K6RCpXq/lWPM0KFVzq9xEChQ3whIgjvuOQ8pI/cwwWdCBzIJP2G95UaWvj1kMVoUEjd\nFefcyTj3W6jGlcJaXjVwpkaOfprTnyBYdz5neIo5OR1lWOGgZuXBaQrkqDqz3tbiJwbVnaqs1hSf\nZkrguXAR1lEl5rFtszE="
           },
           {
             "name": "CAPITULO 9",
-            "uri": "Fd7VYd+Xm/S6VMHJ32eqZrnPcQEbqzPwEDl8GR7eLw6lutkt9K/IgO7PwQKQJs5G"
+            "uri": "CVhonNz3u5W53amsW7NVrTy1jK+N4z8fHdngBRXZHvZs31ru5jeKazD+6iJkjnUuRHvpzeTVaf2M\nWINM0nouWifPuHuQphoW5Haknda4v0t8KrwImbtoJKVEWy7Jtht9yuvgnMVC3GaOmA80htOza271\nOrWv58FKVWyXLIdeCFg="
           },
           {
             "name": "CAPITULO 10",
-            "uri": "Fd7VYd+Xm/S6VMHJ32eqZrnPcQEbqzPwEDl8GR7eLw79KohOxPeXgk7V6ycWtOqo"
+            "uri": "q7b+0hmk/K6RCpXq/lWPM0KFVzq9xEChQ3whIgjvuOQ8pI/cwwWdCBzIJP2G95UaU/Oq5IM9rY9B\ngOftIyb6YmWwsP0qFIj8QhfND0kj0J1BXzer7gDKEfIotS6okL5CpO9XxhK6ECT/H2KPxxEr8KEx\n7MI1uE+zxQaaZB6YlVo="
           },
           {
             "name": "CAPITULO 11",
-            "uri": "Fd7VYd+Xm/S6VMHJ32eqZrnPcQEbqzPwEDl8GR7eLw5Q70bR4SEgXA5qhXk3dM4A"
+            "uri": "q7b+0hmk/K6RCpXq/lWPM0KFVzq9xEChQ3whIgjvuOQ8pI/cwwWdCBzIJP2G95Ua2sxDnFEn8639\nIn8CutYluIZo3TD7rNULkZsTzRtVt1QaC80P74or4zqB7e9CZoF/ak247QWdTp0HBt2xugFzX9jH\n3dG6hOvKgjFbzNs9gSE="
           },
           {
             "name": "CAPITULO 12",
-            "uri": "Fd7VYd+Xm/S6VMHJ32eqZrnPcQEbqzPwEDl8GR7eLw6gKokabCl2K03vtJwPoIgZ"
-          },
-          {
-            "name": "CAPITULO 13",
-            "uri": "Fd7VYd+Xm/S6VMHJ32eqZrnPcQEbqzPwEDl8GR7eLw5/9PfeIs4v1K6Mtl+HBocg"
-          },
-          {
-            "name": "CAPITULO 14",
-            "uri": "Fd7VYd+Xm/S6VMHJ32eqZrnPcQEbqzPwEDl8GR7eLw4PDZPcZY86o3hr8DCowYjI"
-          },
-          {
-            "name": "CAPITULO 15",
-            "uri": "Fd7VYd+Xm/S6VMHJ32eqZrnPcQEbqzPwEDl8GR7eLw4lNl3aSfGTLJ+u1xVPgKjI"
-          },
-          {
-            "name": "CAPITULO 16",
-            "uri": "Fd7VYd+Xm/S6VMHJ32eqZrnPcQEbqzPwEDl8GR7eLw4/c46Z81ANiLeVklPnISIv"
-          },
-          {
-            "name": "CAPITULO 17",
-            "uri": "Fd7VYd+Xm/S6VMHJ32eqZrnPcQEbqzPwEDl8GR7eLw7p2SAm3skvRAZRLXG8Nyk3"
-          },
-          {
-            "name": "CAPITULO 18",
-            "uri": "q7b+0hmk/K6RCpXq/lWPM0KFVzq9xEChQ3whIgjvuOQ8pI/cwwWdCBzIJP2G95Ua9Rv3LHmUXjEcBdWBO3PXA6s1/n+P8j6a9LstYGuF0CXEXHQUPc31RpiVRC6BdGg0EBIFWgUax7jC1ztICQlS5pvLjvMC9l6vfrvSAABJqMk="
-          },
-          {
-            "name": "CAPITULO 19",
-            "uri": "Fd7VYd+Xm/S6VMHJ32eqZrnPcQEbqzPwEDl8GR7eLw7Efcb+qqKqUF3KGsn9SCoS"
-          },
-          {
-            "name": "CAPITULO 20",
-            "uri": "Fd7VYd+Xm/S6VMHJ32eqZrnPcQEbqzPwEDl8GR7eLw6YDjpzHXlVDLWBV0HzPygR"
-          },
-          {
-            "name": "CAPITULO 21",
-            "uri": "Fd7VYd+Xm/S6VMHJ32eqZrnPcQEbqzPwEDl8GR7eLw41eoNOfxx+xt5uh0rdv7T2"
-          },
-          {
-            "name": "CAPITULO 22",
-            "uri": "Fd7VYd+Xm/S6VMHJ32eqZrnPcQEbqzPwEDl8GR7eLw5OnFDb/bNkV2wMSFEiaR+R"
-          },
-          {
-            "name": "CAPITULO 23",
-            "uri": "Fd7VYd+Xm/S6VMHJ32eqZrnPcQEbqzPwEDl8GR7eLw7v6l76iO/u2/ji67Vt3EjQ"
-          },
-          {
-            "name": "CAPITULO 24",
-            "uri": "Fd7VYd+Xm/S6VMHJ32eqZrnPcQEbqzPwEDl8GR7eLw4bl3d/u4GXbtPZlU62MGhn"
-          },
-          {
-            "name": "CAPITULO 25",
-            "uri": "87EPKu4J1ov2znxaviA1D6X/A6IWDW0folK5hZXWjIdn1khkif8vpfE9pSZks83/U9J7mSw9RXJWT3u33hRih47IipRbF7ubsCAEhxW0jpfQmnG5hQFNqdU3U1hu4tx7KVacMNVqcxzgQiPC84nvsLXemRYgUZ8GH+8qk9e8f/E="
-          },
-          {
-            "name": "CAPITULO 26",
-            "uri": "Fd7VYd+Xm/S6VMHJ32eqZrnPcQEbqzPwEDl8GR7eLw5AvphTUJUKI4McLcPJfgIi"
-          },
-          {
-            "name": "CAPITULO 27",
-            "uri": "Fd7VYd+Xm/S6VMHJ32eqZrnPcQEbqzPwEDl8GR7eLw5ZUGWT6NRDIBn39hI0GQvE"
-          },
-          {
-            "name": "CAPITULO 28",
-            "uri": "Fd7VYd+Xm/S6VMHJ32eqZrnPcQEbqzPwEDl8GR7eLw4IGghaOuBe0H67ym4kD/C0"
-          },
-          {
-            "name": "CAPITULO 29",
-            "uri": "CVhonNz3u5W53amsW7NVrTy1jK+N4z8fHdngBRXZHvZs31ru5jeKazD+6iJkjnUuw0FSu6e56EkmW7bTsGeVBtrwBgFeNbuNWYDm4Sj7bA8bh4yxaE4aCpfbmI/Ww3P2NQJHxw1j0GQBrmEZnxJnsv5wcmBwrus47DFf7FlF3G4="
-          },
-          {
-            "name": "CAPITULO 30",
-            "uri": "CVhonNz3u5W53amsW7NVrTy1jK+N4z8fHdngBRXZHvZs31ru5jeKazD+6iJkjnUu0LshqupWMEup4elFM9oH2Pyp/2yY6KCO3hwIU7SVjulUIZTveh1t90hQdhGElsy8RtnKz5J8DiMhrWX9QbbxeOnlwR2VctRLJKc0irXm4cw="
+            "uri": "CVhonNz3u5W53amsW7NVrTy1jK+N4z8fHdngBRXZHvZs31ru5jeKazD+6iJkjnUuVKIYxfLw6K08\nWhDzcmdAjAnFZoKHj5xsQHqnyK00bR3tb/idfFhEDt82SV1TAiAOnSZOXDrAzNOTeQU90V1y3YE5\nXotIQzwPtqS3httFELc="
           }
         ]
       },
@@ -17678,11 +17617,6 @@
         "uri": "DZBuj2t/1os0BNoYlHwt65iNDfUnmLF6Nh6pFhqrlXkvWUv/dQtQqq485KU/PxC+j4KaKH2YAFmG\nL+tQ8lxCGQ=="
       },
       {
-        "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/10/w1280/mPTzXksC8HcAj6EM6WjZFJVJEzF.jpg",
-        "name": "Black Adam",
-        "uri": "EyC6GGwicYe2173kOnxiAmHqsc8e0UvLibojieH8jX2PtflJ1qbbwB5vEV2cHH7sTjeepc/bOgzU\nGQa8bHtuDsp+CkeuC2a+Llmon6x9Kpz0twXCSKEY0rPZA05tVGbW"
-      },
-      {
         "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2016/4/w1280/jPPy7tCfglppQo6J9nGwU6UmJ8X.jpg",
         "name": "Capitan America: Guerra civil",
         "uri": "DZBuj2t/1os0BNoYlHwt65iNDfUnmLF6Nh6pFhqrlXlMdjncrjQcmeTxCXeH1vdJUN7JuTvqanhb\nhikKP/E4/MQE/S879OWki1e5XoHBI1Y="
@@ -17876,11 +17810,6 @@
         "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2016/12/w1280/il1B9mM7Cn9ccavnilzUGKL1xzQ.jpg",
         "name": "Resident evil 6: Capitulo final",
         "uri": "DZBuj2t/1os0BNoYlHwt65iNDfUnmLF6Nh6pFhqrlXnmMZI2rHi9wmrJBgurl+WLFibMeC1++V8Z\nNHLlT9y00D66hbQ2UraD+rfGlNTOf0t7A3pKdiAxOVX8HYWAZCib"
-      },
-      {
-        "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2007/12/w1280/pO1SrJgf5BumqcIRkYviSGIFdmX.jpg",
-        "name": "Soy leyenda",
-        "uri": "DZBuj2t/1os0BNoYlHwt65iNDfUnmLF6Nh6pFhqrlXkEeh/eGCS0/qxD0BxHGh8Lle6xD8+etqJuXTh9+aiHug=="
       },
       {
         "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2011/9/w1280/7tgdZEWljiTokgayEmL4SFQuAGu.jpg",
