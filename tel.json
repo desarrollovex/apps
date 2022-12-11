@@ -1332,7 +1332,7 @@
         "drm_license_url": "HCZtbqzut9luoVOjrMqam5s/6BXlssVkHouytKHc5Us670M3t5VQMwvyEMHJdA2L2gREJH3vKxN3fMtPFGgrpA=="
       },
       {
-        "icon": "http://static.dplay.tech/imagenes/uncrime.png",
+        "icon": "http://static.dplay.tech/imagenes/universalcinema.png",
         "name": "CINEMA",
         "drm_scheme": "clearkey",
         "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnXvqCOyrhUuWEEalf/TK/Bg5D/BHlp8MyR9zpve5X3f5Q==",
@@ -1412,14 +1412,14 @@
         "name": "TV CORTOS",
         "drm_scheme": "clearkey",
         "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnUN33X0BnMOMR1YQCYLBNeodUbAoNuPY79W8Daku2E2Eg==",
-        "drm_license_uri": "HCZtbqzut9luoVOjrMqam0OoGzKZPJJZmCEInlAVdecuLsv5tax4Zo3wrkiBIJlc"
+        "drm_license_uri": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apSxcdqVeBdgCfaz33TrVWivQGTbxoloDg5spSaUXjCLHA=="
       },
       {
         "icon": "https://lh3.googleusercontent.com/SsAK4Dcgn1ubVDqYhUYa3eQFzGBCNu-5-FqouCyCKoegXnJ_9Tbt9j99U67sW9idbNQ0",
         "name": "CINE LATINO",
-        "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnVzdh3CSo5a/I15QplHtSVPJLkw3EY8U8bKRrlJS5g2jA==",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apQiiAT5b9Yl65XA7SJSAOQWd/8f+22VBl8l3rmEe5JToA=="
+        "uri": "DYWBx5NsG5BY2GsUNzRm6+boc1eK/UJV6P3QtKE6smm4iTLHR/9Z+BPhxxVyJw140LWcXTAfL/wRMR4QBL3RDg==",
+        "drm_license_uri": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apQdacmJNG4KjhOoCe+FnqJ53v+c+Vq1wOsRGiZ8M8NlPg=="
       },
       {
         "icon": "https://static.flow.com.ar/images/267/CH_LOGO/350/500/0/0/75126015073445.png",
