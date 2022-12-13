@@ -980,8 +980,10 @@
     "lista": [
       {
         "icon": "https://i.imgur.com/lW2O5oP.jpg",
-        "name": "evento Latina",
-        "uri": "/0Us8JNw1nrYsbJpWn6AM4DYolrrhf1JTEzwC00RzxYH4pFYLthazRyXiEjiSi88"
+        "name": "evento EC",
+        "uri": "jwjdtN1vPAWPglxaqI7tf9hwuDqRqlRpJwcE5Q5uTuw9MvGV661JrOAeuuRrhT0E1RkQzpqmEAx+\nHG3mWH/18knyxHfvzLfDXzBfsl6ZGhu+dnfqdstkJXp4rhUXz2v1SimMXpNXgROmMBHzjDALEQ==",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apRMUV2ufsJ9dZVlP/pesS64W6B3hqQo2EdfHjTWUdTmtw=="
       },
       {
         "icon": "https://i.imgur.com/lW2O5oP.jpg",
@@ -994,7 +996,7 @@
         "icon": "https://i.imgur.com/lW2O5oP.jpg",
         "name": "evento 2",
         "drm_scheme": "clearkey",
-        "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnUIEtq6y9PdD52OFlQgB9RM7udpC+aUNe5pRXVBmQq10Q==",
+        "uri": "DYWBx5NsG5BY2GsUNzRm6+boc1eK/UJV6P3QtKE6smkSJC+frttzQQobh7Zygv4AmKPeyeVdi+KsrKrWmpR6/A==",
         "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apTh9TQflaU6rJy/I0DEFAM5nMPDVuj1dZq/nkbiYvQZ3Q=="
       },
       {
