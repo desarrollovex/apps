@@ -980,6 +980,13 @@
     "lista": [
       {
         "icon": "https://i.imgur.com/lW2O5oP.jpg",
+        "name": "CHILEVISION",
+        "uri": "PwuDTb0e3u0Ac39lUoMrertabMP9Hg8dvPxrJy8YvXT7HNs6d1fCNtzwKvkki7k4SY5mYIrJnZbd46GYr8mwHg==",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apQU+TlbGTMyx66ouO1Krs1bHMLdmoEdJkfWEkGnmFEulw=="
+      },
+      {
+        "icon": "https://i.imgur.com/lW2O5oP.jpg",
         "name": "TELEFUTURO PY",
         "uri": "jwjdtN1vPAWPglxaqI7tf9hwuDqRqlRpJwcE5Q5uTuw9MvGV661JrOAeuuRrhT0E1RkQzpqmEAx+HG3mWH/18knyxHfvzLfDXzBfsl6ZGhu+dnfqdstkJXp4rhUXz2v1SimMXpNXgROmMBHzjDALEQ==",
         "drm_scheme": "clearkey",
