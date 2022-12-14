@@ -1040,6 +1040,11 @@
         "drm_license_url": "HCZtbqzut9luoVOjrMqam5s/6BXlssVkHouytKHc5UshYLj8eMQi8AnbqxKoXmlYrrn5g8wFsvatYKLR1jlLZw=="
       },
       {
+        "icon": "https://static.flow.com.ar/images/74/CH_LOGO/350/500/0/0/78711436072355.png",
+        "name": "TyC sport 3",
+        "uri": "YZ2Ept/tDihRiRVoHHxXmdNBQkafqKcNpkp8FXNVqZliqAwreQ4XA6/b5HOpEUMSL9A4RH0TccqT7Hjwnvb1kg=="
+      },
+      {
         "icon": "https://play-lh.googleusercontent.com/wlZ5OQY1to32eYujOSoRD3dYF0vX7beMWHUCWcU6Wr5_xFt8KK-LXz4HvQmYR9L0SCA",
         "name": "TUDN 1",
         "drm_scheme": "clearkey",
@@ -1080,6 +1085,13 @@
     "name": "CANALES INFANTILES",
     "mode": false,
     "lista": [
+      {
+        "icon": "https://static.flow.com.ar/images/266/CH_LOGO/60/40/350/500/31155375074343.png",
+        "name": "DreamWorks",
+        "drm_scheme": "clearkey",
+        "uri": "CNkMxdKH7X9uRVUdhgCc1QWy1D0rx8JQT2eQYfbpuzbq8V5l6bGdptzh+6wz5viLt9ofiiOPDGve8xGwXq6QPDRE1kbZt+5P+aKRN+CBPi8=",
+        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apRAuP9MBnj+CUIKP9JbZpuFrDvPhBDUb7p5JoPh1JJ+1w=="
+      },
       {
         "icon": "https://static.flow.com.ar/images/266/CH_LOGO/60/40/350/500/31155375074343.png",
         "name": "CARTOONITO",
