@@ -1201,15 +1201,15 @@
       {
         "icon": "https://www.m3u.cl/logo/1019_Latino_Kids_TV.png",
         "name": "LATINO KIDS",
-        "uri": "UhqpWSq8+5v9J/Iv0iqIStO95/5pnm5fYZ2CHwOBUhXwGp7Tq/IWXvjYlkBC5UsZton8dhQMwZcrxfbucnoysyoHjPDPxrZ2nx6naMdrKw/dG938RBZc+4Cc4d5jiExj"
+        "uri": "AOLqpr59v0CwTaJSWHJQ/L/A4APz4+nn1jpbAVV2+tS8f91EESSGUTbKCqsrkmQLVlbWfbrcNuZxmV1QKjt+zC4RheGfPoP+JmKMJzDLcTr+c9jdPQYJx7W6NGkw/BCy"
       },
       {
-        "icon": "https://i.imgur.com/Uu8dciU.png",
+        "icon": "https://i.paste.pics/ce984f387406cae7054d62a29405427e.png",
         "name": "MAGIC RETRO",
-        "uri": "KgpzPYScN9dvsBphTleEHRmQVupJbMsyM7A3jKgbm+Ny1cT4BaWrfiP0IzfWG/p+wOFgBfyYXIpFuxNZ0CcA9znIt8mVooKg/4xd8NYBUr85bn0DaqPi6uvlebwttjDa"
+        "uri": "E+p2D/c4Tz9H2lGrfORPYf1+n3dKi6Cb/evPFfSKJ9zsO3dMM8KOujYJ+R6Sf7PifRDyafwFA/01YM72WbTJKA=="
       },
       {
-        "icon": "https://i.imgur.com/B7odp7O.png",
+        "icon": "https://i.paste.pics/ce984f387406cae7054d62a29405427e.png",
         "name": "MAGIC RETRO",
         "uri": "bFs+dsm6AwiAaA//kk0zbheUPp6MOTPbF8qxAmM7fJMDBFkiTSOuVzcO4sXC4/eAT609olQ4CsvWbIJOz4kf/A=="
       },
@@ -1366,16 +1366,16 @@
       {
         "icon": "http://static.dplay.tech/imagenes/tvcortoslog.png",
         "name": "TV CORTOS",
-        "drm_scheme": "clearkey",
         "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnUN33X0BnMOMR1YQCYLBNeodUbAoNuPY79W8Daku2E2Eg==",
-        "drm_license_uri": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apSxcdqVeBdgCfaz33TrVWivQGTbxoloDg5spSaUXjCLHA=="
+        "drm_license_uri": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apSxcdqVeBdgCfaz33TrVWivQGTbxoloDg5spSaUXjCLHA==",
+        "drm_scheme": "clearkey"
       },
       {
         "icon": "https://lh3.googleusercontent.com/SsAK4Dcgn1ubVDqYhUYa3eQFzGBCNu-5-FqouCyCKoegXnJ_9Tbt9j99U67sW9idbNQ0",
         "name": "CINE LATINO",
-        "drm_scheme": "clearkey",
         "uri": "DYWBx5NsG5BY2GsUNzRm6+boc1eK/UJV6P3QtKE6smm4iTLHR/9Z+BPhxxVyJw140LWcXTAfL/wRMR4QBL3RDg==",
-        "drm_license_uri": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apQdacmJNG4KjhOoCe+FnqJ53v+c+Vq1wOsRGiZ8M8NlPg=="
+        "drm_license_uri": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apQdacmJNG4KjhOoCe+FnqJ53v+c+Vq1wOsRGiZ8M8NlPg==",
+        "drm_scheme": "clearkey"
       },
       {
         "icon": "https://static.flow.com.ar/images/267/CH_LOGO/350/500/0/0/75126015073445.png",
@@ -2857,7 +2857,12 @@
     "lista": [
       {
         "icon": "https://static.flow.com.ar/images/861/CH_LOGO/350/500/0/0/1187688407114.png",
-        "name": "PLAY BOY",
+        "name": "PLAY BOY 1",
+        "uri": "RyBkkPD8V+pQRpxY3Rn7hQ1xhno+vGsVC2ZpBn9gV6QLSUSi8YD2RGXrZkf4RNBI"
+      },
+      {
+        "icon": "https://static.flow.com.ar/images/861/CH_LOGO/350/500/0/0/1187688407114.png",
+        "name": "PLAY BOY 2",
         "uri": "jIhFDeEN4aTjm6bBhemFpeUAWhIcWnPmsqR2Q2pPvpxMssQZiiOEwlrt0jt8DGzy"
       },
       {
