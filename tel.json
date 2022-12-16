@@ -1,6 +1,6 @@
 [
   {
-    "name": "ARGENTINA",
+    "name": "Argentina",
     "mode": false,
     "lista": [
       {
@@ -1257,8 +1257,8 @@
         "icon": "https://static.wikia.nocookie.net/logopedia/images/2/2b/BitMe.png/revision/latest/scale-to-width-down/1200?cb=20200123215611&path-prefix=es",
         "name": "BIT ME",
         "drm_scheme": "clearkey",
-        "uri": "GC2/ddPzLVut0fvk2/wB4kZrUJ2WFh7TEFusWZsnfjvL02Gt1l2/339fmARgiJ+2",
-        "drm_license_uri": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apQiiAT5b9Yl65XA7SJSAOQWd/8f+22VBl8l3rmEe5JToA=="
+        "uri": "kDJWeMQMsWWNqyw2I4pc8M6iQegUBbcC1svJI2fXUN4YIsYRKqlejG1Yvf/XDrRTBw6yfF6boHLt\nBppI/qcl/w==",
+        "drm_license_uri": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apTWeMDoDCB2mTdI07inUvOYGktfZPzgK5CO\n7ljQbOMzJg=="
       }
     ]
   },
@@ -1366,12 +1366,12 @@
       {
         "icon": "http://static.dplay.tech/imagenes/tvcortoslog.png",
         "name": "TV CORTOS",
+        "drm_scheme": "clearkey",
         "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnUN33X0BnMOMR1YQCYLBNeodUbAoNuPY79W8Daku2E2Eg==",
-        "drm_license_uri": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apSxcdqVeBdgCfaz33TrVWivQGTbxoloDg5spSaUXjCLHA==",
-        "drm_scheme": "clearkey"
+        "drm_license_uri": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apSxcdqVeBdgCfaz33TrVWivQGTbxoloDg5spSaUXjCLHA=="
       },
       {
-        "icon": "https://lh3.googleusercontent.com/SsAK4Dcgn1ubVDqYhUYa3eQFzGBCNu-5-FqouCyCKoegXnJ_9Tbt9j99U67sW9idbNQ0",
+        "icon": "http://static.dplay.tech/imagenes/cnlatin.png",
         "name": "CINE LATINO",
         "uri": "DYWBx5NsG5BY2GsUNzRm6+boc1eK/UJV6P3QtKE6smm4iTLHR/9Z+BPhxxVyJw140LWcXTAfL/wRMR4QBL3RDg==",
         "drm_license_uri": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apQdacmJNG4KjhOoCe+FnqJ53v+c+Vq1wOsRGiZ8M8NlPg==",
