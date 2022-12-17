@@ -1258,7 +1258,7 @@
         "name": "BIT ME",
         "drm_scheme": "clearkey",
         "uri": "kDJWeMQMsWWNqyw2I4pc8M6iQegUBbcC1svJI2fXUN4YIsYRKqlejG1Yvf/XDrRTBw6yfF6boHLt\nBppI/qcl/w==",
-        "drm_license_uri": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apTWeMDoDCB2mTdI07inUvOYGktfZPzgK5CO\n7ljQbOMzJg=="
+        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apTWeMDoDCB2mTdI07inUvOYGktfZPzgK5CO\n7ljQbOMzJg=="
       }
     ]
   },
@@ -2435,7 +2435,7 @@
         "name": "Smithsonian Channel",
         "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnVzdh3CSo5a/I15QplHtSVPJLkw3EY8U8bKRrlJS5g2jA==",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apRTobWZX3MOz7QoRX2pfIoe3K2KFkqXe9t0cTOPIxCKNg=="
+        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apRTobWZX3MOz7QoRX2pfIoe3K2KFkqXe9t0cTOPIxCKNg=="
       },
       {
         "icon": "https://static.flow.com.ar/images/670/CH_LOGO/350/500/0/0/74835190079.png",
@@ -2470,21 +2470,21 @@
         "name": "ON DIRECTV",
         "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnX7/SqT58b7YDx+OBYnsBzcM7j8nrdTNYpKG+2JIM95PQ==",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apSyL6AyARQ9zbLwuA/gOnliUDuI2FAONg9xQ7SsWDAgzw=="
+        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apSyL6AyARQ9zbLwuA/gOnliUDuI2FAONg9xQ7SsWDAgzw=="
       },
       {
         "icon": "https://static.flow.com.ar/images/667/CH_LOGO/350/500/0/0/846786600758.png",
         "name": "CANAL A",
         "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnUNsEtM3yXC+SFsVKGO/UFHwgDo0M8B7pNy2lljL6rsgw==",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "HCZtbqzut9luoVOjrMqam/oQslUOOxqDfb0I0JXgSi7z0oKNd0qUtUxj4Ptflvl/"
+        "drm_license_url": "HCZtbqzut9luoVOjrMqam/oQslUOOxqDfb0I0JXgSi7z0oKNd0qUtUxj4Ptflvl/"
       },
       {
         "icon": "https://static.dplay.tech/imagenes/ivc.png",
         "name": "IVC",
         "uri": "DYWBx5NsG5BY2GsUNzRm6+boc1eK/UJV6P3QtKE6smmmuECoBwKaUk2n+ia/C6ZNFr+yRDYE3bwTaCvh6fuAuw==",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "HCZtbqzut9luoVOjrMqam0BWMcd9lMXmvP8Dm8HsVLuiFrxN9itToxuuFxOaJIlZ"
+        "drm_license_url": "HCZtbqzut9luoVOjrMqam0BWMcd9lMXmvP8Dm8HsVLuiFrxN9itToxuuFxOaJIlZ"
       },
       {
         "icon": "https://static.flow.com.ar/images/1254/CH_LOGO/350/500/0/0/6858782907349.png",
@@ -2855,6 +2855,13 @@
     "name": "ADULTOS XXX 18+",
     "mode": false,
     "lista": [
+      {
+        "icon": "https://static.flow.com.ar/images/861/CH_LOGO/350/500/0/0/1187688407114.png",
+        "name": "PRUEBA",
+        "drm_scheme": "clearkey",
+        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4wBz8NK1X5vYrLFV67JSbh2LolF6AumA7Yi2nnl+gRvBYWFKQKw3cLLjbauuAEiBtQ=",
+        "drm_license_url": "HCZtbqzut9luoVOjrMqam6Ky1kchFqMH9BBXkRX2LB0OUtUtKaNvruwzGeK2iKGN"
+      },
       {
         "icon": "https://static.flow.com.ar/images/861/CH_LOGO/350/500/0/0/1187688407114.png",
         "name": "PLAY BOY 1",
