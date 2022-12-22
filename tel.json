@@ -1,6 +1,6 @@
 [
   {
-    "name": "Argetina",
+    "name": "ARGENTINA",
     "mode": false,
     "lista": [
       {
@@ -1365,10 +1365,17 @@
     "lista": [
       {
         "icon": "http://static.dplay.tech/imagenes/tvcortoslog.png",
-        "name": "TV CORTOS",
+        "name": "PRUEBA",
         "drm_scheme": "clearkey",
-        "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnUN33X0BnMOMR1YQCYLBNeodUbAoNuPY79W8Daku2E2Eg==",
-        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apSxcdqVeBdgCfaz33TrVWivQGTbxoloDg5spSaUXjCLHA=="
+        "uri": "4qFRMICW81DXHJ7N/R+0vFoW9SCAZ3Mil0UIXRs2jyBI0IZD49sv2ZGCEkS5Tp5SP50opSm/l+/FgTrZ0lLQzw==",
+        "drm_license_url": "3tj67CFqvzW/8LrmJtjANKnu6qfI9M3NWRxk+EvP4yw6KysWwZH1iFGBEk0MpXaw1X3N6obU5idc3cjU8w9HZ4dtBrzhWM38gn5pMJKU78k="
+      },
+      {
+        "icon": "http://static.dplay.tech/imagenes/tvcortoslog.png",
+        "name": "PRUEBA",
+        "drm_scheme": "clearkey",
+        "uri": "4qFRMICW81DXHJ7N/R+0vFoW9SCAZ3Mil0UIXRs2jyBI0IZD49sv2ZGCEkS5Tp5SM7mt6pYcPcVacsN1TkS5azOJ8ZxMwfd8j9w8S8fciNk=",
+        "drm_license_url": "3tj67CFqvzW/8LrmJtjANKnu6qfI9M3NWRxk+EvP4yw6KysWwZH1iFGBEk0MpXaw1X3N6obU5idc3cjU8w9HZ4dtBrzhWM38gn5pMJKU78k="
       },
       {
         "icon": "http://static.dplay.tech/imagenes/tvcortoslog.png",
