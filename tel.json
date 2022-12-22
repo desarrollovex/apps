@@ -1367,14 +1367,14 @@
         "icon": "http://static.dplay.tech/imagenes/tvcortoslog.png",
         "name": "PRUEBA",
         "drm_scheme": "clearkey",
-        "uri": "dX/xn76bO2qtw+qwN9cDSJQmOmSMNqn2R9e8x0VHtyBa5Fy/8V9Ii21VO+pZqDIVallSQLC8yo04OP7JG3Bno2OuaGftrhGbU663y2LGtfLDT1MGpcioJQNk5lJerWe9UjmyDzzvlChuJjNy6GIgpYHi0aXZxIDsjfuRe8s9+P9bxvjDSCb15zHjIytrjPXUAucYG9LnPSqzlI4ni8dLgA==",
+        "url": "dX/xn76bO2qtw+qwN9cDSJQmOmSMNqn2R9e8x0VHtyBa5Fy/8V9Ii21VO+pZqDIVallSQLC8yo04OP7JG3Bno2OuaGftrhGbU663y2LGtfLDT1MGpcioJQNk5lJerWe9UjmyDzzvlChuJjNy6GIgpYHi0aXZxIDsjfuRe8s9+P9bxvjDSCb15zHjIytrjPXUAucYG9LnPSqzlI4ni8dLgA==",
         "drm_license_url": "3tj67CFqvzW/8LrmJtjANKnu6qfI9M3NWRxk+EvP4yw6KysWwZH1iFGBEk0MpXaw1X3N6obU5idc3cjU8w9HZ4dtBrzhWM38gn5pMJKU78k="
       },
       {
         "icon": "https://brandeps.com/logo-download/C/Cinema+-logo-vector-01.svg",
         "name": "CINEMA+",
         "drm_scheme": "clearkey",
-        "uri": "cS0t9QZwdGHQ/vPkBNg2+B2Owau1t0kUDfheOj3L5ZRx7XK7SJxM/s09xcxBgmRUWWprbgl8MgGV4kAioIG1bDxuWzYM3ZGxxkthpXpDHv8HztqB5wR1GwZ5Rhzo1u8IRfPzKuyaf9u4UW2vrsyrJA==",
+        "url": "cS0t9QZwdGHQ/vPkBNg2+B2Owau1t0kUDfheOj3L5ZRx7XK7SJxM/s09xcxBgmRUWWprbgl8MgGV4kAioIG1bDxuWzYM3ZGxxkthpXpDHv8HztqB5wR1GwZ5Rhzo1u8IRfPzKuyaf9u4UW2vrsyrJA==",
         "drm_license_url": "3tj67CFqvzW/8LrmJtjANKnu6qfI9M3NWRxk+EvP4yw6KysWwZH1iFGBEk0MpXawZKBodX7pTmYVnKBrAyJuDrImmDaMKEAEReK7CO7GMxY="
       },
       {
@@ -3133,6 +3133,11 @@
     "name": "RADIOS",
     "mode": false,
     "lista": [
+      {
+        "icon": "https://raw.githubusercontent.com/nfreeargentina/nfree/master/WhatsApp%20Image%202022-12-21%20at%2012.28.18.jpeg",
+        "name": "NORTE CATRIL",
+        "uri": "pQQmoB3p43EgmkgG9vkzMT520+Ly/vRF36oVv7SE6+x0U4gY6doDaSzNsdTPj7Cu73VxP8MPwssCMvdgKzwPJ1ZVceXuoHxDwIQ3/v9L6jg="
+      },
       {
         "icon": "https://www.cxradio.com.br/img/Radio/Logo/fc9056d5c859240d365bcf5945601e9b.webp",
         "name": "105.1 VIDA",
