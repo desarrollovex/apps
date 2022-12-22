@@ -1365,20 +1365,6 @@
     "lista": [
       {
         "icon": "http://static.dplay.tech/imagenes/tvcortoslog.png",
-        "name": "PRUEBA",
-        "drm_scheme": "clearkey",
-        "url": "dX/xn76bO2qtw+qwN9cDSJQmOmSMNqn2R9e8x0VHtyBa5Fy/8V9Ii21VO+pZqDIVallSQLC8yo04OP7JG3Bno2OuaGftrhGbU663y2LGtfLDT1MGpcioJQNk5lJerWe9UjmyDzzvlChuJjNy6GIgpYHi0aXZxIDsjfuRe8s9+P9bxvjDSCb15zHjIytrjPXUAucYG9LnPSqzlI4ni8dLgA==",
-        "drm_license_url": "3tj67CFqvzW/8LrmJtjANKnu6qfI9M3NWRxk+EvP4yw6KysWwZH1iFGBEk0MpXaw1X3N6obU5idc3cjU8w9HZ4dtBrzhWM38gn5pMJKU78k="
-      },
-      {
-        "icon": "https://brandeps.com/logo-download/C/Cinema+-logo-vector-01.svg",
-        "name": "CINEMA+",
-        "drm_scheme": "clearkey",
-        "url": "cS0t9QZwdGHQ/vPkBNg2+B2Owau1t0kUDfheOj3L5ZRx7XK7SJxM/s09xcxBgmRUWWprbgl8MgGV4kAioIG1bDxuWzYM3ZGxxkthpXpDHv8HztqB5wR1GwZ5Rhzo1u8IRfPzKuyaf9u4UW2vrsyrJA==",
-        "drm_license_url": "3tj67CFqvzW/8LrmJtjANKnu6qfI9M3NWRxk+EvP4yw6KysWwZH1iFGBEk0MpXawZKBodX7pTmYVnKBrAyJuDrImmDaMKEAEReK7CO7GMxY="
-      },
-      {
-        "icon": "http://static.dplay.tech/imagenes/tvcortoslog.png",
         "name": "TV CORTOS",
         "drm_scheme": "clearkey",
         "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnUN33X0BnMOMR1YQCYLBNeodUbAoNuPY79W8Daku2E2Eg==",
