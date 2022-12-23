@@ -1,6 +1,6 @@
 [
   {
-    "name": "ARG",
+    "name": "ARGENTINA",
     "mode": false,
     "lista": [
       {
@@ -750,25 +750,6 @@
     "name": "DEPORTIVOS",
     "mode": false,
     "lista": [
-      {
-        "icon": "https://librefutboltv.com/favicon/android-icon-192x192.png",
-        "name": "PRUEBA 1",
-        "drm_scheme": "clearkey",
-        "uri": "SisED6PsGrQjYOt26M/tvtTpVg21tA09UrHaxZG5DidCKhgvWR4NIHzDp7VO2OTYj+Im5qLScQMN\n45shdPsUu9CB++B5waTXafKzvsqEz9m4h8rXzXavIgrgw0A4fiwFsZnYuWWRLhvq4bmEK5TlimP7\nrqvTudqgwm8ucdrPpy/FBIlK676KXDSPw1yWtfSDntgCgB1/VGSAGYs6i168WRcEVC5sNb8aPlDN\n1zvgx78=",
-        "drm_license_url": "AeVlQP4/BP+XXiwiWbbvup205IP7nGlG/4VoFwF78W4aO8e+duLmIJmXIVI8HmFmtqpd5jIBnls3SlqTsxWa7g=="
-      },
-      {
-        "icon": "https://librefutboltv.com/favicon/android-icon-192x192.png",
-        "name": "PRUEBA 2",
-        "drm_scheme": "clearkey",
-        "uri": "SisED6PsGrQjYOt26M/tvtTpVg21tA09UrHaxZG5DidCKhgvWR4NIHzDp7VO2OTYj+Im5qLScQMN\n45shdPsUu9CB++B5waTXafKzvsqEz9m4h8rXzXavIgrgw0A4fiwFsZnYuWWRLhvq4bmEK5TlimP7\nrqvTudqgwm8ucdrPpy9I9stfYyRh7CCPyW07KOcvUQbtm5IqLbjrjXhAfDBbUA==",
-        "drm_license_url": "AeVlQP4/BP+XXiwiWbbvup205IP7nGlG/4VoFwF78W4aO8e+duLmIJmXIVI8HmFmtqpd5jIBnls3SlqTsxWa7g=="
-      },
-      {
-        "icon": "https://librefutboltv.com/favicon/android-icon-192x192.png",
-        "name": "PRUEBA 3",
-        "uri": "/hNZGOSAle/Tbk1LvowvoMmSRL6oyCmBQ+GopMYrNX/rDOUGjV1C2DmztGDUFY72xgiwGZLwNbmE\n+sYOl5xRPJzwUCuVgZeRI+Wmvb9fvcXQJOcmIM3Cd+jcqpKZVKI7kC+5eOXjXEmAS4DHdQDt8ZmX\ndbaI6fMraLp0xslv9ZJHJBlEVEy5btPC9KPCuNjVHwPchsAfDI+WsNw//g87QQvpodwc2h/aPkhM\nvbXbSoIRZ0iZocU36+MA/QdF7+wwinhDbsJL/K6IrHwtSBTRgyZw7Ld88ggEjKliu5be3UrDrFs7\nFCqPPiNxKnWhUV4LCJZg9eV32bOXJWd+UjTgaj80KqvJmzZOjGUXjOX9cmgH5IibZAKwdvylNU4V\ncahf4MjqGy3xbMcJKGaxXyelYQkMiUy9lU2jkLLJ1AD4JgBB9O77aWBSyPsnDfRU1XmjddC+Clrr\nSA/oZlSuuGMfqgB1SiDyFBQM6We4bRm/5oNC3rPAqWs0lnrk9iH4rlJPmtb5H041o18ngUUkA1vi\nYyG7oEh7wRCLHxzAVweI1WkD31hUkt0f3JSpsJXyx4o/e8GU1proozJnbj8qKd0GfQ=="
-      },
       {
         "icon": "https://megatelevisionhd.com/img/ecdf2.png",
         "name": "ECDF",
