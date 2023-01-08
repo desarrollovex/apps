@@ -650,11 +650,9 @@
     "mode": false,
     "lista": [
       {
-        "icon": "http://static.dplay.tech/imagenes/dtv1.png?",
-        "name": "DIRECTV SPORT URUGUAY",
-        "drm_scheme": "clearkey",
-        "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnXvYh/EGFelZ+CW1MVbSJyNmDms4FHJ0fALQmI4aB5+Vg==",
-        "drm_license_url": "HCZtbqzut9luoVOjrMqam/oQslUOOxqDfb0I0JXgSi68taO1dxVTX1ckkrnZe/RD"
+        "icon": "https://i.imgur.com/siub2Js.jpg",
+        "name": "Star+ 1",
+        "uri": "9h7+JngYB6NYrvnr44uzeqBWdQAVa3t/LauePc6/pXhVCbeZVNNtSmlU3I8gtga7guts6uPXg95YTOf8D8/wtvsE/CJFfhQ1pnQ2TMjRuqlCs/54+IW8sdOMQBqkMo/b"
       },
       {
         "icon": "https://www.directv.com.uy/content/dam/public-sites/channels/610.png",
